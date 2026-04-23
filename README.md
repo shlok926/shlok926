@@ -1,8 +1,11 @@
 <h1 align="center">Shlok Thorat</h1>
-<h3 align="center">🔐 Cyber Security × 🤖 AI × ⚛️ Quantum</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=AI+%2B+Cyber+Security+Builder;Quantum+Curious+Engineer;Building+Real+World+Systems;Startup+Driven+Mindset&center=true&width=520&height=45" alt="Typing SVG">
+  🔐 Cyber Security × 🤖 AI × ⚛️ Quantum
+</p>
+
+<p align="center">
+  Building real-world AI & cybersecurity systems
 </p>
 
 ---
@@ -10,7 +13,7 @@
 ## Who Am I?
 
 I’m a **Cyber Security & AI builder** exploring the frontiers where advanced technologies intersect. 
-# 💫 About Me:
+
 I build at the intersection of **Cyber Security, Artificial Intelligence, and Quantum Computing**.
 
 I’m currently working on AI-powered cybersecurity systems and real-world intelligent tools.
@@ -35,9 +38,3 @@ Ask me about AI + Cyber Security, system design, and building impactful tech pro
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-## My Focus Areas
-
-```text
-AI for Security        █████████░░░
-Cyber Defense Systems  ██████████░░
-Quantum Computing      ██████░░░░░░
