@@ -1,5 +1,5 @@
 <h1 align="center">Shlok Thorat</h1>
-<h3 align="center">Cyber Security × AI × Quantum</h3>
+<h3 align="center">🔐 Cyber Security × 🤖 AI × ⚛️ Quantum</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=AI+%2B+Cyber+Security+Builder;Quantum+Curious+Engineer;Building+Real+World+Systems;Startup+Driven+Mindset&center=true&width=520&height=45" alt="Typing SVG">
