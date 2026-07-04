@@ -8,6 +8,10 @@
   Building real-world AI & cybersecurity systems
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=shlok926&label=Profile%20views&color=0e75b6&style=flat" alt="shlok926" />
+</p>
+
 ---
 
 ## Who Am I?
