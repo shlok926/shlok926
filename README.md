@@ -67,6 +67,8 @@ I build at the intersection of **Cyber Security, Artificial Intelligence, and Qu
 <p align="center">
   <img src="https://github-readme-stats-fast.vercel.app/api?username=shlok926&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
   <br/><br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shlok926&theme=dark" alt="GitHub Streak Stats" />
+  <br/><br/>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=shlok926&theme=react-dark" alt="Activity Graph" />
   <br/><br/>
   <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=shlok926&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
