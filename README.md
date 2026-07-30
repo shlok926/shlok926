@@ -28,6 +28,36 @@ I build at the intersection of **Cyber Security, Artificial Intelligence, and Qu
 <br/>
 
 ## 🌐 Socials:
+<h1 align="center">Shlok Thorat</h1>
+
+<p align="center">
+  🔐 Cyber Security × 🤖 AI × ⚛️ Quantum
+</p>
+
+<p align="center">
+  Building real-world AI & cybersecurity systems
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=shlok926&label=Profile%20views&color=0e75b6&style=flat" alt="shlok926" />
+</p>
+
+---
+
+## 👨‍💻 Who Am I?
+
+I’m a **Cyber Security & AI builder** exploring the frontiers where advanced technologies intersect. 
+
+I build at the intersection of **Cyber Security, Artificial Intelligence, and Quantum Computing**.
+
+* **I’m currently working on:** AI-powered cybersecurity systems, Post-Quantum Cryptography (PQC), and Quantum-safe trackers.
+* **I’m currently learning:** Advanced Quantum Computing, PQC algorithms, and modern Cyber Security tools.
+* **I’m looking to collaborate on:** AI, Quantum Cryptography, Cyber Security, and startup-driven projects.
+* **Ask me about:** AI + Cyber Security, Post-Quantum Cryptography (PQC), system design, and building impactful tech projects.
+
+<br/>
+
+## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shlok-thorat-39916a405/) [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:Shlok.thorat.cyb@ghrcem.rasioni.net) 
 
 ## 💻 Tech Stack:
@@ -35,11 +65,11 @@ I build at the intersection of **Cyber Security, Artificial Intelligence, and Qu
 
 ## 📊 GitHub Stats:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shlok926&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=shlok926&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
   <br/><br/>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=shlok926&theme=react-dark" alt="Activity Graph" />
   <br/><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shlok926&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=shlok926&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
 </p>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
