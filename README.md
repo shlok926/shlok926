@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  Building real-world AI and cybersecurity systems
+  Building real-world AI & cybersecurity systems
 </p>
 
 <p align="center">
@@ -14,7 +14,7 @@
 
 ---
 
-## 👨‍💻 Who Am I?
+##  Who Am I?
 
 I’m a **Cyber Security & AI builder** exploring the frontiers where advanced technologies intersect. 
 
