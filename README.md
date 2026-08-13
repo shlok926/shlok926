@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  Building real-world AI & cybersecurity systems
+  Building real-world AI and cybersecurity systems
 </p>
 
 <p align="center">
