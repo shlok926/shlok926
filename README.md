@@ -1,7 +1,7 @@
 <h1 align="center">Shlok Thorat</h1>
 
 <p align="center">
-  🔐 Cyber Security × 🤖 AI × ⚛️ Quantum
+  🔐 Cyber Security × AI × ⚛️ Quantum
 </p>
 
 <p align="center">
