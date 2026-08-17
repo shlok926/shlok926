@@ -16,7 +16,7 @@
 
 ##  Who Am I?
 
-I’m a **Cyber Security & AI builder** exploring the frontiers where advanced technologies intersect. 
+I’m a **Cyber Security and AI builder** exploring the frontiers where advanced technologies intersect. 
 
 I build at the intersection of **Cyber Security, Artificial Intelligence, and Quantum Computing**.
 
