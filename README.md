@@ -18,7 +18,7 @@
 
 I’m a **Cyber Security and AI builder** exploring the frontiers where advanced technologies intersect. 
 
-I build at the intersection of **Cyber Security, Artificial Intelligence, and Quantum Computing**.
+I build at the intersection of **Cyber Security, Artificial Intelligence, and Quantum**.
 
 * **I’m currently working on:** AI-powered cybersecurity systems, Post-Quantum Cryptography (PQC), and Quantum-safe trackers.
 * **I’m currently learning:** Advanced Quantum Computing, PQC algorithms, and modern Cyber Security tools.
