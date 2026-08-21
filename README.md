@@ -23,7 +23,7 @@ I build at the intersection of **Cyber Security, Artificial Intelligence, and Qu
 * **I’m currently working on:** AI-powered cybersecurity systems, Post-Quantum Cryptography (PQC), and Quantum-safe trackers.
 * **I’m currently learning:** Advanced Quantum Computing, PQC algorithms, and modern Cyber Security tools.
 * **I’m looking to collaborate on:** AI, Quantum Cryptography, Cyber Security, and startup-driven projects.
-* **Ask me about:** AI + Cyber Security, Post-Quantum Cryptography (PQC), system design, and building impactful tech projects.
+* **Ask me about:** AI + Cyber Security, Post-Quantum Cryptography, system design, and building impactful tech projects.
 
 <br/>
 
