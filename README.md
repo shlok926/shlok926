@@ -39,11 +39,7 @@ I build at the intersection of **Cyber Security, Artificial Intelligence, and Qu
   <br/><br/>
   <img src="https://github-readme-streak-stats-ashy.vercel.app/?user=shlok926&theme=dark&v=1" alt="GitHub Streak Stats" />
   <br/><br/>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shlok926/shlok926/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/shlok926/shlok926/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/shlok926/shlok926/output/github-contribution-grid-snake.svg">
-  </picture>
+  <img src="https://raw.githubusercontent.com/shlok926/shlok926/main/github-contribution-activity-graph.svg" alt="Activity Graph" />
   <br/><br/>
   <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=shlok926&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
 </p>
