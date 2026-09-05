@@ -1,7 +1,9 @@
+import urllib.request
+import xml.etree.ElementTree as ET
 import re
 import random
 
-# A curated list of quotes related to Cyber Security, AI, Tech, and Motivation
+# Curated list of quotes related to Cyber Security, AI, Tech, and Motivation
 quotes = [
     '"Security is a process, not a product." – Bruce Schneier',
     '"There are only two types of companies: those that have been hacked, and those that will be." – Robert Mueller',
@@ -17,36 +19,68 @@ quotes = [
     '"In the world of cyber security, the last thing you want is a target painted on your back." – Anonymous',
     '"Cybersecurity is a shared responsibility, and it boils down to this: in cybersecurity, the more systems we secure, the more secure we all are." – Jeh Johnson',
     '"Privacy is not an option, and it shouldn\'t be the price we accept for just getting on the internet." – Gary Kovacs',
-    '"As we’ve come to realize, the idea that security starts and ends with the purchase of a prepackaged firewall is simply misguided." – Art Wittmann',
     '"Technology trust is a good thing, but control is a better one." – Stephane Nappo',
-    '"Cyber-Security is much more than a matter of IT." – Stephane Nappo',
     '"One of the main cyber-risks is to think they don’t exist." – Stephane Nappo',
-    '"The advance of technology is based on making it fit in so that you don\'t really even notice it, so it\'s part of everyday life." – Bill Gates',
-    '"It has become appallingly obvious that our technology has exceeded our humanity." – Albert Einstein',
 ]
+
+def fetch_latest_rss_item(url):
+    try:
+        req = urllib.request.Request(url, headers={'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64)'})
+        response = urllib.request.urlopen(req, timeout=10)
+        xml_data = response.read()
+        root = ET.fromstring(xml_data)
+        
+        # Find the first item in the RSS feed
+        item = root.find('./channel/item')
+        if item is not None:
+            title = item.find('title').text
+            link = item.find('link').text
+            return f'<a href="{link}" target="_blank">{title}</a>'
+        return None
+    except Exception as e:
+        print(f"Error fetching from {url}: {e}")
+        return None
 
 def update_readme():
     readme_path = 'README.md'
     
-    # Read the current content of the README
+    # RSS Feeds for Cybersecurity News and CVEs
+    cve_feed = "https://hnrss.org/newest?q=CVE"
+    news_feed = "https://hnrss.org/newest?q=Cybersecurity"
+    
+    print("Fetching latest CVE...")
+    cve_item = fetch_latest_rss_item(cve_feed)
+    if not cve_item:
+        cve_item = "Stay tuned for the latest CVE updates."
+        
+    print("Fetching latest Tech News...")
+    news_item = fetch_latest_rss_item(news_feed)
+    if not news_item:
+        news_item = "Stay tuned for the latest Tech News."
+        
+    quote = random.choice(quotes)
+    
+    print("Reading README.md...")
     with open(readme_path, 'r', encoding='utf-8') as file:
         content = file.read()
     
-    # Select a random quote
-    quote = random.choice(quotes)
+    # Replacements
+    content = re.sub(r'<!-- QUOTE_START -->.*?<!-- QUOTE_END -->', 
+                     f'<!-- QUOTE_START -->\n  <i>{quote}</i>\n  <!-- QUOTE_END -->', 
+                     content, flags=re.DOTALL)
+                     
+    content = re.sub(r'<!-- CVE_START -->.*?<!-- CVE_END -->', 
+                     f'<!-- CVE_START -->\n  {cve_item}\n  <!-- CVE_END -->', 
+                     content, flags=re.DOTALL)
+                     
+    content = re.sub(r'<!-- NEWS_START -->.*?<!-- NEWS_END -->', 
+                     f'<!-- NEWS_START -->\n  {news_item}\n  <!-- NEWS_END -->', 
+                     content, flags=re.DOTALL)
     
-    # Define the new text to replace the old block
-    replacement = f'<!-- QUOTE_START -->\n  <i>{quote}</i>\n  <!-- QUOTE_END -->'
-    
-    # Replace the text between the markers
-    pattern = r'<!-- QUOTE_START -->.*?<!-- QUOTE_END -->'
-    new_content = re.sub(pattern, replacement, content, flags=re.DOTALL)
-    
-    # Write the updated content back to the README
     with open(readme_path, 'w', encoding='utf-8') as file:
-        file.write(new_content)
+        file.write(content)
         
-    print(f"Updated README with quote: {quote}")
+    print("README.md has been successfully updated!")
 
 if __name__ == '__main__':
     update_readme()
