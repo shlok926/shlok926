@@ -25,6 +25,24 @@ I build at the intersection of **Cyber Security, Artificial Intelligence, and Qu
 * **I’m looking to collaborate on:** AI, Quantum Cryptography, Cyber Security, and startup-driven projects.
 * **Ask me about:** AI + Cyber Security, Post-Quantum Cryptography, system design, and building impactful tech projects.
 
+## ⚡ Daily Updates
+> **🐛 Latest CVE:** <br/>
+> <!-- CVE_START -->
+  <a href="https://rietta.com/blog/ruby-on-rails-cve-exploited-hours-after-patch/" target="_blank">Government Rails Site Hit Hours After CVE Patch</a>
+  <!-- CVE_END -->
+
+> **📰 Latest Tech News:** <br/>
+> <!-- NEWS_START -->
+  <a href="https://cyberscoop.com/ai-security-operations-human-context-ciso-op-ed/" target="_blank">Why judgment is emerging as cybersecurity's defining skill</a>
+  <!-- NEWS_END -->
+
+## 🎧 Now Playing
+<p align="left">
+  <a href="https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_UID_HERE&redirect=true">
+    <img src="https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_UID_HERE&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false" alt="Spotify Now Playing" />
+  </a>
+</p>
+
 <br/>
 
 ## 🌐 Socials:
@@ -47,7 +65,7 @@ I build at the intersection of **Cyber Security, Artificial Intelligence, and Qu
 ---
 <p align="center">
   <!-- QUOTE_START -->
-  <i>"Cyber-Security is much more than a matter of IT." – Stephane Nappo</i>
+  <i>"One of the main cyber-risks is to think they don’t exist." – Stephane Nappo</i>
   <!-- QUOTE_END -->
 </p>
 
