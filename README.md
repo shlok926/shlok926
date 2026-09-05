@@ -46,7 +46,9 @@ I build at the intersection of **Cyber Security, Artificial Intelligence, and Qu
 
 ---
 <p align="center">
-  <i>"Security is a process, not a product." – Bruce Schneier</i>
+  <!-- QUOTE_START -->
+  <i>"Cyber-Security is much more than a matter of IT." – Stephane Nappo</i>
+  <!-- QUOTE_END -->
 </p>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
