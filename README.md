@@ -36,12 +36,6 @@ I build at the intersection of **Cyber Security, Artificial Intelligence, and Qu
   <a href="https://cyberscoop.com/ai-security-operations-human-context-ciso-op-ed/" target="_blank">Why judgment is emerging as cybersecurity's defining skill</a>
   <!-- NEWS_END -->
 
-## 🎧 Now Playing
-<p align="left">
-  <a href="https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_UID_HERE&redirect=true">
-    <img src="https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_UID_HERE&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false" alt="Spotify Now Playing" />
-  </a>
-</p>
 
 <br/>
 
