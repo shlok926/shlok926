@@ -25,7 +25,7 @@ I build at the intersection of **Cyber Security, Artificial Intelligence, and Qu
 * **I’m looking to collaborate on:** AI, Quantum Cryptography, Cyber Security, and startup-driven projects.
 * **Ask me about:** AI + Cyber Security, Post-Quantum Cryptography, system design, and building impactful tech projects.
 
-## ⚡ Daily Updates
+##  Daily Updates
 > **🐛 Latest CVE:** <br/>
 > <!-- CVE_START -->
   <a href="https://rietta.com/blog/ruby-on-rails-cve-exploited-hours-after-patch/" target="_blank">Government Rails Site Hit Hours After CVE Patch</a>
