@@ -28,12 +28,12 @@ I build at the intersection of **Cyber Security, Artificial Intelligence, and Qu
 ##  Daily Updates
 > **🐛 Latest CVE:** <br/>
 > <!-- CVE_START -->
-  <a href="https://rietta.com/blog/ruby-on-rails-cve-exploited-hours-after-patch/" target="_blank">Government Rails Site Hit Hours After CVE Patch</a>
+  <a href="https://thehackernews.com/2026/09/jsceal-malware-can-bypass-google.html" target="_blank">JSCeal Malware Can Bypass Google Authentication Using Stolen Session Cookies</a>
   <!-- CVE_END -->
 
 > **📰 Latest Tech News:** <br/>
 > <!-- NEWS_START -->
-  <a href="https://cyberscoop.com/ai-security-operations-human-context-ciso-op-ed/" target="_blank">Why judgment is emerging as cybersecurity's defining skill</a>
+  <a href="https://blog.archive.org/2026/09/01/keep-our-servers-running-your-recurring-donation-goes-3x-this-september/" target="_blank">Keep Our Servers Running</a>
   <!-- NEWS_END -->
 
 
@@ -59,7 +59,7 @@ I build at the intersection of **Cyber Security, Artificial Intelligence, and Qu
 ---
 <p align="center">
   <!-- QUOTE_START -->
-  <i>"One of the main cyber-risks is to think they don’t exist." – Stephane Nappo</i>
+  <i>"Technology trust is a good thing, but control is a better one." – Stephane Nappo</i>
   <!-- QUOTE_END -->
 </p>
 

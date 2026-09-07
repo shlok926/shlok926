@@ -44,9 +44,9 @@ def fetch_latest_rss_item(url):
 def update_readme():
     readme_path = 'README.md'
     
-    # RSS Feeds for Cybersecurity News and CVEs
-    cve_feed = "https://hnrss.org/newest?q=CVE"
-    news_feed = "https://hnrss.org/newest?q=Cybersecurity"
+    # RSS Feeds for Cybersecurity News and Tech News
+    cve_feed = "https://feeds.feedburner.com/TheHackersNews"
+    news_feed = "https://news.ycombinator.com/rss"
     
     print("Fetching latest CVE...")
     cve_item = fetch_latest_rss_item(cve_feed)
