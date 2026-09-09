@@ -28,12 +28,12 @@ I build at the intersection of **Cyber Security, Artificial Intelligence, and Qu
 ##  Daily Updates
 > **🐛 Latest CVE:** <br/>
 > <!-- CVE_START -->
-  <a href="https://thehackernews.com/2026/09/peep-turns-chrome-and-edge-into-post.html" target="_blank">PEEP Turns Chrome and Edge Into Post-Compromise Backdoors for Host Command Execution</a>
+  <a href="https://thehackernews.com/2026/09/slim-spider-steals-crypto-custody.html" target="_blank">Slim Spider Steals Crypto Custody Secrets From Brazilian Financial Institution</a>
   <!-- CVE_END -->
 
 > **📰 Latest Tech News:** <br/>
 > <!-- NEWS_START -->
-  <a href="https://mcpherrin.ca/2026/09/07/rsa.html" target="_blank">I've factored the RSA keys of a Certificate Authority from the 90s</a>
+  <a href="https://current.fas.harvard.edu/stories/harvard-study-predicts-most-suicide-attempts-week-advance" target="_blank">Harvard study predicts most suicide attempts a week in advance</a>
   <!-- NEWS_END -->
 
 
@@ -59,7 +59,7 @@ I build at the intersection of **Cyber Security, Artificial Intelligence, and Qu
 ---
 <p align="center">
   <!-- QUOTE_START -->
-  <i>"There are only two types of companies: those that have been hacked, and those that will be." – Robert Mueller</i>
+  <i>"If you think technology can solve your security problems, then you don't understand the problems and you don't understand the technology." – Bruce Schneier</i>
   <!-- QUOTE_END -->
 </p>
 
