@@ -28,12 +28,12 @@ I build at the intersection of **Cyber Security, Artificial Intelligence, and Qu
 ##  Daily Updates
 > **🐛 Latest CVE:** <br/>
 > <!-- CVE_START -->
-  <a href="https://thehackernews.com/2026/09/slim-spider-steals-crypto-custody.html" target="_blank">Slim Spider Steals Crypto Custody Secrets From Brazilian Financial Institution</a>
+  <a href="https://thehackernews.com/2026/09/us-disrupts-xinbi-guarantee-scam.html" target="_blank">U.S. Disrupts Xinbi Guarantee Scam Marketplace, Freezes $52.8 Million in Crypto</a>
   <!-- CVE_END -->
 
 > **📰 Latest Tech News:** <br/>
 > <!-- NEWS_START -->
-  <a href="https://current.fas.harvard.edu/stories/harvard-study-predicts-most-suicide-attempts-week-advance" target="_blank">Harvard study predicts most suicide attempts a week in advance</a>
+  <a href="https://www.apple.com/iphone-duo/" target="_blank">iPhone Duo</a>
   <!-- NEWS_END -->
 
 
