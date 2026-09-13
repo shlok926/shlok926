@@ -28,12 +28,12 @@ I build at the intersection of **Cyber Security, Artificial Intelligence, and Qu
 ##  Daily Updates
 > **🐛 Latest CVE:** <br/>
 > <!-- CVE_START -->
-  Stay tuned for the latest CVE updates.
+  <a href="https://thehackernews.com/2026/09/cisa-adds-5-actively-exploited.html" target="_blank">CISA Adds 5 Actively Exploited Artifactory, ScreenConnect, and RouterOS Flaws to KEV</a>
   <!-- CVE_END -->
 
 > **📰 Latest Tech News:** <br/>
 > <!-- NEWS_START -->
-  <a href="https://mathandai.org/" target="_blank">A misalignment of AI in mathematics</a>
+  <a href="https://high5apps.github.io/josm-plugin-website-wizard/" target="_blank">Make your first edit to OpenStreetMap</a>
   <!-- NEWS_END -->
 
 
@@ -59,7 +59,7 @@ I build at the intersection of **Cyber Security, Artificial Intelligence, and Qu
 ---
 <p align="center">
   <!-- QUOTE_START -->
-  <i>"Artificial intelligence is the new electricity." – Andrew Ng</i>
+  <i>"The question of whether a computer can think is no more interesting than the question of whether a submarine can swim." – Edsger W. Dijkstra</i>
   <!-- QUOTE_END -->
 </p>
 
