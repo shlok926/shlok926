@@ -28,12 +28,12 @@ I build at the intersection of **Cyber Security, Artificial Intelligence, and Qu
 ##  Daily Updates
 > **🐛 Latest CVE:** <br/>
 > <!-- CVE_START -->
-  <a href="https://thehackernews.com/2026/09/cisa-adds-5-actively-exploited.html" target="_blank">CISA Adds 5 Actively Exploited Artifactory, ScreenConnect, and RouterOS Flaws to KEV</a>
+  <a href="https://thehackernews.com/2026/09/attackers-use-passkey-phishing-to.html" target="_blank">Attackers Use Passkey Phishing to Hijack Microsoft Cloud Accounts and Exfiltrate Data</a>
   <!-- CVE_END -->
 
 > **📰 Latest Tech News:** <br/>
 > <!-- NEWS_START -->
-  <a href="https://high5apps.github.io/josm-plugin-website-wizard/" target="_blank">Make your first edit to OpenStreetMap</a>
+  <a href="https://www.vals.ai/blogs/fable-solves-cyphral-distich" target="_blank">Fable 5.1 Solves the Cyphral Distich, a 370-year-old cipher</a>
   <!-- NEWS_END -->
 
 
@@ -59,7 +59,7 @@ I build at the intersection of **Cyber Security, Artificial Intelligence, and Qu
 ---
 <p align="center">
   <!-- QUOTE_START -->
-  <i>"The question of whether a computer can think is no more interesting than the question of whether a submarine can swim." – Edsger W. Dijkstra</i>
+  <i>"By far, the greatest danger of Artificial Intelligence is that people conclude too early that they understand it." – Eliezer Yudkowsky</i>
   <!-- QUOTE_END -->
 </p>
 
