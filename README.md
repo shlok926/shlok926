@@ -28,12 +28,12 @@ I build at the intersection of **Cyber Security, Artificial Intelligence, and Qu
 ##  Daily Updates
 > **🐛 Latest CVE:** <br/>
 > <!-- CVE_START -->
-  <a href="https://thehackernews.com/2026/09/attackers-exploit-issabel-framework.html" target="_blank">Attackers Exploit Issabel Framework Flaw Enabling Unauthenticated OS Command Execution</a>
+  <a href="https://thehackernews.com/2026/09/critical-unbound-dnssec-validator-flaw.html" target="_blank">Critical Unbound DNSSEC Validator Flaw Could Allow RCE via a Malicious DNS Zone</a>
   <!-- CVE_END -->
 
 > **📰 Latest Tech News:** <br/>
 > <!-- NEWS_START -->
-  <a href="https://developer.nvidia.com/blog/introducing-cuda-rust-two-tracks-for-writing-gpu-kernels/" target="_blank">Nvidia announces native GPU programming in Rust</a>
+  <a href="https://openai.com/index/astra-for-law/" target="_blank">Astra for Law</a>
   <!-- NEWS_END -->
 
 
@@ -59,7 +59,7 @@ I build at the intersection of **Cyber Security, Artificial Intelligence, and Qu
 ---
 <p align="center">
   <!-- QUOTE_START -->
-  <i>"Amateurs hack systems, professionals hack people." – Bruce Schneier</i>
+  <i>"Technology trust is a good thing, but control is a better one." – Stephane Nappo</i>
   <!-- QUOTE_END -->
 </p>
 
