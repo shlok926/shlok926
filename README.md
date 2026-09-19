@@ -28,12 +28,12 @@ I build at the intersection of **Cyber Security, Artificial Intelligence, and Qu
 ##  Daily Updates
 > **🐛 Latest CVE:** <br/>
 > <!-- CVE_START -->
-  <a href="https://thehackernews.com/2026/09/critical-unbound-dnssec-validator-flaw.html" target="_blank">Critical Unbound DNSSEC Validator Flaw Could Allow RCE via a Malicious DNS Zone</a>
+  <a href="https://thehackernews.com/2026/09/public-exploits-released-for-four-linux.html" target="_blank">Public Exploits Released for Four Linux Kernel Flaws That Enable Local Root</a>
   <!-- CVE_END -->
 
 > **📰 Latest Tech News:** <br/>
 > <!-- NEWS_START -->
-  <a href="https://openai.com/index/astra-for-law/" target="_blank">Astra for Law</a>
+  <a href="https://grapheneos.social/@GrapheneOS/117282080803799576" target="_blank">Android 17 is the first since 3.x to add new APIs without releasing to the AOSP</a>
   <!-- NEWS_END -->
 
 
@@ -59,7 +59,7 @@ I build at the intersection of **Cyber Security, Artificial Intelligence, and Qu
 ---
 <p align="center">
   <!-- QUOTE_START -->
-  <i>"Technology trust is a good thing, but control is a better one." – Stephane Nappo</i>
+  <i>"Privacy is not an option, and it shouldn't be the price we accept for just getting on the internet." – Gary Kovacs</i>
   <!-- QUOTE_END -->
 </p>
 
