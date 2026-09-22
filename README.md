@@ -28,12 +28,12 @@ I build at the intersection of **Cyber Security, Artificial Intelligence, and Qu
 ##  Daily Updates
 > **🐛 Latest CVE:** <br/>
 > <!-- CVE_START -->
-  <a href="https://thehackernews.com/2026/09/claude-opus-5-helped-researchers-take.html" target="_blank">Claude Opus 5 Helped Researchers Take Over OpenAI Staff Accounts via Chained Flaws</a>
+  <a href="https://thehackernews.com/2026/09/fake-lastpass-authenticator-installer.html" target="_blank">Fake LastPass Authenticator Installer Abuses Microsoft-Signed Driver to Kill Antivirus and EDR</a>
   <!-- CVE_END -->
 
 > **📰 Latest Tech News:** <br/>
 > <!-- NEWS_START -->
-  <a href="https://agentexecutor.io" target="_blank">Google's Open Agentic Orchestrator</a>
+  <a href="https://mimo.xiaomi.com/mimo-v2-6" target="_blank">Xiaomi MiMo v2.6</a>
   <!-- NEWS_END -->
 
 
@@ -59,7 +59,7 @@ I build at the intersection of **Cyber Security, Artificial Intelligence, and Qu
 ---
 <p align="center">
   <!-- QUOTE_START -->
-  <i>"One of the main cyber-risks is to think they don’t exist." – Stephane Nappo</i>
+  <i>"Privacy is not an option, and it shouldn't be the price we accept for just getting on the internet." – Gary Kovacs</i>
   <!-- QUOTE_END -->
 </p>
 
