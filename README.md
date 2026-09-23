@@ -28,12 +28,12 @@ I build at the intersection of **Cyber Security, Artificial Intelligence, and Qu
 ##  Daily Updates
 > **🐛 Latest CVE:** <br/>
 > <!-- CVE_START -->
-  <a href="https://thehackernews.com/2026/09/fake-lastpass-authenticator-installer.html" target="_blank">Fake LastPass Authenticator Installer Abuses Microsoft-Signed Driver to Kill Antivirus and EDR</a>
+  <a href="https://thehackernews.com/2026/09/check-point-warns-of-management-server.html" target="_blank">Check Point Warns of Management Server Zero-Day Exploited in Targeted Attacks</a>
   <!-- CVE_END -->
 
 > **📰 Latest Tech News:** <br/>
 > <!-- NEWS_START -->
-  <a href="https://mimo.xiaomi.com/mimo-v2-6" target="_blank">Xiaomi MiMo v2.6</a>
+  <a href="https://openai.com/index/introducing-gpt-6-sol-and-luna/" target="_blank">GPT-6 Sol and Luna</a>
   <!-- NEWS_END -->
 
 
@@ -59,7 +59,7 @@ I build at the intersection of **Cyber Security, Artificial Intelligence, and Qu
 ---
 <p align="center">
   <!-- QUOTE_START -->
-  <i>"Privacy is not an option, and it shouldn't be the price we accept for just getting on the internet." – Gary Kovacs</i>
+  <i>"There are only two types of companies: those that have been hacked, and those that will be." – Robert Mueller</i>
   <!-- QUOTE_END -->
 </p>
 
