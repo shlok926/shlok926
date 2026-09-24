@@ -28,12 +28,12 @@ I build at the intersection of **Cyber Security, Artificial Intelligence, and Qu
 ##  Daily Updates
 > **🐛 Latest CVE:** <br/>
 > <!-- CVE_START -->
-  <a href="https://thehackernews.com/2026/09/check-point-warns-of-management-server.html" target="_blank">Check Point Warns of Management Server Zero-Day Exploited in Targeted Attacks</a>
+  <a href="https://thehackernews.com/2026/09/attackers-use-malicious-terraform.html" target="_blank">Attackers Use Malicious Terraform Providers to Deliver Go Malware via HashiCorp Registry</a>
   <!-- CVE_END -->
 
 > **📰 Latest Tech News:** <br/>
 > <!-- NEWS_START -->
-  <a href="https://openai.com/index/introducing-gpt-6-sol-and-luna/" target="_blank">GPT-6 Sol and Luna</a>
+  <a href="https://www.qualcomm.com/news/onq/2026/09/snapdragon-summit-agentic-ai-pcs-linux" target="_blank">Linux support is coming to Snapdragon X2 Series</a>
   <!-- NEWS_END -->
 
 
@@ -59,7 +59,7 @@ I build at the intersection of **Cyber Security, Artificial Intelligence, and Qu
 ---
 <p align="center">
   <!-- QUOTE_START -->
-  <i>"There are only two types of companies: those that have been hacked, and those that will be." – Robert Mueller</i>
+  <i>"Security is a process, not a product." – Bruce Schneier</i>
   <!-- QUOTE_END -->
 </p>
 
