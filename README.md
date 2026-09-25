@@ -28,12 +28,12 @@ I build at the intersection of **Cyber Security, Artificial Intelligence, and Qu
 ##  Daily Updates
 > **🐛 Latest CVE:** <br/>
 > <!-- CVE_START -->
-  <a href="https://thehackernews.com/2026/09/attackers-use-malicious-terraform.html" target="_blank">Attackers Use Malicious Terraform Providers to Deliver Go Malware via HashiCorp Registry</a>
+  <a href="https://thehackernews.com/2026/09/unpatched-oneplus-flaws-let-installed.html" target="_blank">Unpatched OnePlus Flaws Let Installed Android Apps Gain Root Without Permissions</a>
   <!-- CVE_END -->
 
 > **📰 Latest Tech News:** <br/>
 > <!-- NEWS_START -->
-  <a href="https://www.qualcomm.com/news/onq/2026/09/snapdragon-summit-agentic-ai-pcs-linux" target="_blank">Linux support is coming to Snapdragon X2 Series</a>
+  <a href="https://f-droid.org/2026/09/24/f-droid-2.0-a-new-chapter-for-android-freedom.html" target="_blank">F-Droid 2.0</a>
   <!-- NEWS_END -->
 
 
@@ -59,7 +59,7 @@ I build at the intersection of **Cyber Security, Artificial Intelligence, and Qu
 ---
 <p align="center">
   <!-- QUOTE_START -->
-  <i>"Security is a process, not a product." – Bruce Schneier</i>
+  <i>"In the world of cyber security, the last thing you want is a target painted on your back." – Anonymous</i>
   <!-- QUOTE_END -->
 </p>
 
