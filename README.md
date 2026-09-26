@@ -28,12 +28,12 @@ I build at the intersection of **Cyber Security, Artificial Intelligence, and Qu
 ##  Daily Updates
 > **🐛 Latest CVE:** <br/>
 > <!-- CVE_START -->
-  <a href="https://thehackernews.com/2026/09/unpatched-oneplus-flaws-let-installed.html" target="_blank">Unpatched OnePlus Flaws Let Installed Android Apps Gain Root Without Permissions</a>
+  <a href="https://thehackernews.com/2026/09/compromised-github-actions-came-back.html" target="_blank">Compromised GitHub Actions Came Back Online and Resumed Executing Mini Shai-Hulud Malware</a>
   <!-- CVE_END -->
 
 > **📰 Latest Tech News:** <br/>
 > <!-- NEWS_START -->
-  <a href="https://f-droid.org/2026/09/24/f-droid-2.0-a-new-chapter-for-android-freedom.html" target="_blank">F-Droid 2.0</a>
+  <a href="https://swarmtraces.org/" target="_blank">Revealing the details of how OpenAI agents hacked Hugging Face</a>
   <!-- NEWS_END -->
 
 
@@ -59,7 +59,7 @@ I build at the intersection of **Cyber Security, Artificial Intelligence, and Qu
 ---
 <p align="center">
   <!-- QUOTE_START -->
-  <i>"In the world of cyber security, the last thing you want is a target painted on your back." – Anonymous</i>
+  <i>"If you think technology can solve your security problems, then you don't understand the problems and you don't understand the technology." – Bruce Schneier</i>
   <!-- QUOTE_END -->
 </p>
 
