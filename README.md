@@ -28,12 +28,12 @@ I build at the intersection of Cyber Security, Artificial Intelligence, and Quan
 ##  Daily Updates
 > **🐛 Latest CVE:** <br/>
 > <!-- CVE_START -->
-  <a href="https://thehackernews.com/2026/09/compromised-github-actions-came-back.html" target="_blank">Compromised GitHub Actions Came Back Online and Resumed Executing Mini Shai-Hulud Malware</a>
+  <a href="https://thehackernews.com/2026/09/lunex-stealer-abuses-amd-driver-to.html" target="_blank">Lunex Stealer Abuses AMD Driver to Disable Security Monitoring and Steal Browser Credentials</a>
   <!-- CVE_END -->
 
 > **📰 Latest Tech News:** <br/>
 > <!-- NEWS_START -->
-  <a href="https://swarmtraces.org/" target="_blank">Revealing the details of how OpenAI agents hacked Hugging Face</a>
+  <a href="https://www.astralcodexten.com/p/does-georgism-work-five-years-later" target="_blank">Does Georgism work? Five years later</a>
   <!-- NEWS_END -->
 
 
@@ -59,7 +59,7 @@ I build at the intersection of Cyber Security, Artificial Intelligence, and Quan
 ---
 <p align="center">
   <!-- QUOTE_START -->
-  <i>"If you think technology can solve your security problems, then you don't understand the problems and you don't understand the technology." – Bruce Schneier</i>
+  <i>"Amateurs hack systems, professionals hack people." – Bruce Schneier</i>
   <!-- QUOTE_END -->
 </p>
 
