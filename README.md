@@ -28,12 +28,12 @@ I build at the intersection of Cyber Security, Artificial Intelligence, and Quan
 ##  Daily Updates
 > **🐛 Latest CVE:** <br/>
 > <!-- CVE_START -->
-  <a href="https://thehackernews.com/2026/09/lunex-stealer-abuses-amd-driver-to.html" target="_blank">Lunex Stealer Abuses AMD Driver to Disable Security Monitoring and Steal Browser Credentials</a>
+  <a href="https://thehackernews.com/2026/09/warning-two-unpatched-citrix-netscaler.html" target="_blank">Warning: Two Unpatched Citrix NetScaler RCE Zero-Days Under Active Exploitation</a>
   <!-- CVE_END -->
 
 > **📰 Latest Tech News:** <br/>
 > <!-- NEWS_START -->
-  <a href="https://www.astralcodexten.com/p/does-georgism-work-five-years-later" target="_blank">Does Georgism work? Five years later</a>
+  <a href="https://trekhleb.dev/blog/2021/self-parking-car-evolution/" target="_blank">Self-parking car using genetic algorithm (2021)</a>
   <!-- NEWS_END -->
 
 
@@ -59,7 +59,7 @@ I build at the intersection of Cyber Security, Artificial Intelligence, and Quan
 ---
 <p align="center">
   <!-- QUOTE_START -->
-  <i>"Amateurs hack systems, professionals hack people." – Bruce Schneier</i>
+  <i>"The only truly secure system is one that is powered off, cast in a block of concrete and sealed in a lead-lined room with armed guards - and even then I have my doubts." – Gene Spafford</i>
   <!-- QUOTE_END -->
 </p>
 
