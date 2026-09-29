@@ -28,12 +28,12 @@ I build at the intersection of Cyber Security, Artificial Intelligence, and Quan
 ##  Daily Updates
 > **🐛 Latest CVE:** <br/>
 > <!-- CVE_START -->
-  <a href="https://thehackernews.com/2026/09/warning-two-unpatched-citrix-netscaler.html" target="_blank">Warning: Two Unpatched Citrix NetScaler RCE Zero-Days Under Active Exploitation</a>
+  <a href="https://thehackernews.com/2026/09/apple-patches-coregraphics-flaw.html" target="_blank">Apple Patches CoreGraphics Flaw Possibly Exploited in Targeted Attacks</a>
   <!-- CVE_END -->
 
 > **📰 Latest Tech News:** <br/>
 > <!-- NEWS_START -->
-  <a href="https://trekhleb.dev/blog/2021/self-parking-car-evolution/" target="_blank">Self-parking car using genetic algorithm (2021)</a>
+  <a href="https://github.com/firelex/jeff" target="_blank">Jeff – Jev-compatible 0.8B decision models, trained at home, ~30 ms</a>
   <!-- NEWS_END -->
 
 
@@ -59,7 +59,7 @@ I build at the intersection of Cyber Security, Artificial Intelligence, and Quan
 ---
 <p align="center">
   <!-- QUOTE_START -->
-  <i>"The only truly secure system is one that is powered off, cast in a block of concrete and sealed in a lead-lined room with armed guards - and even then I have my doubts." – Gene Spafford</i>
+  <i>"Technology trust is a good thing, but control is a better one." – Stephane Nappo</i>
   <!-- QUOTE_END -->
 </p>
 
