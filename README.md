@@ -28,12 +28,12 @@ I build at the intersection of Cyber Security, Artificial Intelligence, and Quan
 ##  Daily Updates
 > **🐛 Latest CVE:** <br/>
 > <!-- CVE_START -->
-  <a href="https://thehackernews.com/2026/09/apple-patches-coregraphics-flaw.html" target="_blank">Apple Patches CoreGraphics Flaw Possibly Exploited in Targeted Attacks</a>
+  <a href="https://thehackernews.com/2026/09/french-tax-data-theft-using-stolen.html" target="_blank">French Tax Data Theft Using Stolen Staff Passwords Went Undetected for Seven Weeks</a>
   <!-- CVE_END -->
 
 > **📰 Latest Tech News:** <br/>
 > <!-- NEWS_START -->
-  <a href="https://github.com/firelex/jeff" target="_blank">Jeff – Jev-compatible 0.8B decision models, trained at home, ~30 ms</a>
+  <a href="https://github.com/ninjahawk/livenerf" target="_blank">Livenerf: Has Opus 5.5 been nerfed yet?</a>
   <!-- NEWS_END -->
 
 
@@ -59,7 +59,7 @@ I build at the intersection of Cyber Security, Artificial Intelligence, and Quan
 ---
 <p align="center">
   <!-- QUOTE_START -->
-  <i>"Technology trust is a good thing, but control is a better one." – Stephane Nappo</i>
+  <i>"Security is a process, not a product." – Bruce Schneier</i>
   <!-- QUOTE_END -->
 </p>
 
