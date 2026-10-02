@@ -23,18 +23,8 @@ jobs:
       - name: Run update script
         run: python update_profile.py
         
-      - name: Generate Github Contribution Snake Animation
-        uses: Platane/snk/svg-only@v3
-        with:
-          github_user_name: shlok926
-          outputs: |
-            assets/github-contribution-grid-snake.svg
-            assets/github-contribution-grid-snake-dark.svg?palette=github-dark
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
       - name: Commit and push changes
         uses: stefanzweifel/git-auto-commit-action@v4
         with:
-          commit_message: "chore: update daily CVE, News, Quote, and Activity Graph [skip ci]"
-          file_pattern: 'README.md assets/*'
+          commit_message: "chore: update daily CVE, News, and Quote [skip ci]"
+          file_pattern: 'README.md'

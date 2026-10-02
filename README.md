@@ -51,11 +51,7 @@ I build at the intersection of Cyber Security, Artificial Intelligence, and Quan
   <br/><br/>
   <img src="https://github-readme-streak-stats-ashy.vercel.app/?user=shlok926&theme=dark&v=1" alt="GitHub Streak Stats" />
   <br/><br/>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="assets/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="assets/github-contribution-grid-snake.svg">
-  </picture>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shlok926&theme=react-dark" alt="Activity Graph" />
   <br/><br/>
   <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=shlok926&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
 </p>
