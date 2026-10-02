@@ -13,8 +13,8 @@
 </p>
 
 <p align="center">
-  <!-- WEATHER_START --
-  📍 Pune, India | 🕒 IST (UTC+5:30) | ⛅ 32.0°C
+  <!-- WEATHER_START -->
+  📍 <b>Pune, India</b> | 🕒 <b>IST (UTC+5:30)</b> | ⛅ <b>32.0°C</b>
   <!-- WEATHER_END -->
 </p>
 
