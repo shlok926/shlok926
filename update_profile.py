@@ -1,5 +1,6 @@
 import urllib.request
 import xml.etree.ElementTree as ET
+import json
 import re
 import random
 
@@ -41,6 +42,21 @@ def fetch_latest_rss_item(url):
         print(f"Error fetching from {url}: {e}")
         return None
 
+def fetch_weather():
+    try:
+        # Open-Meteo API for Pune, Maharashtra (Lat: 18.5204, Lon: 73.8567)
+        url = 'https://api.open-meteo.com/v1/forecast?latitude=18.5204&longitude=73.8567&current_weather=true'
+        req = urllib.request.Request(url, headers={'User-Agent': 'Mozilla/5.0'})
+        response = urllib.request.urlopen(req, timeout=10)
+        data = json.loads(response.read().decode())
+        temp = data['current_weather']['temperature']
+        
+        # Format the badge natively
+        return f"📍 **Pune, India** | 🕒 **IST (UTC+5:30)** | ⛅ **{temp}°C**"
+    except Exception as e:
+        print(f"Error fetching weather: {e}")
+        return "📍 **Pune, India** | 🕒 **IST (UTC+5:30)**"
+
 def update_readme():
     readme_path = 'README.md'
     
@@ -58,6 +74,9 @@ def update_readme():
     if not news_item:
         news_item = "Stay tuned for the latest Tech News."
         
+    print("Fetching current weather...")
+    weather_info = fetch_weather()
+    
     quote = random.choice(quotes)
     
     print("Reading README.md...")
@@ -75,6 +94,10 @@ def update_readme():
                      
     content = re.sub(r'<!-- NEWS_START -->.*?<!-- NEWS_END -->', 
                      f'<!-- NEWS_START -->\n  {news_item}\n  <!-- NEWS_END -->', 
+                     content, flags=re.DOTALL)
+                     
+    content = re.sub(r'<!-- WEATHER_START -->.*?<!-- WEATHER_END -->', 
+                     f'<!-- WEATHER_START -->\n> {weather_info}\n<!-- WEATHER_END -->', 
                      content, flags=re.DOTALL)
     
     with open(readme_path, 'w', encoding='utf-8') as file:

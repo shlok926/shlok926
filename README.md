@@ -26,9 +26,13 @@ I build at the intersection of Cyber Security, Artificial Intelligence, and Quan
 * **Ask me about:** AI + Cyber Security, Post-Quantum Cryptography, system design, and building impactful tech projects.
 
 ##  Daily Updates
+<!-- WEATHER_START -->
+> 📍 **Pune, India** | 🕒 **IST (UTC+5:30)** | ⛅ **32.0°C**
+<!-- WEATHER_END -->
+<br/>
 > **🐛 Latest CVE:** <br/>
 > <!-- CVE_START -->
-  <a href="https://thehackernews.com/2026/10/police-arrest-16-year-old-suspected-of.html" target="_blank">Police Arrest 16-Year-Old Suspected of Running KillSec, Seize Ransomware Leak Site and Servers</a>
+  <a href="https://thehackernews.com/2026/10/android-17-advanced-protection-locks.html" target="_blank">Android 17 Advanced Protection Locks Accessibility Services to Verified Accessibility Tools</a>
   <!-- CVE_END -->
 
 > **📰 Latest Tech News:** <br/>
@@ -57,7 +61,7 @@ I build at the intersection of Cyber Security, Artificial Intelligence, and Quan
 ---
 <p align="center">
   <!-- QUOTE_START -->
-  <i>"Artificial intelligence is the new electricity." – Andrew Ng</i>
+  <i>"Technology trust is a good thing, but control is a better one." – Stephane Nappo</i>
   <!-- QUOTE_END -->
 </p>
 
