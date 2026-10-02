@@ -28,12 +28,12 @@ I build at the intersection of Cyber Security, Artificial Intelligence, and Quan
 ##  Daily Updates
 > **🐛 Latest CVE:** <br/>
 > <!-- CVE_START -->
-  <a href="https://thehackernews.com/2026/09/attackers-exploit-zimbra-flaw-to-deploy.html" target="_blank">Attackers Exploit Zimbra Flaw to Deploy Web Shells and Harvest Authentication Secrets</a>
+  <a href="https://thehackernews.com/2026/10/police-arrest-16-year-old-suspected-of.html" target="_blank">Police Arrest 16-Year-Old Suspected of Running KillSec, Seize Ransomware Leak Site and Servers</a>
   <!-- CVE_END -->
 
 > **📰 Latest Tech News:** <br/>
 > <!-- NEWS_START -->
-  <a href="https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-argon/" target="_blank">Gemini 4 Argon</a>
+  <a href="https://earendil.com/posts/pi-1-0/" target="_blank">Pi 1.0</a>
   <!-- NEWS_END -->
 
 
@@ -59,7 +59,7 @@ I build at the intersection of Cyber Security, Artificial Intelligence, and Quan
 ---
 <p align="center">
   <!-- QUOTE_START -->
-  <i>"Privacy is not an option, and it shouldn't be the price we accept for just getting on the internet." – Gary Kovacs</i>
+  <i>"Artificial intelligence is the new electricity." – Andrew Ng</i>
   <!-- QUOTE_END -->
 </p>
 
