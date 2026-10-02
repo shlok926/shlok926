@@ -97,7 +97,7 @@ def update_readme():
                      content, flags=re.DOTALL)
                      
     content = re.sub(r'<!-- WEATHER_START -->.*?<!-- WEATHER_END -->', 
-                     f'<!-- WEATHER_START -->\n> {weather_info}\n<!-- WEATHER_END -->', 
+                     f'<!-- WEATHER_START -->\n  {weather_info}\n  <!-- WEATHER_END -->', 
                      content, flags=re.DOTALL)
     
     with open(readme_path, 'w', encoding='utf-8') as file:

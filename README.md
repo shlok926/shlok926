@@ -12,6 +12,12 @@
   <img src="https://komarev.com/ghpvc/?username=shlok926&label=Profile%20views&color=0e75b6&style=flat" alt="shlok926" />
 </p>
 
+<p align="center">
+  <!-- WEATHER_START -->
+  📍 **Pune, India** | 🕒 **IST (UTC+5:30)** | ⛅ **32.0°C**
+  <!-- WEATHER_END -->
+</p>
+
 ---
 
 ##  Who Am I?
@@ -26,10 +32,6 @@ I build at the intersection of Cyber Security, Artificial Intelligence, and Quan
 * **Ask me about:** AI + Cyber Security, Post-Quantum Cryptography, system design, and building impactful tech projects.
 
 ##  Daily Updates
-<!-- WEATHER_START -->
-> 📍 **Pune, India** | 🕒 **IST (UTC+5:30)** | ⛅ **32.0°C**
-<!-- WEATHER_END -->
-<br/>
 > **🐛 Latest CVE:** <br/>
 > <!-- CVE_START -->
   <a href="https://thehackernews.com/2026/10/android-17-advanced-protection-locks.html" target="_blank">Android 17 Advanced Protection Locks Accessibility Services to Verified Accessibility Tools</a>
