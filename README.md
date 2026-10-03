@@ -14,7 +14,7 @@
 
 <p align="center">
   <!-- WEATHER_START -->
-  📍 **Pune, India** | 🕒 **IST (UTC+5:30)** | ⛅ **31.4°C**
+  📍 **Pune, India** | 🕒 **IST (UTC+5:30)** | ⛅ **25.9°C**
   <!-- WEATHER_END -->
 </p>
 
@@ -34,12 +34,12 @@ I build at the intersection of Cyber Security, Artificial Intelligence, and Quan
 ##  Daily Updates
 > **🐛 Latest CVE:** <br/>
 > <!-- CVE_START -->
-  <a href="https://thehackernews.com/2026/10/the-state-of-cybersecurity-in-2026key.html" target="_blank">The State of Cybersecurity in 2026: Key Segments, Insights, and Innovations</a>
+  <a href="https://thehackernews.com/2026/10/mi5-says-chinas-mss-funded-research.html" target="_blank">MI5 Says China’s MSS Funded Research Involving 100+ U.K.-Linked Academics</a>
   <!-- CVE_END -->
 
 > **📰 Latest Tech News:** <br/>
 > <!-- NEWS_START -->
-  <a href="https://github.blog/changelog/2026-10-01-new-dashboard-experience-now-the-default/" target="_blank">GitHub's new dashboard experience now the default</a>
+  <a href="https://tej.as/blog/aleph-alpha-kolibri" target="_blank">Kolibri is an open-weight LLM from Aleph Alpha for German and English</a>
   <!-- NEWS_END -->
 
 
@@ -63,7 +63,7 @@ I build at the intersection of Cyber Security, Artificial Intelligence, and Quan
 ---
 <p align="center">
   <!-- QUOTE_START -->
-  <i>"There are only two types of companies: those that have been hacked, and those that will be." – Robert Mueller</i>
+  <i>"Privacy is not an option, and it shouldn't be the price we accept for just getting on the internet." – Gary Kovacs</i>
   <!-- QUOTE_END -->
 </p>
 
