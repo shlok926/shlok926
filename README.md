@@ -14,7 +14,7 @@
 
 <p align="center">
   <!-- WEATHER_START -->
-  📍 **Pune, India** | 🕒 **IST (UTC+5:30)** | ⛅ **25.9°C**
+  📍 **Pune, India** | 🕒 **IST (UTC+5:30)** | ⛅ **24.0°C**
   <!-- WEATHER_END -->
 </p>
 
@@ -39,7 +39,7 @@ I build at the intersection of Cyber Security, Artificial Intelligence, and Quan
 
 > **📰 Latest Tech News:** <br/>
 > <!-- NEWS_START -->
-  <a href="https://tej.as/blog/aleph-alpha-kolibri" target="_blank">Kolibri is an open-weight LLM from Aleph Alpha for German and English</a>
+  <a href="https://notoriousbfg.com/hole-punch/" target="_blank">Hole Punch: Sling your spaceship around gravitational fields</a>
   <!-- NEWS_END -->
 
 
