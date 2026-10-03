@@ -14,7 +14,7 @@
 
 <p align="center">
   <!-- WEATHER_START -->
-  📍 **Pune, India** | 🕒 **IST (UTC+5:30)** | ⛅ **29.7°C**
+  📍 **Pune, India** | 🕒 **IST (UTC+5:30)** | ⛅ **31.4°C**
   <!-- WEATHER_END -->
 </p>
 
@@ -34,12 +34,12 @@ I build at the intersection of Cyber Security, Artificial Intelligence, and Quan
 ##  Daily Updates
 > **🐛 Latest CVE:** <br/>
 > <!-- CVE_START -->
-  <a href="https://thehackernews.com/2026/10/gitlab-patches-critical-self-hosted-ai.html" target="_blank">GitLab Patches Critical 9.9 AI Gateway Flaw Allowing Command Execution on Self-Hosted Servers</a>
+  <a href="https://thehackernews.com/2026/10/the-state-of-cybersecurity-in-2026key.html" target="_blank">The State of Cybersecurity in 2026: Key Segments, Insights, and Innovations</a>
   <!-- CVE_END -->
 
 > **📰 Latest Tech News:** <br/>
 > <!-- NEWS_START -->
-  <a href="https://www.newgrounds.com/" target="_blank">Newgrounds.com – A community of games, music, and art</a>
+  <a href="https://github.blog/changelog/2026-10-01-new-dashboard-experience-now-the-default/" target="_blank">GitHub's new dashboard experience now the default</a>
   <!-- NEWS_END -->
 
 
@@ -63,7 +63,7 @@ I build at the intersection of Cyber Security, Artificial Intelligence, and Quan
 ---
 <p align="center">
   <!-- QUOTE_START -->
-  <i>"Some people worry that artificial intelligence will make us feel inferior, but then, anybody in his right mind should have an inferiority complex every time he looks at a flower." – Alan Kay</i>
+  <i>"There are only two types of companies: those that have been hacked, and those that will be." – Robert Mueller</i>
   <!-- QUOTE_END -->
 </p>
 
