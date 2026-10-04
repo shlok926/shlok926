@@ -14,7 +14,7 @@
 
 <p align="center">
   <!-- WEATHER_START -->
-  📍 **Pune, India** | 🕒 **IST (UTC+5:30)** | ⛅ **30.1°C**
+  📍 **Pune, India** | 🕒 **IST (UTC+5:30)** | ⛅ **31.2°C**
   <!-- WEATHER_END -->
 </p>
 
@@ -34,12 +34,12 @@ I build at the intersection of Cyber Security, Artificial Intelligence, and Quan
 ##  Daily Updates
 > **🐛 Latest CVE:** <br/>
 > <!-- CVE_START -->
-  <a href="https://thehackernews.com/2026/10/mi5-says-chinas-mss-funded-research.html" target="_blank">MI5 Says China’s MSS Funded Research Involving 100+ U.K.-Linked Academics</a>
+  <a href="https://thehackernews.com/2026/10/shinyhunters-suspect-rey-reportedly.html" target="_blank">ShinyHunters Suspect Rey Reportedly Detained in Jordan, Helping FBI Identify Group Members</a>
   <!-- CVE_END -->
 
 > **📰 Latest Tech News:** <br/>
 > <!-- NEWS_START -->
-  <a href="https://news.ycombinator.com/item?id=49949438" target="_blank">Tell HN: Bob Cringely has died</a>
+  <a href="https://gamehistory.org/5k-magazines/" target="_blank">VGHF Digital Archive passes 5000 magazines. Here's what's next</a>
   <!-- NEWS_END -->
 
 
