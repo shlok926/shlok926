@@ -14,7 +14,7 @@
 
 <p align="center">
   <!-- WEATHER_START -->
-  📍 **Pune, India** | 🕒 **IST (UTC+5:30)** | ⛅ **26.6°C**
+  📍 **Pune, India** | 🕒 **IST (UTC+5:30)** | ⛅ **22.7°C**
   <!-- WEATHER_END -->
 </p>
 
@@ -34,12 +34,12 @@ I build at the intersection of Cyber Security, Artificial Intelligence, and Quan
 ##  Daily Updates
 > **🐛 Latest CVE:** <br/>
 > <!-- CVE_START -->
-  <a href="https://thehackernews.com/2026/10/the-credential-layer-is-expanding.html" target="_blank">The Credential Layer Is Expanding Faster Than Security Teams Can See It</a>
+  <a href="https://thehackernews.com/2026/10/microsoft-exchange-flaw-lets.html" target="_blank">Microsoft Exchange Flaw Lets Authenticated Attackers Read Other Users' Mailboxes</a>
   <!-- CVE_END -->
 
 > **📰 Latest Tech News:** <br/>
 > <!-- NEWS_START -->
-  <a href="https://discuss.grapheneos.org/d/41564-pixel-11-doesnt-yet-meet-the-grapheneos-security-standards-and-may-be-skipped" target="_blank">Pixel 11 doesn't yet meet the GrapheneOS security standards and may be skipped</a>
+  <a href="https://www.niemanlab.org/2026/10/chatgpt-is-adding-real-cartoonists-signatures-to-fake-new-yorker-cartoons/" target="_blank">ChatGPT is adding real cartoonists' signatures to fake New Yorker cartoons</a>
   <!-- NEWS_END -->
 
 
@@ -63,7 +63,7 @@ I build at the intersection of Cyber Security, Artificial Intelligence, and Quan
 ---
 <p align="center">
   <!-- QUOTE_START -->
-  <i>"Security is a process, not a product." – Bruce Schneier</i>
+  <i>"Hardware is easy to protect: lock it in a room, chain it to a desk, or buy a spare. Information poses more of a problem." – Bruce Schneier</i>
   <!-- QUOTE_END -->
 </p>
 
