@@ -14,7 +14,7 @@
 
 <p align="center">
   <!-- WEATHER_START -->
-  📍 **Pune, India** | 🕒 **IST (UTC+5:30)** | ⛅ **30.8°C**
+  📍 **Pune, India** | 🕒 **IST (UTC+5:30)** | ⛅ **26.6°C**
   <!-- WEATHER_END -->
 </p>
 
@@ -34,12 +34,12 @@ I build at the intersection of Cyber Security, Artificial Intelligence, and Quan
 ##  Daily Updates
 > **🐛 Latest CVE:** <br/>
 > <!-- CVE_START -->
-  <a href="https://thehackernews.com/2026/10/shinyhunters-suspect-rey-reportedly.html" target="_blank">ShinyHunters Suspect Rey Reportedly Detained in Jordan, Helping FBI Identify Group Members</a>
+  <a href="https://thehackernews.com/2026/10/the-credential-layer-is-expanding.html" target="_blank">The Credential Layer Is Expanding Faster Than Security Teams Can See It</a>
   <!-- CVE_END -->
 
 > **📰 Latest Tech News:** <br/>
 > <!-- NEWS_START -->
-  <a href="https://www.motorsport.com/f1/news/horrible-totally-unacceptable-powerless-f1-drivers-frustrated-by-bahrain-f1-software-glitch/10861968/" target="_blank">Powerless F1 drivers frustrated by Bahrain F1 software glitch</a>
+  <a href="https://discuss.grapheneos.org/d/41564-pixel-11-doesnt-yet-meet-the-grapheneos-security-standards-and-may-be-skipped" target="_blank">Pixel 11 doesn't yet meet the GrapheneOS security standards and may be skipped</a>
   <!-- NEWS_END -->
 
 
