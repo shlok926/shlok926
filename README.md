@@ -14,7 +14,7 @@
 
 <p align="center">
   <!-- WEATHER_START -->
-  📍 **Pune, India** | 🕒 **IST (UTC+5:30)** | ⛅ **31.3°C**
+  📍 **Pune, India** | 🕒 **IST (UTC+5:30)** | ⛅ **24.9°C**
   <!-- WEATHER_END -->
 </p>
 
@@ -34,12 +34,12 @@ I build at the intersection of Cyber Security, Artificial Intelligence, and Quan
 ##  Daily Updates
 > **🐛 Latest CVE:** <br/>
 > <!-- CVE_START -->
-  <a href="https://thehackernews.com/2026/10/denmark-says-attackers-accessed-cpr.html" target="_blank">Denmark Says Attackers Accessed CPR Data for 8.8 Million People via Company Account</a>
+  <a href="https://thehackernews.com/2026/10/libreoffice-and-openoffice-flaws-let.html" target="_blank">LibreOffice and OpenOffice Flaws Let Malicious Spreadsheets Run Code Without Macro Warnings</a>
   <!-- CVE_END -->
 
 > **📰 Latest Tech News:** <br/>
 > <!-- NEWS_START -->
-  <a href="https://www.vivienhenz.com/common-lisp" target="_blank">Why Common Lisp is now the best programming language</a>
+  <a href="https://mistral.ai/news/mistral-large-4/\" target="_blank">Mistral Large 4</a>
   <!-- NEWS_END -->
 
 
@@ -63,7 +63,7 @@ I build at the intersection of Cyber Security, Artificial Intelligence, and Quan
 ---
 <p align="center">
   <!-- QUOTE_START -->
-  <i>"The only truly secure system is one that is powered off, cast in a block of concrete and sealed in a lead-lined room with armed guards - and even then I have my doubts." – Gene Spafford</i>
+  <i>"Cybersecurity is a shared responsibility, and it boils down to this: in cybersecurity, the more systems we secure, the more secure we all are." – Jeh Johnson</i>
   <!-- QUOTE_END -->
 </p>
 
