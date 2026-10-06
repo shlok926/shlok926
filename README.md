@@ -14,7 +14,7 @@
 
 <p align="center">
   <!-- WEATHER_START -->
-  📍 **Pune, India** | 🕒 **IST (UTC+5:30)** | ⛅ **22.7°C**
+  📍 **Pune, India** | 🕒 **IST (UTC+5:30)** | ⛅ **31.3°C**
   <!-- WEATHER_END -->
 </p>
 
@@ -34,12 +34,12 @@ I build at the intersection of Cyber Security, Artificial Intelligence, and Quan
 ##  Daily Updates
 > **🐛 Latest CVE:** <br/>
 > <!-- CVE_START -->
-  <a href="https://thehackernews.com/2026/10/microsoft-exchange-flaw-lets.html" target="_blank">Microsoft Exchange Flaw Lets Authenticated Attackers Read Other Users' Mailboxes</a>
+  <a href="https://thehackernews.com/2026/10/denmark-says-attackers-accessed-cpr.html" target="_blank">Denmark Says Attackers Accessed CPR Data for 8.8 Million People via Company Account</a>
   <!-- CVE_END -->
 
 > **📰 Latest Tech News:** <br/>
 > <!-- NEWS_START -->
-  <a href="https://www.niemanlab.org/2026/10/chatgpt-is-adding-real-cartoonists-signatures-to-fake-new-yorker-cartoons/" target="_blank">ChatGPT is adding real cartoonists' signatures to fake New Yorker cartoons</a>
+  <a href="https://www.vivienhenz.com/common-lisp" target="_blank">Why Common Lisp is now the best programming language</a>
   <!-- NEWS_END -->
 
 
@@ -63,7 +63,7 @@ I build at the intersection of Cyber Security, Artificial Intelligence, and Quan
 ---
 <p align="center">
   <!-- QUOTE_START -->
-  <i>"Hardware is easy to protect: lock it in a room, chain it to a desk, or buy a spare. Information poses more of a problem." – Bruce Schneier</i>
+  <i>"The only truly secure system is one that is powered off, cast in a block of concrete and sealed in a lead-lined room with armed guards - and even then I have my doubts." – Gene Spafford</i>
   <!-- QUOTE_END -->
 </p>
 
