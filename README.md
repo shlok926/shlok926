@@ -14,7 +14,7 @@
 
 <p align="center">
   <!-- WEATHER_START -->
-  📍 **Pune, India** | 🕒 **IST (UTC+5:30)** | ⛅ **30.4°C**
+  📍 **Pune, India** | 🕒 **IST (UTC+5:30)** | ⛅ **24.2°C**
   <!-- WEATHER_END -->
 </p>
 
@@ -34,12 +34,12 @@ I build at the intersection of Cyber Security, Artificial Intelligence, and Quan
 ##  Daily Updates
 > **🐛 Latest CVE:** <br/>
 > <!-- CVE_START -->
-  <a href="https://thehackernews.com/2026/10/the-sixth-voice-of-ciso-data-shows.html" target="_blank">The Sixth Voice of the CISO Data Shows Cyber Risk Has Moved Inside the Workflow</a>
+  <a href="https://thehackernews.com/2026/10/attackers-hijack-gh-sl-and-as.html" target="_blank">Attackers Hijack .gh, .sl, and .as Registries to Obtain Certificates for Google Domains</a>
   <!-- CVE_END -->
 
 > **📰 Latest Tech News:** <br/>
 > <!-- NEWS_START -->
-  <a href="https://developer.chrome.com/blog/jpeg-xl-in-chrome" target="_blank">Shipping JPEG XL in Chrome</a>
+  <a href="https://www.anthropic.com/claude-haiku-5-5" target="_blank">Claude Haiku 5.5</a>
   <!-- NEWS_END -->
 
 
@@ -63,7 +63,7 @@ I build at the intersection of Cyber Security, Artificial Intelligence, and Quan
 ---
 <p align="center">
   <!-- QUOTE_START -->
-  <i>"There are only two types of companies: those that have been hacked, and those that will be." – Robert Mueller</i>
+  <i>"Cybersecurity is a shared responsibility, and it boils down to this: in cybersecurity, the more systems we secure, the more secure we all are." – Jeh Johnson</i>
   <!-- QUOTE_END -->
 </p>
 
