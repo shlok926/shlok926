@@ -14,7 +14,7 @@
 
 <p align="center">
   <!-- WEATHER_START -->
-  📍 **Pune, India** | 🕒 **IST (UTC+5:30)** | ⛅ **24.9°C**
+  📍 **Pune, India** | 🕒 **IST (UTC+5:30)** | ⛅ **31.8°C**
   <!-- WEATHER_END -->
 </p>
 
@@ -34,12 +34,12 @@ I build at the intersection of Cyber Security, Artificial Intelligence, and Quan
 ##  Daily Updates
 > **🐛 Latest CVE:** <br/>
 > <!-- CVE_START -->
-  <a href="https://thehackernews.com/2026/10/libreoffice-and-openoffice-flaws-let.html" target="_blank">LibreOffice and OpenOffice Flaws Let Malicious Spreadsheets Run Code Without Macro Warnings</a>
+  <a href="https://thehackernews.com/2026/10/fake-chatgpt-gemini-and-claude-ad.html" target="_blank">Fake ChatGPT, Gemini, and Claude Ad Portals Capture Credentials and MFA Codes</a>
   <!-- CVE_END -->
 
 > **📰 Latest Tech News:** <br/>
 > <!-- NEWS_START -->
-  <a href="https://mistral.ai/news/mistral-large-4/\" target="_blank">Mistral Large 4</a>
+  <a href="https://openai.com/index/sharing-ai-progress-in-mathematics/" target="_blank">Sharing AI progress in mathematics</a>
   <!-- NEWS_END -->
 
 
@@ -63,7 +63,7 @@ I build at the intersection of Cyber Security, Artificial Intelligence, and Quan
 ---
 <p align="center">
   <!-- QUOTE_START -->
-  <i>"Cybersecurity is a shared responsibility, and it boils down to this: in cybersecurity, the more systems we secure, the more secure we all are." – Jeh Johnson</i>
+  <i>"Some people worry that artificial intelligence will make us feel inferior, but then, anybody in his right mind should have an inferiority complex every time he looks at a flower." – Alan Kay</i>
   <!-- QUOTE_END -->
 </p>
 
