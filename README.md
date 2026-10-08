@@ -14,7 +14,7 @@
 
 <p align="center">
   <!-- WEATHER_START -->
-  📍 **Pune, India** | 🕒 **IST (UTC+5:30)** | ⛅ **31.4°C**
+  📍 **Pune, India** | 🕒 **IST (UTC+5:30)** | ⛅ **30.4°C**
   <!-- WEATHER_END -->
 </p>
 
@@ -34,12 +34,12 @@ I build at the intersection of Cyber Security, Artificial Intelligence, and Quan
 ##  Daily Updates
 > **🐛 Latest CVE:** <br/>
 > <!-- CVE_START -->
-  <a href="https://thehackernews.com/2026/10/attackers-hijack-gh-sl-and-as.html" target="_blank">Attackers Hijack .gh, .sl, and .as Registries to Obtain Certificates for Google Domains</a>
+  <a href="https://thehackernews.com/2026/10/wazza-phishkit-targets-banking.html" target="_blank">Wazza Phishkit Targets Banking, Government, and Manufacturing Across the US, EU, and Australia</a>
   <!-- CVE_END -->
 
 > **📰 Latest Tech News:** <br/>
 > <!-- NEWS_START -->
-  <a href="https://mathstodon.xyz/@tao/117395269325940185" target="_blank">Terence Tao Responds to the OpenAI Math Drop</a>
+  <a href="https://mathstodon.xyz/@tao/117395269325940185" target="_blank">“Math 2.0” will need to value mathematical progress more holistically</a>
   <!-- NEWS_END -->
 
 
@@ -63,7 +63,7 @@ I build at the intersection of Cyber Security, Artificial Intelligence, and Quan
 ---
 <p align="center">
   <!-- QUOTE_START -->
-  <i>"One of the main cyber-risks is to think they don’t exist." – Stephane Nappo</i>
+  <i>"Security is a process, not a product." – Bruce Schneier</i>
   <!-- QUOTE_END -->
 </p>
 
