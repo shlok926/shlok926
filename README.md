@@ -14,7 +14,7 @@
 
 <p align="center">
   <!-- WEATHER_START -->
-  📍 **Pune, India** | 🕒 **IST (UTC+5:30)** | ⛅ **24.2°C**
+  📍 **Pune, India** | 🕒 **IST (UTC+5:30)** | ⛅ **31.4°C**
   <!-- WEATHER_END -->
 </p>
 
@@ -39,7 +39,7 @@ I build at the intersection of Cyber Security, Artificial Intelligence, and Quan
 
 > **📰 Latest Tech News:** <br/>
 > <!-- NEWS_START -->
-  <a href="https://www.anthropic.com/claude-haiku-5-5" target="_blank">Claude Haiku 5.5</a>
+  <a href="https://mathstodon.xyz/@tao/117395269325940185" target="_blank">Terence Tao Responds to the OpenAI Math Drop</a>
   <!-- NEWS_END -->
 
 
@@ -63,7 +63,7 @@ I build at the intersection of Cyber Security, Artificial Intelligence, and Quan
 ---
 <p align="center">
   <!-- QUOTE_START -->
-  <i>"Cybersecurity is a shared responsibility, and it boils down to this: in cybersecurity, the more systems we secure, the more secure we all are." – Jeh Johnson</i>
+  <i>"One of the main cyber-risks is to think they don’t exist." – Stephane Nappo</i>
   <!-- QUOTE_END -->
 </p>
 
