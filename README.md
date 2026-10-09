@@ -14,7 +14,7 @@
 
 <p align="center">
   <!-- WEATHER_START -->
-  📍 **Pune, India** | 🕒 **IST (UTC+5:30)** | ⛅ **32.2°C**
+  📍 **Pune, India** | 🕒 **IST (UTC+5:30)** | ⛅ **29.9°C**
   <!-- WEATHER_END -->
 </p>
 
@@ -34,12 +34,12 @@ I build at the intersection of Cyber Security, Artificial Intelligence, and Quan
 ##  Daily Updates
 > **🐛 Latest CVE:** <br/>
 > <!-- CVE_START -->
-  <a href="https://thehackernews.com/2026/10/fbi-says-china-linked-hackers-ran.html" target="_blank">FBI Says China-Linked Hackers Ran Portal Giving Third Parties Access to Stolen Emails</a>
+  <a href="https://thehackernews.com/2026/10/flax-typhoon-exploits-five-flaws-as.html" target="_blank">Flax Typhoon Exploits Five Flaws as CISA Sets October 11 Deadline for Federal Agencies</a>
   <!-- CVE_END -->
 
 > **📰 Latest Tech News:** <br/>
 > <!-- NEWS_START -->
-  <a href="https://quake-srp.pages.dev/" target="_blank">Show HN: Quake ported to safe Rust, playable in browser</a>
+  <a href="https://github.com/franzenzenhofer/big-arrow-on-the-screen" target="_blank">Let your AI agents paint big arrows, boxes and text on your screen</a>
   <!-- NEWS_END -->
 
 
@@ -63,7 +63,7 @@ I build at the intersection of Cyber Security, Artificial Intelligence, and Quan
 ---
 <p align="center">
   <!-- QUOTE_START -->
-  <i>"Cybersecurity is a shared responsibility, and it boils down to this: in cybersecurity, the more systems we secure, the more secure we all are." – Jeh Johnson</i>
+  <i>"The question of whether a computer can think is no more interesting than the question of whether a submarine can swim." – Edsger W. Dijkstra</i>
   <!-- QUOTE_END -->
 </p>
 
