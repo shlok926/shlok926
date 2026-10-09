@@ -14,7 +14,7 @@
 
 <p align="center">
   <!-- WEATHER_START -->
-  📍 **Pune, India** | 🕒 **IST (UTC+5:30)** | ⛅ **29.9°C**
+  📍 **Pune, India** | 🕒 **IST (UTC+5:30)** | ⛅ **25.6°C**
   <!-- WEATHER_END -->
 </p>
 
@@ -34,12 +34,12 @@ I build at the intersection of Cyber Security, Artificial Intelligence, and Quan
 ##  Daily Updates
 > **🐛 Latest CVE:** <br/>
 > <!-- CVE_START -->
-  <a href="https://thehackernews.com/2026/10/flax-typhoon-exploits-five-flaws-as.html" target="_blank">Flax Typhoon Exploits Five Flaws as CISA Sets October 11 Deadline for Federal Agencies</a>
+  <a href="https://thehackernews.com/2026/10/credential-stealing-github-actions.html" target="_blank">Credential-Stealing GitHub Actions Workflows Planted in Tens of Thousands of Repositories</a>
   <!-- CVE_END -->
 
 > **📰 Latest Tech News:** <br/>
 > <!-- NEWS_START -->
-  <a href="https://github.com/franzenzenhofer/big-arrow-on-the-screen" target="_blank">Let your AI agents paint big arrows, boxes and text on your screen</a>
+  <a href="https://gizmodo.com/youtuber-says-cops-paid-him-a-visit-after-he-built-flock-style-camera-to-track-cops-2000824306" target="_blank">YouTuber Says Cops Visited Him After He Built a Flock-Style Camera to Track Cops</a>
   <!-- NEWS_END -->
 
 
@@ -63,7 +63,7 @@ I build at the intersection of Cyber Security, Artificial Intelligence, and Quan
 ---
 <p align="center">
   <!-- QUOTE_START -->
-  <i>"The question of whether a computer can think is no more interesting than the question of whether a submarine can swim." – Edsger W. Dijkstra</i>
+  <i>"We are entering a new world. The technologies of machine learning, speech recognition, and natural language understanding are reaching a nexus of capability." – Bill Gates</i>
   <!-- QUOTE_END -->
 </p>
 
