@@ -14,7 +14,7 @@
 
 <p align="center">
   <!-- WEATHER_START -->
-  📍 **Pune, India** | 🕒 **IST (UTC+5:30)** | ⛅ **31.7°C**
+  📍 **Pune, India** | 🕒 **IST (UTC+5:30)** | ⛅ **30.8°C**
   <!-- WEATHER_END -->
 </p>
 
@@ -34,12 +34,12 @@ I build at the intersection of Cyber Security, Artificial Intelligence, and Quan
 ##  Daily Updates
 > **🐛 Latest CVE:** <br/>
 > <!-- CVE_START -->
-  <a href="https://thehackernews.com/2026/10/credential-stealing-github-actions.html" target="_blank">Credential-Stealing GitHub Actions Workflows Planted in Tens of Thousands of Repositories</a>
+  <a href="https://thehackernews.com/2026/10/the-third-party-agent-problem-why.html" target="_blank">The Third-Party Agent Problem: Why Security Built for AI You Chose Misses the Agents You Didn't</a>
   <!-- CVE_END -->
 
 > **📰 Latest Tech News:** <br/>
 > <!-- NEWS_START -->
-  <a href="https://geohot.github.io//blog/jekyll/update/2026/10/10/lobbying.html" target="_blank">Lobbying</a>
+  <a href="https://cphpost.dk/2026-10-10/news/round-up/123456-password-used-in-massive-danish-cpr-data-breach/" target="_blank">`123456' password used in Danish CPR data breach</a>
   <!-- NEWS_END -->
 
 
@@ -63,7 +63,7 @@ I build at the intersection of Cyber Security, Artificial Intelligence, and Quan
 ---
 <p align="center">
   <!-- QUOTE_START -->
-  <i>"Privacy is not an option, and it shouldn't be the price we accept for just getting on the internet." – Gary Kovacs</i>
+  <i>"Some people worry that artificial intelligence will make us feel inferior, but then, anybody in his right mind should have an inferiority complex every time he looks at a flower." – Alan Kay</i>
   <!-- QUOTE_END -->
 </p>
 
