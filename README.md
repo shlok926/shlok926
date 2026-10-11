@@ -14,7 +14,7 @@
 
 <p align="center">
   <!-- WEATHER_START -->
-  📍 **Pune, India** | 🕒 **IST (UTC+5:30)** | ⛅ **31.6°C**
+  📍 **Pune, India** | 🕒 **IST (UTC+5:30)** | ⛅ **31.5°C**
   <!-- WEATHER_END -->
 </p>
 
@@ -39,7 +39,7 @@ I build at the intersection of Cyber Security, Artificial Intelligence, and Quan
 
 > **📰 Latest Tech News:** <br/>
 > <!-- NEWS_START -->
-  <a href="https://wallhop.io/" target="_blank">WallHop – 12ft.io is gone, so I built a replacement</a>
+  <a href="https://radar.cloudflare.com/bots/as13238?dateRange=7d" target="_blank">Sudden drop in Cloudflare bot traffic after strike on Yandex datacenter</a>
   <!-- NEWS_END -->
 
 
