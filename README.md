@@ -14,7 +14,7 @@
 
 <p align="center">
   <!-- WEATHER_START -->
-  📍 **Pune, India** | 🕒 **IST (UTC+5:30)** | ⛅ **31.5°C**
+  📍 **Pune, India** | 🕒 **IST (UTC+5:30)** | ⛅ **25.3°C**
   <!-- WEATHER_END -->
 </p>
 
@@ -39,7 +39,7 @@ I build at the intersection of Cyber Security, Artificial Intelligence, and Quan
 
 > **📰 Latest Tech News:** <br/>
 > <!-- NEWS_START -->
-  <a href="https://radar.cloudflare.com/bots/as13238?dateRange=7d" target="_blank">Sudden drop in Cloudflare bot traffic after strike on Yandex datacenter</a>
+  <a href="https://nanolathe.gg" target="_blank">Total Annihilation, rebuilt for modern computers</a>
   <!-- NEWS_END -->
 
 
@@ -63,7 +63,7 @@ I build at the intersection of Cyber Security, Artificial Intelligence, and Quan
 ---
 <p align="center">
   <!-- QUOTE_START -->
-  <i>"If you think technology can solve your security problems, then you don't understand the problems and you don't understand the technology." – Bruce Schneier</i>
+  <i>"The only truly secure system is one that is powered off, cast in a block of concrete and sealed in a lead-lined room with armed guards - and even then I have my doubts." – Gene Spafford</i>
   <!-- QUOTE_END -->
 </p>
 
