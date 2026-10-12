@@ -14,7 +14,7 @@
 
 <p align="center">
   <!-- WEATHER_START -->
-  📍 **Pune, India** | 🕒 **IST (UTC+5:30)** | ⛅ **31.5°C**
+  📍 **Pune, India** | 🕒 **IST (UTC+5:30)** | ⛅ **29.4°C**
   <!-- WEATHER_END -->
 </p>
 
@@ -34,12 +34,12 @@ I build at the intersection of Cyber Security, Artificial Intelligence, and Quan
 ##  Daily Updates
 > **🐛 Latest CVE:** <br/>
 > <!-- CVE_START -->
-  <a href="https://thehackernews.com/2026/10/p7-darksword-ios-exploit-kit-adds.html" target="_blank">P7 DarkSword iOS Exploit Kit Adds Crypto Wallet Data Theft and Remote Commands</a>
+  <a href="https://thehackernews.com/2026/10/bring-your-own-agent-your-employees.html" target="_blank">Bring Your Own Agent: Your Employees' Assistants Are Already Logged In</a>
   <!-- CVE_END -->
 
 > **📰 Latest Tech News:** <br/>
 > <!-- NEWS_START -->
-  <a href="https://lalinsky.com/2026/10/11/type-safe-html-templating-in-zig.html" target="_blank">Type-safe HTML templating in Zig</a>
+  <a href="https://mortoray.com/why-arent-ai-companies-being-charged-for-hacking/" target="_blank">Why aren't AI companies being charged for hacking?</a>
   <!-- NEWS_END -->
 
 
@@ -63,7 +63,7 @@ I build at the intersection of Cyber Security, Artificial Intelligence, and Quan
 ---
 <p align="center">
   <!-- QUOTE_START -->
-  <i>"Some people worry that artificial intelligence will make us feel inferior, but then, anybody in his right mind should have an inferiority complex every time he looks at a flower." – Alan Kay</i>
+  <i>"Hardware is easy to protect: lock it in a room, chain it to a desk, or buy a spare. Information poses more of a problem." – Bruce Schneier</i>
   <!-- QUOTE_END -->
 </p>
 
