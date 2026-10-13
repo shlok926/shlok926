@@ -14,7 +14,7 @@
 
 <p align="center">
   <!-- WEATHER_START -->
-  📍 **Pune, India** | 🕒 **IST (UTC+5:30)** | ⛅ **29.4°C**
+  📍 **Pune, India** | 🕒 **IST (UTC+5:30)** | ⛅ **23.9°C**
   <!-- WEATHER_END -->
 </p>
 
@@ -34,12 +34,12 @@ I build at the intersection of Cyber Security, Artificial Intelligence, and Quan
 ##  Daily Updates
 > **🐛 Latest CVE:** <br/>
 > <!-- CVE_START -->
-  <a href="https://thehackernews.com/2026/10/bring-your-own-agent-your-employees.html" target="_blank">Bring Your Own Agent: Your Employees' Assistants Are Already Logged In</a>
+  <a href="https://thehackernews.com/2026/10/weekly-recap-helpdesk-0-days-rogue.html" target="_blank">⚡ Weekly Recap: Helpdesk 0-Days, Rogue Certs, ShinyHunters Arrest, AI-Fooling Malware and More</a>
   <!-- CVE_END -->
 
 > **📰 Latest Tech News:** <br/>
 > <!-- NEWS_START -->
-  <a href="https://mortoray.com/why-arent-ai-companies-being-charged-for-hacking/" target="_blank">Why aren't AI companies being charged for hacking?</a>
+  <a href="https://doi.org/10.1111/acel.70751" target="_blank">Blood cells from 80-year-old donor become stem cells with molecular age under 20</a>
   <!-- NEWS_END -->
 
 
@@ -63,7 +63,7 @@ I build at the intersection of Cyber Security, Artificial Intelligence, and Quan
 ---
 <p align="center">
   <!-- QUOTE_START -->
-  <i>"Hardware is easy to protect: lock it in a room, chain it to a desk, or buy a spare. Information poses more of a problem." – Bruce Schneier</i>
+  <i>"Cybersecurity is a shared responsibility, and it boils down to this: in cybersecurity, the more systems we secure, the more secure we all are." – Jeh Johnson</i>
   <!-- QUOTE_END -->
 </p>
 
