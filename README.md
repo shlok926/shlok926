@@ -14,7 +14,7 @@
 
 <p align="center">
   <!-- WEATHER_START -->
-  📍 **Pune, India** | 🕒 **IST (UTC+5:30)** | ⛅ **23.9°C**
+  📍 **Pune, India** | 🕒 **IST (UTC+5:30)** | ⛅ **30.3°C**
   <!-- WEATHER_END -->
 </p>
 
@@ -34,12 +34,12 @@ I build at the intersection of Cyber Security, Artificial Intelligence, and Quan
 ##  Daily Updates
 > **🐛 Latest CVE:** <br/>
 > <!-- CVE_START -->
-  <a href="https://thehackernews.com/2026/10/weekly-recap-helpdesk-0-days-rogue.html" target="_blank">⚡ Weekly Recap: Helpdesk 0-Days, Rogue Certs, ShinyHunters Arrest, AI-Fooling Malware and More</a>
+  <a href="https://thehackernews.com/2026/10/webinar-how-to-stop-ai-driven-privilege.html" target="_blank">[Webinar] How to Stop AI-Driven Privilege Escalation With Runtime Identity Controls</a>
   <!-- CVE_END -->
 
 > **📰 Latest Tech News:** <br/>
 > <!-- NEWS_START -->
-  <a href="https://doi.org/10.1111/acel.70751" target="_blank">Blood cells from 80-year-old donor become stem cells with molecular age under 20</a>
+  <a href="https://github.com/rust-lang/rust/issues/164250" target="_blank">11 year old unsoundness bugs found in Rust borrow checker</a>
   <!-- NEWS_END -->
 
 
@@ -63,7 +63,7 @@ I build at the intersection of Cyber Security, Artificial Intelligence, and Quan
 ---
 <p align="center">
   <!-- QUOTE_START -->
-  <i>"Cybersecurity is a shared responsibility, and it boils down to this: in cybersecurity, the more systems we secure, the more secure we all are." – Jeh Johnson</i>
+  <i>"Some people worry that artificial intelligence will make us feel inferior, but then, anybody in his right mind should have an inferiority complex every time he looks at a flower." – Alan Kay</i>
   <!-- QUOTE_END -->
 </p>
 
