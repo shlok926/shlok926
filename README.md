@@ -14,7 +14,7 @@
 
 <p align="center">
   <!-- WEATHER_START -->
-  📍 **Pune, India** | 🕒 **IST (UTC+5:30)** | ⛅ **30.3°C**
+  📍 **Pune, India** | 🕒 **IST (UTC+5:30)** | ⛅ **24.6°C**
   <!-- WEATHER_END -->
 </p>
 
@@ -34,12 +34,12 @@ I build at the intersection of Cyber Security, Artificial Intelligence, and Quan
 ##  Daily Updates
 > **🐛 Latest CVE:** <br/>
 > <!-- CVE_START -->
-  <a href="https://thehackernews.com/2026/10/webinar-how-to-stop-ai-driven-privilege.html" target="_blank">[Webinar] How to Stop AI-Driven Privilege Escalation With Runtime Identity Controls</a>
+  <a href="https://thehackernews.com/2026/10/anthropic-warns-small-ai-models-could.html" target="_blank">Anthropic Warns Small AI Models Could Soon Form Self-Propagating IoT Botnets</a>
   <!-- CVE_END -->
 
 > **📰 Latest Tech News:** <br/>
 > <!-- NEWS_START -->
-  <a href="https://github.com/rust-lang/rust/issues/164250" target="_blank">11 year old unsoundness bugs found in Rust borrow checker</a>
+  <a href="https://sfstandard.com/2026/10/13/openai-engineer-arrested-alleged-bugging-executive-conference-room/" target="_blank">OpenAI engineer arrested in bugging of executive conference room</a>
   <!-- NEWS_END -->
 
 
@@ -63,7 +63,7 @@ I build at the intersection of Cyber Security, Artificial Intelligence, and Quan
 ---
 <p align="center">
   <!-- QUOTE_START -->
-  <i>"Some people worry that artificial intelligence will make us feel inferior, but then, anybody in his right mind should have an inferiority complex every time he looks at a flower." – Alan Kay</i>
+  <i>"The only truly secure system is one that is powered off, cast in a block of concrete and sealed in a lead-lined room with armed guards - and even then I have my doubts." – Gene Spafford</i>
   <!-- QUOTE_END -->
 </p>
 
