@@ -14,7 +14,7 @@
 
 <p align="center">
   <!-- WEATHER_START -->
-  📍 **Pune, India** | 🕒 **IST (UTC+5:30)** | ⛅ **29.2°C**
+  📍 **Pune, India** | 🕒 **IST (UTC+5:30)** | ⛅ **31.8°C**
   <!-- WEATHER_END -->
 </p>
 
@@ -34,12 +34,12 @@ I build at the intersection of Cyber Security, Artificial Intelligence, and Quan
 ##  Daily Updates
 > **🐛 Latest CVE:** <br/>
 > <!-- CVE_START -->
-  <a href="https://thehackernews.com/2026/10/openai-employee-arrested-for-allegedly.html" target="_blank">OpenAI Employee Arrested for Allegedly Planting Hidden Recorder in Executive Conference Room</a>
+  <a href="https://thehackernews.com/2026/10/researchers-used-public-openai-model-to.html" target="_blank">Researchers Used a Public OpenAI Model to Build a $250,000 Chrome Full-Chain Exploit in Six Days</a>
   <!-- CVE_END -->
 
 > **📰 Latest Tech News:** <br/>
 > <!-- NEWS_START -->
-  <a href="https://deepmind.google/models/gemini/" target="_blank">Gemini 4 Argon</a>
+  <a href="https://typeof.net/Iosevka/" target="_blank">Iosevka is an open-source, sans-serif and slab-serif, monospace font</a>
   <!-- NEWS_END -->
 
 
@@ -63,7 +63,7 @@ I build at the intersection of Cyber Security, Artificial Intelligence, and Quan
 ---
 <p align="center">
   <!-- QUOTE_START -->
-  <i>"One of the main cyber-risks is to think they don’t exist." – Stephane Nappo</i>
+  <i>"There are only two types of companies: those that have been hacked, and those that will be." – Robert Mueller</i>
   <!-- QUOTE_END -->
 </p>
 
