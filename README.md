@@ -14,7 +14,7 @@
 
 <p align="center">
   <!-- WEATHER_START -->
-  📍 **Pune, India** | 🕒 **IST (UTC+5:30)** | ⛅ **27.3°C**
+  📍 **Pune, India** | 🕒 **IST (UTC+5:30)** | ⛅ **24.8°C**
   <!-- WEATHER_END -->
 </p>
 
@@ -34,12 +34,12 @@ I build at the intersection of Cyber Security, Artificial Intelligence, and Quan
 ##  Daily Updates
 > **🐛 Latest CVE:** <br/>
 > <!-- CVE_START -->
-  <a href="https://thehackernews.com/2026/10/us-shuts-down-over-40-laptop-farms.html" target="_blank">U.S. Shuts Down Over 40 Laptop Farms, Charges 14 in North Korean IT Worker Fraud</a>
+  <a href="https://thehackernews.com/2026/10/cisco-warns-of-active-attacks.html" target="_blank">Cisco Warns of Active Attacks Exploiting New Critical Secure Email Gateway Vulnerability</a>
   <!-- CVE_END -->
 
 > **📰 Latest Tech News:** <br/>
 > <!-- NEWS_START -->
-  <a href="https://typeof.net/Iosevka/" target="_blank">Iosevka is an open-source, sans-serif and slab-serif, monospace font</a>
+  <a href="https://jjmaxwell4.com/writing/things-to-know-when-you-get-cancer/" target="_blank">Things to know when you get cancer – 2026 Edition</a>
   <!-- NEWS_END -->
 
 
@@ -63,7 +63,7 @@ I build at the intersection of Cyber Security, Artificial Intelligence, and Quan
 ---
 <p align="center">
   <!-- QUOTE_START -->
-  <i>"Artificial intelligence is the new electricity." – Andrew Ng</i>
+  <i>"Amateurs hack systems, professionals hack people." – Bruce Schneier</i>
   <!-- QUOTE_END -->
 </p>
 
