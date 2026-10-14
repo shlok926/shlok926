@@ -14,7 +14,7 @@
 
 <p align="center">
   <!-- WEATHER_START -->
-  📍 **Pune, India** | 🕒 **IST (UTC+5:30)** | ⛅ **24.6°C**
+  📍 **Pune, India** | 🕒 **IST (UTC+5:30)** | ⛅ **29.2°C**
   <!-- WEATHER_END -->
 </p>
 
@@ -34,12 +34,12 @@ I build at the intersection of Cyber Security, Artificial Intelligence, and Quan
 ##  Daily Updates
 > **🐛 Latest CVE:** <br/>
 > <!-- CVE_START -->
-  <a href="https://thehackernews.com/2026/10/anthropic-warns-small-ai-models-could.html" target="_blank">Anthropic Warns Small AI Models Could Soon Form Self-Propagating IoT Botnets</a>
+  <a href="https://thehackernews.com/2026/10/openai-employee-arrested-for-allegedly.html" target="_blank">OpenAI Employee Arrested for Allegedly Planting Hidden Recorder in Executive Conference Room</a>
   <!-- CVE_END -->
 
 > **📰 Latest Tech News:** <br/>
 > <!-- NEWS_START -->
-  <a href="https://sfstandard.com/2026/10/13/openai-engineer-arrested-alleged-bugging-executive-conference-room/" target="_blank">OpenAI engineer arrested in bugging of executive conference room</a>
+  <a href="https://deepmind.google/models/gemini/" target="_blank">Gemini 4 Argon</a>
   <!-- NEWS_END -->
 
 
@@ -63,7 +63,7 @@ I build at the intersection of Cyber Security, Artificial Intelligence, and Quan
 ---
 <p align="center">
   <!-- QUOTE_START -->
-  <i>"The only truly secure system is one that is powered off, cast in a block of concrete and sealed in a lead-lined room with armed guards - and even then I have my doubts." – Gene Spafford</i>
+  <i>"One of the main cyber-risks is to think they don’t exist." – Stephane Nappo</i>
   <!-- QUOTE_END -->
 </p>
 
