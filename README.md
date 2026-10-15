@@ -14,7 +14,7 @@
 
 <p align="center">
   <!-- WEATHER_START -->
-  📍 **Pune, India** | 🕒 **IST (UTC+5:30)** | ⛅ **28.9°C**
+  📍 **Pune, India** | 🕒 **IST (UTC+5:30)** | ⛅ **31.5°C**
   <!-- WEATHER_END -->
 </p>
 
@@ -34,7 +34,7 @@ I build at the intersection of Cyber Security, Artificial Intelligence, and Quan
 ##  Daily Updates
 > **🐛 Latest CVE:** <br/>
 > <!-- CVE_START -->
-  <a href="https://thehackernews.com/2026/10/cisco-warns-of-active-attacks.html" target="_blank">Cisco Warns of Active Attacks Exploiting New Critical Secure Email Gateway Vulnerability</a>
+  <a href="https://thehackernews.com/2026/10/india-mandates-registered-caller-name.html" target="_blank">India Mandates Registered Caller Name Display on 4G and Newer Networks From November 1</a>
   <!-- CVE_END -->
 
 > **📰 Latest Tech News:** <br/>
@@ -63,7 +63,7 @@ I build at the intersection of Cyber Security, Artificial Intelligence, and Quan
 ---
 <p align="center">
   <!-- QUOTE_START -->
-  <i>"Security is a process, not a product." – Bruce Schneier</i>
+  <i>"We are entering a new world. The technologies of machine learning, speech recognition, and natural language understanding are reaching a nexus of capability." – Bill Gates</i>
   <!-- QUOTE_END -->
 </p>
 
