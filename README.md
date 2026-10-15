@@ -14,7 +14,7 @@
 
 <p align="center">
   <!-- WEATHER_START -->
-  📍 **Pune, India** | 🕒 **IST (UTC+5:30)** | ⛅ **24.8°C**
+  📍 **Pune, India** | 🕒 **IST (UTC+5:30)** | ⛅ **28.9°C**
   <!-- WEATHER_END -->
 </p>
 
@@ -39,7 +39,7 @@ I build at the intersection of Cyber Security, Artificial Intelligence, and Quan
 
 > **📰 Latest Tech News:** <br/>
 > <!-- NEWS_START -->
-  <a href="https://jjmaxwell4.com/writing/things-to-know-when-you-get-cancer/" target="_blank">Things to know when you get cancer – 2026 Edition</a>
+  <a href="https://jjmaxwell4.com/writing/things-to-know-when-you-get-cancer/" target="_blank">Things to know when you get cancer</a>
   <!-- NEWS_END -->
 
 
@@ -63,7 +63,7 @@ I build at the intersection of Cyber Security, Artificial Intelligence, and Quan
 ---
 <p align="center">
   <!-- QUOTE_START -->
-  <i>"Amateurs hack systems, professionals hack people." – Bruce Schneier</i>
+  <i>"Security is a process, not a product." – Bruce Schneier</i>
   <!-- QUOTE_END -->
 </p>
 
