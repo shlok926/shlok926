@@ -14,7 +14,7 @@
 
 <p align="center">
   <!-- WEATHER_START -->
-  📍 **Pune, India** | 🕒 **IST (UTC+5:30)** | ⛅ **32.5°C**
+  📍 **Pune, India** | 🕒 **IST (UTC+5:30)** | ⛅ **27.6°C**
   <!-- WEATHER_END -->
 </p>
 
@@ -34,12 +34,12 @@ I build at the intersection of Cyber Security, Artificial Intelligence, and Quan
 ##  Daily Updates
 > **🐛 Latest CVE:** <br/>
 > <!-- CVE_START -->
-  <a href="https://thehackernews.com/2026/10/china-linked-hackers-exploited.html" target="_blank">China-Linked Hackers Exploited BeyondTrust Zero-Day to Take Over Remote Support Servers</a>
+  <a href="https://thehackernews.com/2026/10/uat-11985-uses-fake-event-invites-to.html" target="_blank">UAT-11985 Uses Fake Event Invites to Target Taiwan Research Affiliates With Google AitM Phishing</a>
   <!-- CVE_END -->
 
 > **📰 Latest Tech News:** <br/>
 > <!-- NEWS_START -->
-  <a href="https://blog.ikaes.de/yet-another-way-to-invoke-functions-without-parentheses/" target="_blank">Yet another way to invoke functions without parentheses</a>
+  <a href="https://www.worksinprogress.news/p/porcelain" target="_blank">What on Earth Is Dekton?</a>
   <!-- NEWS_END -->
 
 
@@ -63,7 +63,7 @@ I build at the intersection of Cyber Security, Artificial Intelligence, and Quan
 ---
 <p align="center">
   <!-- QUOTE_START -->
-  <i>"Artificial intelligence is the new electricity." – Andrew Ng</i>
+  <i>"We are entering a new world. The technologies of machine learning, speech recognition, and natural language understanding are reaching a nexus of capability." – Bill Gates</i>
   <!-- QUOTE_END -->
 </p>
 
