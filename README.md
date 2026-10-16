@@ -14,7 +14,7 @@
 
 <p align="center">
   <!-- WEATHER_START -->
-  📍 **Pune, India** | 🕒 **IST (UTC+5:30)** | ⛅ **24.0°C**
+  📍 **Pune, India** | 🕒 **IST (UTC+5:30)** | ⛅ **28.3°C**
   <!-- WEATHER_END -->
 </p>
 
@@ -63,7 +63,7 @@ I build at the intersection of Cyber Security, Artificial Intelligence, and Quan
 ---
 <p align="center">
   <!-- QUOTE_START -->
-  <i>"One of the main cyber-risks is to think they don’t exist." – Stephane Nappo</i>
+  <i>"Security is a process, not a product." – Bruce Schneier</i>
   <!-- QUOTE_END -->
 </p>
 
