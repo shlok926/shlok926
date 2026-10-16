@@ -14,7 +14,7 @@
 
 <p align="center">
   <!-- WEATHER_START -->
-  📍 **Pune, India** | 🕒 **IST (UTC+5:30)** | ⛅ **28.3°C**
+  📍 **Pune, India** | 🕒 **IST (UTC+5:30)** | ⛅ **32.5°C**
   <!-- WEATHER_END -->
 </p>
 
@@ -34,12 +34,12 @@ I build at the intersection of Cyber Security, Artificial Intelligence, and Quan
 ##  Daily Updates
 > **🐛 Latest CVE:** <br/>
 > <!-- CVE_START -->
-  <a href="https://thehackernews.com/2026/10/critical-pwnescape-linux-kernel.html" target="_blank">Critical PwnEscape Linux Kernel Vulnerability Lets Guest VMs Read Host Memory</a>
+  <a href="https://thehackernews.com/2026/10/china-linked-hackers-exploited.html" target="_blank">China-Linked Hackers Exploited BeyondTrust Zero-Day to Take Over Remote Support Servers</a>
   <!-- CVE_END -->
 
 > **📰 Latest Tech News:** <br/>
 > <!-- NEWS_START -->
-  <a href="https://research.meta.ai/blog/muse-spark-open" target="_blank">Muse Spark Open</a>
+  <a href="https://blog.ikaes.de/yet-another-way-to-invoke-functions-without-parentheses/" target="_blank">Yet another way to invoke functions without parentheses</a>
   <!-- NEWS_END -->
 
 
@@ -63,7 +63,7 @@ I build at the intersection of Cyber Security, Artificial Intelligence, and Quan
 ---
 <p align="center">
   <!-- QUOTE_START -->
-  <i>"Security is a process, not a product." – Bruce Schneier</i>
+  <i>"Artificial intelligence is the new electricity." – Andrew Ng</i>
   <!-- QUOTE_END -->
 </p>
 
