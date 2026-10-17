@@ -14,7 +14,7 @@
 
 <p align="center">
   <!-- WEATHER_START -->
-  📍 **Pune, India** | 🕒 **IST (UTC+5:30)** | ⛅ **32.8°C**
+  📍 **Pune, India** | 🕒 **IST (UTC+5:30)** | ⛅ **25.9°C**
   <!-- WEATHER_END -->
 </p>
 
@@ -34,7 +34,7 @@ I build at the intersection of Cyber Security, Artificial Intelligence, and Quan
 ##  Daily Updates
 > **🐛 Latest CVE:** <br/>
 > <!-- CVE_START -->
-  <a href="https://thehackernews.com/2026/10/hackers-use-compromised-connectwise.html" target="_blank">Hackers Use Compromised ConnectWise Credential to Sign In to 173 Microsoft 365 Tenants</a>
+  <a href="https://thehackernews.com/2026/10/malfex-npm-package-imgdecode-hides.html" target="_blank">MALFEX npm Package 'imgdecode' Hides Shellcode Loader in Windows Native Addon</a>
   <!-- CVE_END -->
 
 > **📰 Latest Tech News:** <br/>
@@ -63,7 +63,7 @@ I build at the intersection of Cyber Security, Artificial Intelligence, and Quan
 ---
 <p align="center">
   <!-- QUOTE_START -->
-  <i>"In the world of cyber security, the last thing you want is a target painted on your back." – Anonymous</i>
+  <i>"Artificial intelligence is the new electricity." – Andrew Ng</i>
   <!-- QUOTE_END -->
 </p>
 
