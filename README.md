@@ -14,7 +14,7 @@
 
 <p align="center">
   <!-- WEATHER_START -->
-  📍 **Pune, India** | 🕒 **IST (UTC+5:30)** | ⛅ **25.9°C**
+  📍 **Pune, India** | 🕒 **IST (UTC+5:30)** | ⛅ **24.6°C**
   <!-- WEATHER_END -->
 </p>
 
@@ -39,7 +39,7 @@ I build at the intersection of Cyber Security, Artificial Intelligence, and Quan
 
 > **📰 Latest Tech News:** <br/>
 > <!-- NEWS_START -->
-  <a href="https://openrouter.ai/deepseek/deepseek-v4.1-flash-1017" target="_blank">DeepSeek: DeepSeek v4.1 Flash 1017</a>
+  <a href="https://www.nature.com/articles/d41586-026-03266-x" target="_blank">Bleached corals thrive within days when touching healthy neighbour</a>
   <!-- NEWS_END -->
 
 
