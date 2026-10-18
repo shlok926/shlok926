@@ -14,7 +14,7 @@
 
 <p align="center">
   <!-- WEATHER_START -->
-  📍 **Pune, India** | 🕒 **IST (UTC+5:30)** | ⛅ **32.7°C**
+  📍 **Pune, India** | 🕒 **IST (UTC+5:30)** | ⛅ **29.0°C**
   <!-- WEATHER_END -->
 </p>
 
@@ -39,7 +39,7 @@ I build at the intersection of Cyber Security, Artificial Intelligence, and Quan
 
 > **📰 Latest Tech News:** <br/>
 > <!-- NEWS_START -->
-  <a href="https://api-docs.deepseek.com/guides/search/" target="_blank">DeepSeek search and fetch – $0.75 per 1000 successful requests</a>
+  <a href="https://github.com/VikOlliver/RepRapMicron/wiki" target="_blank">RepRapMicron</a>
   <!-- NEWS_END -->
 
 
@@ -63,7 +63,7 @@ I build at the intersection of Cyber Security, Artificial Intelligence, and Quan
 ---
 <p align="center">
   <!-- QUOTE_START -->
-  <i>"Artificial intelligence is the new electricity." – Andrew Ng</i>
+  <i>"Security is a process, not a product." – Bruce Schneier</i>
   <!-- QUOTE_END -->
 </p>
 
