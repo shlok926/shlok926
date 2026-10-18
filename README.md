@@ -14,7 +14,7 @@
 
 <p align="center">
   <!-- WEATHER_START -->
-  📍 **Pune, India** | 🕒 **IST (UTC+5:30)** | ⛅ **28.4°C**
+  📍 **Pune, India** | 🕒 **IST (UTC+5:30)** | ⛅ **32.7°C**
   <!-- WEATHER_END -->
 </p>
 
@@ -34,12 +34,12 @@ I build at the intersection of Cyber Security, Artificial Intelligence, and Quan
 ##  Daily Updates
 > **🐛 Latest CVE:** <br/>
 > <!-- CVE_START -->
-  <a href="https://thehackernews.com/2026/10/malfex-npm-package-imgdecode-hides.html" target="_blank">MALFEX npm Package 'imgdecode' Hides Shellcode Loader in Windows Native Addon</a>
+  <a href="https://thehackernews.com/2026/10/connectwise-suspends-cloud-backup-after.html" target="_blank">ConnectWise Suspends Cloud Backup After Attackers Compromise Microsoft 365 Tenants</a>
   <!-- CVE_END -->
 
 > **📰 Latest Tech News:** <br/>
 > <!-- NEWS_START -->
-  <a href="https://www.nature.com/articles/d41586-026-03266-x" target="_blank">Bleached corals thrive within days when touching healthy neighbour</a>
+  <a href="https://api-docs.deepseek.com/guides/search/" target="_blank">DeepSeek search and fetch – $0.75 per 1000 successful requests</a>
   <!-- NEWS_END -->
 
 
@@ -63,7 +63,7 @@ I build at the intersection of Cyber Security, Artificial Intelligence, and Quan
 ---
 <p align="center">
   <!-- QUOTE_START -->
-  <i>"Some people worry that artificial intelligence will make us feel inferior, but then, anybody in his right mind should have an inferiority complex every time he looks at a flower." – Alan Kay</i>
+  <i>"Artificial intelligence is the new electricity." – Andrew Ng</i>
   <!-- QUOTE_END -->
 </p>
 
