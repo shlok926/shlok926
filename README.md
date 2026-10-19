@@ -14,7 +14,7 @@
 
 <p align="center">
   <!-- WEATHER_START -->
-  📍 **Pune, India** | 🕒 **IST (UTC+5:30)** | ⛅ **31.2°C**
+  📍 **Pune, India** | 🕒 **IST (UTC+5:30)** | ⛅ **24.8°C**
   <!-- WEATHER_END -->
 </p>
 
@@ -34,12 +34,12 @@ I build at the intersection of Cyber Security, Artificial Intelligence, and Quan
 ##  Daily Updates
 > **🐛 Latest CVE:** <br/>
 > <!-- CVE_START -->
-  <a href="https://thehackernews.com/2026/10/fake-web3-accelerator-uses-npm-packages.html" target="_blank">Fake Web3 Accelerator Uses npm Packages to Spread Malware and Hijack AI Agent Traffic</a>
+  <a href="https://thehackernews.com/2026/10/hackers-exploit-plex2shell-flaws-to.html" target="_blank">Hackers Exploit Plex2Shell Flaws to Install Crypto Miners and Linux Proxy Backdoor</a>
   <!-- CVE_END -->
 
 > **📰 Latest Tech News:** <br/>
 > <!-- NEWS_START -->
-  <a href="https://www.wjcl.com/article/savannah-police-officer-ice-agent-flock-access/74135816" target="_blank">Documents: Police officer gave her Flock login to her ICE agent husband</a>
+  <a href="https://josie.lol/blog/linux-rtx-spark" target="_blank">Putting Linux on my RTX spark laptop because I don't have a Microsoft account</a>
   <!-- NEWS_END -->
 
 
@@ -63,7 +63,7 @@ I build at the intersection of Cyber Security, Artificial Intelligence, and Quan
 ---
 <p align="center">
   <!-- QUOTE_START -->
-  <i>"Artificial intelligence is the new electricity." – Andrew Ng</i>
+  <i>"Security is a process, not a product." – Bruce Schneier</i>
   <!-- QUOTE_END -->
 </p>
 
