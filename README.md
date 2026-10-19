@@ -14,7 +14,7 @@
 
 <p align="center">
   <!-- WEATHER_START -->
-  📍 **Pune, India** | 🕒 **IST (UTC+5:30)** | ⛅ **29.4°C**
+  📍 **Pune, India** | 🕒 **IST (UTC+5:30)** | ⛅ **31.2°C**
   <!-- WEATHER_END -->
 </p>
 
@@ -34,12 +34,12 @@ I build at the intersection of Cyber Security, Artificial Intelligence, and Quan
 ##  Daily Updates
 > **🐛 Latest CVE:** <br/>
 > <!-- CVE_START -->
-  <a href="https://thehackernews.com/2026/10/connectwise-suspends-cloud-backup-after.html" target="_blank">ConnectWise Suspends Cloud Backup After Attackers Compromise Microsoft 365 Tenants</a>
+  <a href="https://thehackernews.com/2026/10/fake-web3-accelerator-uses-npm-packages.html" target="_blank">Fake Web3 Accelerator Uses npm Packages to Spread Malware and Hijack AI Agent Traffic</a>
   <!-- CVE_END -->
 
 > **📰 Latest Tech News:** <br/>
 > <!-- NEWS_START -->
-  <a href="https://arxiv.org/abs/2610.18861" target="_blank">Hybrid Reasoning Agents: LLM agents that think in latent space, act through text</a>
+  <a href="https://www.wjcl.com/article/savannah-police-officer-ice-agent-flock-access/74135816" target="_blank">Documents: Police officer gave her Flock login to her ICE agent husband</a>
   <!-- NEWS_END -->
 
 
