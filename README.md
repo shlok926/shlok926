@@ -14,7 +14,7 @@
 
 <p align="center">
   <!-- WEATHER_START -->
-  📍 **Pune, India** | 🕒 **IST (UTC+5:30)** | ⛅ **27.5°C**
+  📍 **Pune, India** | 🕒 **IST (UTC+5:30)** | ⛅ **25.7°C**
   <!-- WEATHER_END -->
 </p>
 
@@ -34,12 +34,12 @@ I build at the intersection of Cyber Security, Artificial Intelligence, and Quan
 ##  Daily Updates
 > **🐛 Latest CVE:** <br/>
 > <!-- CVE_START -->
-  <a href="https://thehackernews.com/2026/10/critical-fortisiem-flaw-gets-public.html" target="_blank">Critical FortiSIEM Flaw Gets Public Exploit PoC for Unauthenticated Remote Code Execution</a>
+  <a href="https://thehackernews.com/2026/10/eight-emudhra-ca-keys-compromised.html" target="_blank">Eight eMudhra CA Keys Compromised, Triggering Emergency Fixes Across Browsers and Software</a>
   <!-- CVE_END -->
 
 > **📰 Latest Tech News:** <br/>
 > <!-- NEWS_START -->
-  <a href="https://mastodon.gamedev.place/@AshleyGullen/117473851565913919" target="_blank">Facebook now charging to post more than 2 links a month</a>
+  <a href="https://permit.petercai.com/" target="_blank">SimCity, but with Permits</a>
   <!-- NEWS_END -->
 
 
@@ -63,7 +63,7 @@ I build at the intersection of Cyber Security, Artificial Intelligence, and Quan
 ---
 <p align="center">
   <!-- QUOTE_START -->
-  <i>"If you think technology can solve your security problems, then you don't understand the problems and you don't understand the technology." – Bruce Schneier</i>
+  <i>"Hardware is easy to protect: lock it in a room, chain it to a desk, or buy a spare. Information poses more of a problem." – Bruce Schneier</i>
   <!-- QUOTE_END -->
 </p>
 
