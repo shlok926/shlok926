@@ -14,7 +14,7 @@
 
 <p align="center">
   <!-- WEATHER_START -->
-  📍 **Pune, India** | 🕒 **IST (UTC+5:30)** | ⛅ **29.7°C**
+  📍 **Pune, India** | 🕒 **IST (UTC+5:30)** | ⛅ **32.2°C**
   <!-- WEATHER_END -->
 </p>
 
@@ -34,12 +34,12 @@ I build at the intersection of Cyber Security, Artificial Intelligence, and Quan
 ##  Daily Updates
 > **🐛 Latest CVE:** <br/>
 > <!-- CVE_START -->
-  <a href="https://thehackernews.com/2026/10/romulus-clickfix-platform-tricks-users.html" target="_blank">Hackers Use New ROMULUS ClickFix Platform to Deliver LegionLoader and Other Malware</a>
+  <a href="https://thehackernews.com/2026/10/hackers-hijack-five-ovhcloud-cli.html" target="_blank">Hackers Hijack Five OVHcloud CLI Releases to Distribute Secret-Stealing Malware</a>
   <!-- CVE_END -->
 
 > **📰 Latest Tech News:** <br/>
 > <!-- NEWS_START -->
-  <a href="https://www.openbsd.org/80.html" target="_blank">OpenBSD 8.0</a>
+  <a href="https://github.com/deepseek-ai/DeepInfer" target="_blank">DeepSeek just open-sourced its inference engine</a>
   <!-- NEWS_END -->
 
 
@@ -63,7 +63,7 @@ I build at the intersection of Cyber Security, Artificial Intelligence, and Quan
 ---
 <p align="center">
   <!-- QUOTE_START -->
-  <i>"We are entering a new world. The technologies of machine learning, speech recognition, and natural language understanding are reaching a nexus of capability." – Bill Gates</i>
+  <i>"Artificial intelligence is the new electricity." – Andrew Ng</i>
   <!-- QUOTE_END -->
 </p>
 
