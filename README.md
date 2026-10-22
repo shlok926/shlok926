@@ -14,7 +14,7 @@
 
 <p align="center">
   <!-- WEATHER_START -->
-  📍 **Pune, India** | 🕒 **IST (UTC+5:30)** | ⛅ **27.5°C**
+  📍 **Pune, India** | 🕒 **IST (UTC+5:30)** | ⛅ **24.7°C**
   <!-- WEATHER_END -->
 </p>
 
@@ -34,7 +34,7 @@ I build at the intersection of Cyber Security, Artificial Intelligence, and Quan
 ##  Daily Updates
 > **🐛 Latest CVE:** <br/>
 > <!-- CVE_START -->
-  <a href="https://thehackernews.com/2026/10/meta-ordered-to-pay-25-billion-after.html" target="_blank">Meta Ordered to Pay $25 Billion After Court Finds 43 Million Privacy Violations</a>
+  <a href="https://thehackernews.com/2026/10/the-ai-agent-nobody-owns-watch-expert.html" target="_blank">The AI Agent Nobody Owns: Watch Expert Webinar On Your Newest Insider Threat</a>
   <!-- CVE_END -->
 
 > **📰 Latest Tech News:** <br/>
@@ -63,7 +63,7 @@ I build at the intersection of Cyber Security, Artificial Intelligence, and Quan
 ---
 <p align="center">
   <!-- QUOTE_START -->
-  <i>"Cybersecurity is a shared responsibility, and it boils down to this: in cybersecurity, the more systems we secure, the more secure we all are." – Jeh Johnson</i>
+  <i>"Amateurs hack systems, professionals hack people." – Bruce Schneier</i>
   <!-- QUOTE_END -->
 </p>
 
