@@ -14,7 +14,7 @@
 
 <p align="center">
   <!-- WEATHER_START -->
-  📍 **Pune, India** | 🕒 **IST (UTC+5:30)** | ⛅ **32.1°C**
+  📍 **Pune, India** | 🕒 **IST (UTC+5:30)** | ⛅ **27.5°C**
   <!-- WEATHER_END -->
 </p>
 
@@ -34,12 +34,12 @@ I build at the intersection of Cyber Security, Artificial Intelligence, and Quan
 ##  Daily Updates
 > **🐛 Latest CVE:** <br/>
 > <!-- CVE_START -->
-  <a href="https://thehackernews.com/2026/10/railway-says-intruder-may-have-accessed.html" target="_blank">Railway Says Intruder May Have Accessed Customer Secrets, Urges Credential Rotation</a>
+  <a href="https://thehackernews.com/2026/10/meta-ordered-to-pay-25-billion-after.html" target="_blank">Meta Ordered to Pay $25 Billion After Court Finds 43 Million Privacy Violations</a>
   <!-- CVE_END -->
 
 > **📰 Latest Tech News:** <br/>
 > <!-- NEWS_START -->
-  <a href="https://nvd.nist.gov/vuln/detail/cve-2026-111943" target="_blank">CVE-2026-111943: Compromised Intermediate Certificate Authority</a>
+  <a href="https://quad9.net/news/blog/au-revoir-france/" target="_blank">Quad9 (DNS Resolver) to Exit France</a>
   <!-- NEWS_END -->
 
 
@@ -63,7 +63,7 @@ I build at the intersection of Cyber Security, Artificial Intelligence, and Quan
 ---
 <p align="center">
   <!-- QUOTE_START -->
-  <i>"In the world of cyber security, the last thing you want is a target painted on your back." – Anonymous</i>
+  <i>"Cybersecurity is a shared responsibility, and it boils down to this: in cybersecurity, the more systems we secure, the more secure we all are." – Jeh Johnson</i>
   <!-- QUOTE_END -->
 </p>
 
