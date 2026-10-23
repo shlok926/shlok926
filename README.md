@@ -14,7 +14,7 @@
 
 <p align="center">
   <!-- WEATHER_START -->
-  📍 **Pune, India** | 🕒 **IST (UTC+5:30)** | ⛅ **31.5°C**
+  📍 **Pune, India** | 🕒 **IST (UTC+5:30)** | ⛅ **27.3°C**
   <!-- WEATHER_END -->
 </p>
 
@@ -34,12 +34,12 @@ I build at the intersection of Cyber Security, Artificial Intelligence, and Quan
 ##  Daily Updates
 > **🐛 Latest CVE:** <br/>
 > <!-- CVE_START -->
-  <a href="https://thehackernews.com/2026/10/critical-flaw-in-pythons-popular-pillow.html" target="_blank">Critical Flaw in Python’s Popular Pillow Image Library Allows Code Execution via a Crafted Image</a>
+  <a href="https://thehackernews.com/2026/10/hackers-breach-enterprise-firewalls-and.html" target="_blank">Hackers Breach Enterprise Firewalls and VPNs, Exposing Over 70,000 Credentials</a>
   <!-- CVE_END -->
 
 > **📰 Latest Tech News:** <br/>
 > <!-- NEWS_START -->
-  <a href="https://edjefferson.com/localwiki/" target="_blank">Local Wikipedia: Wikipedia, but only for things a half hour walk from you</a>
+  <a href="https://blog.calif.io/p/iphone" target="_blank">Today, we hacked what we'd set out to hack: the iPhone</a>
   <!-- NEWS_END -->
 
 
@@ -63,7 +63,7 @@ I build at the intersection of Cyber Security, Artificial Intelligence, and Quan
 ---
 <p align="center">
   <!-- QUOTE_START -->
-  <i>"Some people worry that artificial intelligence will make us feel inferior, but then, anybody in his right mind should have an inferiority complex every time he looks at a flower." – Alan Kay</i>
+  <i>"In the world of cyber security, the last thing you want is a target painted on your back." – Anonymous</i>
   <!-- QUOTE_END -->
 </p>
 
