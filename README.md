@@ -14,7 +14,7 @@
 
 <p align="center">
   <!-- WEATHER_START -->
-  📍 **Pune, India** | 🕒 **IST (UTC+5:30)** | ⛅ **24.7°C**
+  📍 **Pune, India** | 🕒 **IST (UTC+5:30)** | ⛅ **28.9°C**
   <!-- WEATHER_END -->
 </p>
 
@@ -39,7 +39,7 @@ I build at the intersection of Cyber Security, Artificial Intelligence, and Quan
 
 > **📰 Latest Tech News:** <br/>
 > <!-- NEWS_START -->
-  <a href="https://quad9.net/news/blog/au-revoir-france/" target="_blank">Quad9 (DNS Resolver) to Exit France</a>
+  <a href="https://codeandcake.dev/posts/2026-10-22-docker-is-weird" target="_blank">Docker is weird</a>
   <!-- NEWS_END -->
 
 
@@ -63,7 +63,7 @@ I build at the intersection of Cyber Security, Artificial Intelligence, and Quan
 ---
 <p align="center">
   <!-- QUOTE_START -->
-  <i>"Amateurs hack systems, professionals hack people." – Bruce Schneier</i>
+  <i>"If you think technology can solve your security problems, then you don't understand the problems and you don't understand the technology." – Bruce Schneier</i>
   <!-- QUOTE_END -->
 </p>
 
