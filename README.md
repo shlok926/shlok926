@@ -14,7 +14,7 @@
 
 <p align="center">
   <!-- WEATHER_START -->
-  📍 **Pune, India** | 🕒 **IST (UTC+5:30)** | ⛅ **28.7°C**
+  📍 **Pune, India** | 🕒 **IST (UTC+5:30)** | ⛅ **30.6°C**
   <!-- WEATHER_END -->
 </p>
 
@@ -34,12 +34,12 @@ I build at the intersection of Cyber Security, Artificial Intelligence, and Quan
 ##  Daily Updates
 > **🐛 Latest CVE:** <br/>
 > <!-- CVE_START -->
-  <a href="https://thehackernews.com/2026/10/blackx-uefi-bootkit-bypasses-secure.html" target="_blank">BlackX UEFI Bootkit Bypasses Secure Boot on Patched Windows Systems Missing Revocations</a>
+  <a href="https://thehackernews.com/2026/10/researchers-push-over-2-million-updates.html" target="_blank">Researchers Push Over 2 Million Updates to Remotely Disable Popcorn Time Updater That Could Fuel a Botnet</a>
   <!-- CVE_END -->
 
 > **📰 Latest Tech News:** <br/>
 > <!-- NEWS_START -->
-  <a href="https://www.kimi.ai/blog/kimi-k3-1-pro" target="_blank">Kimi K3.1 Pro and K3.1 Pro Highspeed</a>
+  <a href="https://www.southampton.ac.uk/~doug/quantum_physics/index.html" target="_blank">I Don't Understand Quantum Physics</a>
   <!-- NEWS_END -->
 
 
@@ -63,7 +63,7 @@ I build at the intersection of Cyber Security, Artificial Intelligence, and Quan
 ---
 <p align="center">
   <!-- QUOTE_START -->
-  <i>"Privacy is not an option, and it shouldn't be the price we accept for just getting on the internet." – Gary Kovacs</i>
+  <i>"Cybersecurity is a shared responsibility, and it boils down to this: in cybersecurity, the more systems we secure, the more secure we all are." – Jeh Johnson</i>
   <!-- QUOTE_END -->
 </p>
 
