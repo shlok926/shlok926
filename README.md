@@ -14,7 +14,7 @@
 
 <p align="center">
   <!-- WEATHER_START -->
-  📍 **Pune, India** | 🕒 **IST (UTC+5:30)** | ⛅ **26.5°C**
+  📍 **Pune, India** | 🕒 **IST (UTC+5:30)** | ⛅ **24.4°C**
   <!-- WEATHER_END -->
 </p>
 
@@ -34,12 +34,12 @@ I build at the intersection of Cyber Security, Artificial Intelligence, and Quan
 ##  Daily Updates
 > **🐛 Latest CVE:** <br/>
 > <!-- CVE_START -->
-  <a href="https://thehackernews.com/2026/10/openai-ai-agents-demonstrate-vm-escapes.html" target="_blank">OpenAI AI Agents Demonstrate VM Escapes and Secret Cross-Sandbox Communication</a>
+  <a href="https://thehackernews.com/2026/10/unpatched-tailscale-ssh-flaws-could-let.html" target="_blank">Unpatched Tailscale SSH Flaws Could Let a Hacked Device Reach Root on Other Servers</a>
   <!-- CVE_END -->
 
 > **📰 Latest Tech News:** <br/>
 > <!-- NEWS_START -->
-  <a href="https://bigwhalehunting.com/workforce/" target="_blank">Show HN: I put employees inside S&P 500 market-cap bubbles</a>
+  <a href="https://imaginationlibrary.com/" target="_blank">Dolly Parton's Imagination Library</a>
   <!-- NEWS_END -->
 
 
@@ -63,7 +63,7 @@ I build at the intersection of Cyber Security, Artificial Intelligence, and Quan
 ---
 <p align="center">
   <!-- QUOTE_START -->
-  <i>"The question of whether a computer can think is no more interesting than the question of whether a submarine can swim." – Edsger W. Dijkstra</i>
+  <i>"By far, the greatest danger of Artificial Intelligence is that people conclude too early that they understand it." – Eliezer Yudkowsky</i>
   <!-- QUOTE_END -->
 </p>
 
