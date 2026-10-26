@@ -14,7 +14,7 @@
 
 <p align="center">
   <!-- WEATHER_START -->
-  📍 **Pune, India** | 🕒 **IST (UTC+5:30)** | ⛅ **27.6°C**
+  📍 **Pune, India** | 🕒 **IST (UTC+5:30)** | ⛅ **29.8°C**
   <!-- WEATHER_END -->
 </p>
 
@@ -34,12 +34,12 @@ I build at the intersection of Cyber Security, Artificial Intelligence, and Quan
 ##  Daily Updates
 > **🐛 Latest CVE:** <br/>
 > <!-- CVE_START -->
-  <a href="https://thehackernews.com/2026/10/unpatched-tailscale-ssh-flaws-could-let.html" target="_blank">Unpatched Tailscale SSH Flaws Could Let a Hacked Device Reach Root on Other Servers</a>
+  <a href="https://thehackernews.com/2026/10/between-alerts-what-attackers-do-in.html" target="_blank">Between alerts: What Attackers Do in the Spaces Ordinary Detection Misses</a>
   <!-- CVE_END -->
 
 > **📰 Latest Tech News:** <br/>
 > <!-- NEWS_START -->
-  <a href="https://titleart.dvy.io/" target="_blank">Show HN: TitleArt – Make text like it's 1997</a>
+  <a href="https://brennenputh.me/blog/printable-websites/" target="_blank">Websites Should Be Printable</a>
   <!-- NEWS_END -->
 
 
@@ -63,7 +63,7 @@ I build at the intersection of Cyber Security, Artificial Intelligence, and Quan
 ---
 <p align="center">
   <!-- QUOTE_START -->
-  <i>"Cybersecurity is a shared responsibility, and it boils down to this: in cybersecurity, the more systems we secure, the more secure we all are." – Jeh Johnson</i>
+  <i>"By far, the greatest danger of Artificial Intelligence is that people conclude too early that they understand it." – Eliezer Yudkowsky</i>
   <!-- QUOTE_END -->
 </p>
 
