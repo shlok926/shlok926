@@ -14,7 +14,7 @@
 
 <p align="center">
   <!-- WEATHER_START -->
-  📍 **Pune, India** | 🕒 **IST (UTC+5:30)** | ⛅ **29.8°C**
+  📍 **Pune, India** | 🕒 **IST (UTC+5:30)** | ⛅ **22.3°C**
   <!-- WEATHER_END -->
 </p>
 
@@ -34,12 +34,12 @@ I build at the intersection of Cyber Security, Artificial Intelligence, and Quan
 ##  Daily Updates
 > **🐛 Latest CVE:** <br/>
 > <!-- CVE_START -->
-  <a href="https://thehackernews.com/2026/10/between-alerts-what-attackers-do-in.html" target="_blank">Between alerts: What Attackers Do in the Spaces Ordinary Detection Misses</a>
+  <a href="https://thehackernews.com/2026/10/hackers-infect-953-online-stores-with.html" target="_blank">Hackers Infect 953 Online Stores With Scanner-Evading JavaScript, Mostly on Magento</a>
   <!-- CVE_END -->
 
 > **📰 Latest Tech News:** <br/>
 > <!-- NEWS_START -->
-  <a href="https://brennenputh.me/blog/printable-websites/" target="_blank">Websites Should Be Printable</a>
+  <a href="https://openai.com/index/building-scientific-understanding-with-academic-communities/" target="_blank">Working with academic communities to build scientific understanding</a>
   <!-- NEWS_END -->
 
 
@@ -63,7 +63,7 @@ I build at the intersection of Cyber Security, Artificial Intelligence, and Quan
 ---
 <p align="center">
   <!-- QUOTE_START -->
-  <i>"By far, the greatest danger of Artificial Intelligence is that people conclude too early that they understand it." – Eliezer Yudkowsky</i>
+  <i>"Artificial intelligence is the new electricity." – Andrew Ng</i>
   <!-- QUOTE_END -->
 </p>
 
