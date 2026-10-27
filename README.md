@@ -14,7 +14,7 @@
 
 <p align="center">
   <!-- WEATHER_START -->
-  📍 **Pune, India** | 🕒 **IST (UTC+5:30)** | ⛅ **24.5°C**
+  📍 **Pune, India** | 🕒 **IST (UTC+5:30)** | ⛅ **21.3°C**
   <!-- WEATHER_END -->
 </p>
 
@@ -34,12 +34,12 @@ I build at the intersection of Cyber Security, Artificial Intelligence, and Quan
 ##  Daily Updates
 > **🐛 Latest CVE:** <br/>
 > <!-- CVE_START -->
-  <a href="https://thehackernews.com/2026/10/goahead-tls-flaws-allow-revoked-client.html" target="_blank">GoAhead TLS Flaws Allow Revoked Client Certificates and Enable Session Decryption</a>
+  <a href="https://thehackernews.com/2026/10/cyberstrikeai-uses-44-ai-agents-to.html" target="_blank">CyberStrikeAI Uses 44 AI Agents to Automate Hacking Operations Against Japan Targets</a>
   <!-- CVE_END -->
 
 > **📰 Latest Tech News:** <br/>
 > <!-- NEWS_START -->
-  <a href="https://openai.com/index/building-scientific-understanding-with-academic-communities/" target="_blank">Three new discoveries in mathematics, computer science, and physics</a>
+  <a href="https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/" target="_blank">Genie 4</a>
   <!-- NEWS_END -->
 
 
@@ -63,7 +63,7 @@ I build at the intersection of Cyber Security, Artificial Intelligence, and Quan
 ---
 <p align="center">
   <!-- QUOTE_START -->
-  <i>"Security is a process, not a product." – Bruce Schneier</i>
+  <i>"One of the main cyber-risks is to think they don’t exist." – Stephane Nappo</i>
   <!-- QUOTE_END -->
 </p>
 
