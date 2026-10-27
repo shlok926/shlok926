@@ -14,7 +14,7 @@
 
 <p align="center">
   <!-- WEATHER_START -->
-  📍 **Pune, India** | 🕒 **IST (UTC+5:30)** | ⛅ **27.7°C**
+  📍 **Pune, India** | 🕒 **IST (UTC+5:30)** | ⛅ **30.8°C**
   <!-- WEATHER_END -->
 </p>
 
@@ -34,7 +34,7 @@ I build at the intersection of Cyber Security, Artificial Intelligence, and Quan
 ##  Daily Updates
 > **🐛 Latest CVE:** <br/>
 > <!-- CVE_START -->
-  <a href="https://thehackernews.com/2026/10/hackers-infect-953-online-stores-with.html" target="_blank">Hackers Infect 953 Online Stores With Scanner-Evading JavaScript, Mostly on Magento</a>
+  <a href="https://thehackernews.com/2026/10/australia-gets-into-amadey-malware.html" target="_blank">Australia Gets Into Amadey Malware Backend, Cuts Off Access to 180,000 Infected Computers</a>
   <!-- CVE_END -->
 
 > **📰 Latest Tech News:** <br/>
