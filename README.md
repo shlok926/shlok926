@@ -14,7 +14,7 @@
 
 <p align="center">
   <!-- WEATHER_START -->
-  📍 **Pune, India** | 🕒 **IST (UTC+5:30)** | ⛅ **28.0°C**
+  📍 **Pune, India** | 🕒 **IST (UTC+5:30)** | ⛅ **30.3°C**
   <!-- WEATHER_END -->
 </p>
 
@@ -34,12 +34,12 @@ I build at the intersection of Cyber Security, Artificial Intelligence, and Quan
 ##  Daily Updates
 > **🐛 Latest CVE:** <br/>
 > <!-- CVE_START -->
-  <a href="https://thehackernews.com/2026/10/cyberstrikeai-uses-44-ai-agents-to.html" target="_blank">CyberStrikeAI Uses 44 AI Agents to Automate Hacking Operations Against Japan Targets</a>
+  <a href="https://thehackernews.com/2026/10/adobe-fixes-8-critical-campaign-classic.html" target="_blank">Adobe Fixes 8 Critical Campaign Classic Flaws Allowing Code Execution and Security Bypass</a>
   <!-- CVE_END -->
 
 > **📰 Latest Tech News:** <br/>
 > <!-- NEWS_START -->
-  <a href="https://lexifina.com/blog/git-for-the-us-code" target="_blank">Git for US Legislation</a>
+  <a href="https://emudhra.we-have-a-problem.com/apple.html" target="_blank">Ten days later, Git on macOS still trusts the compromised eMudhra certificates</a>
   <!-- NEWS_END -->
 
 
@@ -63,7 +63,7 @@ I build at the intersection of Cyber Security, Artificial Intelligence, and Quan
 ---
 <p align="center">
   <!-- QUOTE_START -->
-  <i>"In the world of cyber security, the last thing you want is a target painted on your back." – Anonymous</i>
+  <i>"One of the main cyber-risks is to think they don’t exist." – Stephane Nappo</i>
   <!-- QUOTE_END -->
 </p>
 
