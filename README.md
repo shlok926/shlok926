@@ -14,7 +14,7 @@
 
 <p align="center">
   <!-- WEATHER_START -->
-  📍 **Pune, India** | 🕒 **IST (UTC+5:30)** | ⛅ **21.3°C**
+  📍 **Pune, India** | 🕒 **IST (UTC+5:30)** | ⛅ **28.0°C**
   <!-- WEATHER_END -->
 </p>
 
@@ -39,7 +39,7 @@ I build at the intersection of Cyber Security, Artificial Intelligence, and Quan
 
 > **📰 Latest Tech News:** <br/>
 > <!-- NEWS_START -->
-  <a href="https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/" target="_blank">Genie 4</a>
+  <a href="https://lexifina.com/blog/git-for-the-us-code" target="_blank">Git for US Legislation</a>
   <!-- NEWS_END -->
 
 
@@ -63,7 +63,7 @@ I build at the intersection of Cyber Security, Artificial Intelligence, and Quan
 ---
 <p align="center">
   <!-- QUOTE_START -->
-  <i>"One of the main cyber-risks is to think they don’t exist." – Stephane Nappo</i>
+  <i>"In the world of cyber security, the last thing you want is a target painted on your back." – Anonymous</i>
   <!-- QUOTE_END -->
 </p>
 
