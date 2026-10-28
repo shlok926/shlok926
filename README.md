@@ -14,7 +14,7 @@
 
 <p align="center">
   <!-- WEATHER_START -->
-  📍 **Pune, India** | 🕒 **IST (UTC+5:30)** | ⛅ **30.3°C**
+  📍 **Pune, India** | 🕒 **IST (UTC+5:30)** | ⛅ **23.6°C**
   <!-- WEATHER_END -->
 </p>
 
@@ -34,12 +34,12 @@ I build at the intersection of Cyber Security, Artificial Intelligence, and Quan
 ##  Daily Updates
 > **🐛 Latest CVE:** <br/>
 > <!-- CVE_START -->
-  <a href="https://thehackernews.com/2026/10/adobe-fixes-8-critical-campaign-classic.html" target="_blank">Adobe Fixes 8 Critical Campaign Classic Flaws Allowing Code Execution and Security Bypass</a>
+  <a href="https://thehackernews.com/2026/10/volt-typhoon-used-covert-silent-train.html" target="_blank">Volt Typhoon Used Covert Silent Train Network in Four Zero-Day Exploitation Campaigns</a>
   <!-- CVE_END -->
 
 > **📰 Latest Tech News:** <br/>
 > <!-- NEWS_START -->
-  <a href="https://emudhra.we-have-a-problem.com/apple.html" target="_blank">Ten days later, Git on macOS still trusts the compromised eMudhra certificates</a>
+  <a href="https://nullpt.rs/fingerprinting-bioweapons" target="_blank">Why is this fingerprinting script creating bioweapons?</a>
   <!-- NEWS_END -->
 
 
@@ -63,7 +63,7 @@ I build at the intersection of Cyber Security, Artificial Intelligence, and Quan
 ---
 <p align="center">
   <!-- QUOTE_START -->
-  <i>"One of the main cyber-risks is to think they don’t exist." – Stephane Nappo</i>
+  <i>"Amateurs hack systems, professionals hack people." – Bruce Schneier</i>
   <!-- QUOTE_END -->
 </p>
 
