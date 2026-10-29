@@ -14,7 +14,7 @@
 
 <p align="center">
   <!-- WEATHER_START -->
-  📍 **Pune, India** | 🕒 **IST (UTC+5:30)** | ⛅ **29.0°C**
+  📍 **Pune, India** | 🕒 **IST (UTC+5:30)** | ⛅ **27.5°C**
   <!-- WEATHER_END -->
 </p>
 
@@ -34,12 +34,12 @@ I build at the intersection of Cyber Security, Artificial Intelligence, and Quan
 ##  Daily Updates
 > **🐛 Latest CVE:** <br/>
 > <!-- CVE_START -->
-  <a href="https://thehackernews.com/2026/10/volt-typhoon-used-covert-silent-train.html" target="_blank">Volt Typhoon Used Covert Silent Train Network in Four Zero-Day Exploitation Campaigns</a>
+  <a href="https://thehackernews.com/2026/08/learn-how-to-build-security-operations.html" target="_blank">Webinar: How to Build AI Threat Readiness Into Your Security Operations</a>
   <!-- CVE_END -->
 
 > **📰 Latest Tech News:** <br/>
 > <!-- NEWS_START -->
-  <a href="https://divagr.com/blog/qwenputer" target="_blank">Qwenputer: A functioning, deterministic RISC-V CPU inside Qwen3.5</a>
+  <a href="https://iptrust.co/blog/if-ipv4-were-land" target="_blank">If IPv4 Were Land</a>
   <!-- NEWS_END -->
 
 
@@ -63,7 +63,7 @@ I build at the intersection of Cyber Security, Artificial Intelligence, and Quan
 ---
 <p align="center">
   <!-- QUOTE_START -->
-  <i>"The only truly secure system is one that is powered off, cast in a block of concrete and sealed in a lead-lined room with armed guards - and even then I have my doubts." – Gene Spafford</i>
+  <i>"By far, the greatest danger of Artificial Intelligence is that people conclude too early that they understand it." – Eliezer Yudkowsky</i>
   <!-- QUOTE_END -->
 </p>
 
