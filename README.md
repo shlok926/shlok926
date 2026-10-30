@@ -14,7 +14,7 @@
 
 <p align="center">
   <!-- WEATHER_START -->
-  📍 **Pune, India** | 🕒 **IST (UTC+5:30)** | ⛅ **26.2°C**
+  📍 **Pune, India** | 🕒 **IST (UTC+5:30)** | ⛅ **22.5°C**
   <!-- WEATHER_END -->
 </p>
 
@@ -34,12 +34,12 @@ I build at the intersection of Cyber Security, Artificial Intelligence, and Quan
 ##  Daily Updates
 > **🐛 Latest CVE:** <br/>
 > <!-- CVE_START -->
-  <a href="https://thehackernews.com/2026/10/trezor-warns-of-suspected-hardware.html" target="_blank">Trezor Warns of Suspected Hardware Implant in One of Its Wallets Sold by CryptoBilis</a>
+  <a href="https://thehackernews.com/2026/10/chinese-hackers-use-ai-powered-artex-to.html" target="_blank">Chinese Hackers Use AI-Powered ARTEX to Target Over 200 Organizations Worldwide</a>
   <!-- CVE_END -->
 
 > **📰 Latest Tech News:** <br/>
 > <!-- NEWS_START -->
-  <a href="https://elect.horse/" target="_blank">elect.horse</a>
+  <a href="https://virtuallyfun.com/2026/10/29/my-favourite-powermac-is-a-nintendo-wii/" target="_blank">My favourite PowerMac is a Nintendo Wii</a>
   <!-- NEWS_END -->
 
 
@@ -63,7 +63,7 @@ I build at the intersection of Cyber Security, Artificial Intelligence, and Quan
 ---
 <p align="center">
   <!-- QUOTE_START -->
-  <i>"Hardware is easy to protect: lock it in a room, chain it to a desk, or buy a spare. Information poses more of a problem." – Bruce Schneier</i>
+  <i>"Some people worry that artificial intelligence will make us feel inferior, but then, anybody in his right mind should have an inferiority complex every time he looks at a flower." – Alan Kay</i>
   <!-- QUOTE_END -->
 </p>
 
