@@ -14,7 +14,7 @@
 
 <p align="center">
   <!-- WEATHER_START -->
-  📍 **Pune, India** | 🕒 **IST (UTC+5:30)** | ⛅ **27.0°C**
+  📍 **Pune, India** | 🕒 **IST (UTC+5:30)** | ⛅ **24.5°C**
   <!-- WEATHER_END -->
 </p>
 
@@ -34,12 +34,12 @@ I build at the intersection of Cyber Security, Artificial Intelligence, and Quan
 ##  Daily Updates
 > **🐛 Latest CVE:** <br/>
 > <!-- CVE_START -->
-  <a href="https://thehackernews.com/2026/10/chinese-hackers-use-ai-powered-artex-to.html" target="_blank">Chinese Hackers Use AI-Powered ARTEX to Target Over 200 Organizations Worldwide</a>
+  <a href="https://thehackernews.com/2026/10/attackers-chain-three-ivanti-connect.html" target="_blank">Attackers Chain Three Ivanti Connect Secure Flaws to Gain Unauthenticated Root Access</a>
   <!-- CVE_END -->
 
 > **📰 Latest Tech News:** <br/>
 > <!-- NEWS_START -->
-  <a href="https://tng.episodle.com/" target="_blank">Show HN: To Honor Sir Patrick Stewart, Enjoy the TNG Episode Guessing Game</a>
+  <a href="https://www.science.org/content/article/serbia-just-elected-world-s-brainiest-parliament" target="_blank">Serbia just elected the world's brainiest parliament</a>
   <!-- NEWS_END -->
 
 
@@ -63,7 +63,7 @@ I build at the intersection of Cyber Security, Artificial Intelligence, and Quan
 ---
 <p align="center">
   <!-- QUOTE_START -->
-  <i>"The question of whether a computer can think is no more interesting than the question of whether a submarine can swim." – Edsger W. Dijkstra</i>
+  <i>"One of the main cyber-risks is to think they don’t exist." – Stephane Nappo</i>
   <!-- QUOTE_END -->
 </p>
 
