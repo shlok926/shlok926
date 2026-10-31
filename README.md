@@ -14,7 +14,7 @@
 
 <p align="center">
   <!-- WEATHER_START -->
-  📍 **Pune, India** | 🕒 **IST (UTC+5:30)** | ⛅ **24.5°C**
+  📍 **Pune, India** | 🕒 **IST (UTC+5:30)** | ⛅ **22.0°C**
   <!-- WEATHER_END -->
 </p>
 
@@ -34,12 +34,12 @@ I build at the intersection of Cyber Security, Artificial Intelligence, and Quan
 ##  Daily Updates
 > **🐛 Latest CVE:** <br/>
 > <!-- CVE_START -->
-  <a href="https://thehackernews.com/2026/10/attackers-chain-three-ivanti-connect.html" target="_blank">Attackers Chain Three Ivanti Connect Secure Flaws to Gain Unauthenticated Root Access</a>
+  <a href="https://thehackernews.com/2026/10/chainalysis-confirms-intrusion-into.html" target="_blank">Chainalysis Confirms Intrusion Into Internal Tools and Exposure of Customer Identity Data</a>
   <!-- CVE_END -->
 
 > **📰 Latest Tech News:** <br/>
 > <!-- NEWS_START -->
-  <a href="https://www.science.org/content/article/serbia-just-elected-world-s-brainiest-parliament" target="_blank">Serbia just elected the world's brainiest parliament</a>
+  <a href="https://karpathy.bearblog.dev/hacker-tube/" target="_blank">HackerTube: YouTube built from videos recommended by HN</a>
   <!-- NEWS_END -->
 
 
@@ -63,7 +63,7 @@ I build at the intersection of Cyber Security, Artificial Intelligence, and Quan
 ---
 <p align="center">
   <!-- QUOTE_START -->
-  <i>"One of the main cyber-risks is to think they don’t exist." – Stephane Nappo</i>
+  <i>"Cybersecurity is a shared responsibility, and it boils down to this: in cybersecurity, the more systems we secure, the more secure we all are." – Jeh Johnson</i>
   <!-- QUOTE_END -->
 </p>
 
