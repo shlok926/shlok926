@@ -14,7 +14,7 @@
 
 <p align="center">
   <!-- WEATHER_START -->
-  📍 **Pune, India** | 🕒 **IST (UTC+5:30)** | ⛅ **22.5°C**
+  📍 **Pune, India** | 🕒 **IST (UTC+5:30)** | ⛅ **27.0°C**
   <!-- WEATHER_END -->
 </p>
 
@@ -39,7 +39,7 @@ I build at the intersection of Cyber Security, Artificial Intelligence, and Quan
 
 > **📰 Latest Tech News:** <br/>
 > <!-- NEWS_START -->
-  <a href="https://virtuallyfun.com/2026/10/29/my-favourite-powermac-is-a-nintendo-wii/" target="_blank">My favourite PowerMac is a Nintendo Wii</a>
+  <a href="https://tng.episodle.com/" target="_blank">Show HN: To Honor Sir Patrick Stewart, Enjoy the TNG Episode Guessing Game</a>
   <!-- NEWS_END -->
 
 
@@ -63,7 +63,7 @@ I build at the intersection of Cyber Security, Artificial Intelligence, and Quan
 ---
 <p align="center">
   <!-- QUOTE_START -->
-  <i>"Some people worry that artificial intelligence will make us feel inferior, but then, anybody in his right mind should have an inferiority complex every time he looks at a flower." – Alan Kay</i>
+  <i>"The question of whether a computer can think is no more interesting than the question of whether a submarine can swim." – Edsger W. Dijkstra</i>
   <!-- QUOTE_END -->
 </p>
 
