@@ -14,7 +14,7 @@
 
 <p align="center">
   <!-- WEATHER_START -->
-  📍 **Pune, India** | 🕒 **IST (UTC+5:30)** | ⛅ **22.0°C**
+  📍 **Pune, India** | 🕒 **IST (UTC+5:30)** | ⛅ **24.6°C**
   <!-- WEATHER_END -->
 </p>
 
@@ -63,7 +63,7 @@ I build at the intersection of Cyber Security, Artificial Intelligence, and Quan
 ---
 <p align="center">
   <!-- QUOTE_START -->
-  <i>"Cybersecurity is a shared responsibility, and it boils down to this: in cybersecurity, the more systems we secure, the more secure we all are." – Jeh Johnson</i>
+  <i>"Privacy is not an option, and it shouldn't be the price we accept for just getting on the internet." – Gary Kovacs</i>
   <!-- QUOTE_END -->
 </p>
 
