@@ -14,7 +14,7 @@
 
 <p align="center">
   <!-- WEATHER_START -->
-  📍 **Pune, India** | 🕒 **IST (UTC+5:30)** | ⛅ **24.6°C**
+  📍 **Pune, India** | 🕒 **IST (UTC+5:30)** | ⛅ **22.4°C**
   <!-- WEATHER_END -->
 </p>
 
@@ -34,12 +34,12 @@ I build at the intersection of Cyber Security, Artificial Intelligence, and Quan
 ##  Daily Updates
 > **🐛 Latest CVE:** <br/>
 > <!-- CVE_START -->
-  <a href="https://thehackernews.com/2026/10/chainalysis-confirms-intrusion-into.html" target="_blank">Chainalysis Confirms Intrusion Into Internal Tools and Exposure of Customer Identity Data</a>
+  <a href="https://thehackernews.com/2026/11/critical-lxd-and-microcloud-flaw-cvss.html" target="_blank">CVSS 10.0 LXD, MicroCloud Flaw Lets Attackers Impersonate Trusted Clients Without a Private Key</a>
   <!-- CVE_END -->
 
 > **📰 Latest Tech News:** <br/>
 > <!-- NEWS_START -->
-  <a href="https://karpathy.bearblog.dev/hacker-tube/" target="_blank">HackerTube: YouTube built from videos recommended by HN</a>
+  <a href="https://www.visitnorway.com/plan-your-trip/travel-tips-a-z/norwegian-scenic-routes/worlds-best-toilets/" target="_blank">Norway makes shithouses great again</a>
   <!-- NEWS_END -->
 
 
@@ -63,7 +63,7 @@ I build at the intersection of Cyber Security, Artificial Intelligence, and Quan
 ---
 <p align="center">
   <!-- QUOTE_START -->
-  <i>"Privacy is not an option, and it shouldn't be the price we accept for just getting on the internet." – Gary Kovacs</i>
+  <i>"Amateurs hack systems, professionals hack people." – Bruce Schneier</i>
   <!-- QUOTE_END -->
 </p>
 
