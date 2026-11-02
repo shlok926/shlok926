@@ -14,7 +14,7 @@
 
 <p align="center">
   <!-- WEATHER_START -->
-  📍 **Pune, India** | 🕒 **IST (UTC+5:30)** | ⛅ **21.2°C**
+  📍 **Pune, India** | 🕒 **IST (UTC+5:30)** | ⛅ **25.5°C**
   <!-- WEATHER_END -->
 </p>
 
@@ -63,7 +63,7 @@ I build at the intersection of Cyber Security, Artificial Intelligence, and Quan
 ---
 <p align="center">
   <!-- QUOTE_START -->
-  <i>"If you think technology can solve your security problems, then you don't understand the problems and you don't understand the technology." – Bruce Schneier</i>
+  <i>"One of the main cyber-risks is to think they don’t exist." – Stephane Nappo</i>
   <!-- QUOTE_END -->
 </p>
 
