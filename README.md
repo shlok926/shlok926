@@ -14,7 +14,7 @@
 
 <p align="center">
   <!-- WEATHER_START -->
-  📍 **Pune, India** | 🕒 **IST (UTC+5:30)** | ⛅ **25.7°C**
+  📍 **Pune, India** | 🕒 **IST (UTC+5:30)** | ⛅ **21.7°C**
   <!-- WEATHER_END -->
 </p>
 
@@ -34,12 +34,12 @@ I build at the intersection of Cyber Security, Artificial Intelligence, and Quan
 ##  Daily Updates
 > **🐛 Latest CVE:** <br/>
 > <!-- CVE_START -->
-  <a href="https://thehackernews.com/2026/11/red-hat-patches-98-rated-linux-tcp-rce.html" target="_blank">Red Hat Patches 9.8-Rated Linux TCP RCE Flaw While Ubuntu Releases Fixes for Testing</a>
+  <a href="https://thehackernews.com/2026/11/msecure-warns-users-to-change-passwords.html" target="_blank">mSecure Warns Users to Change Passwords, Reset 2FA and Passkeys After Suspicious Activity</a>
   <!-- CVE_END -->
 
 > **📰 Latest Tech News:** <br/>
 > <!-- NEWS_START -->
-  <a href="https://honnibal.dev/blog/astra-read-write-misleading" target="_blank">The 'Astra can read and write weights to improve Qwen' post is misleading</a>
+  <a href="https://arxiv.org/abs/2605.29713" target="_blank">The Little Book of Generative AI Foundations: An Intuitive Mathematical Primer</a>
   <!-- NEWS_END -->
 
 
@@ -63,7 +63,7 @@ I build at the intersection of Cyber Security, Artificial Intelligence, and Quan
 ---
 <p align="center">
   <!-- QUOTE_START -->
-  <i>"Hardware is easy to protect: lock it in a room, chain it to a desk, or buy a spare. Information poses more of a problem." – Bruce Schneier</i>
+  <i>"Artificial intelligence is the new electricity." – Andrew Ng</i>
   <!-- QUOTE_END -->
 </p>
 
