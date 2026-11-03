@@ -14,7 +14,7 @@
 
 <p align="center">
   <!-- WEATHER_START -->
-  📍 **Pune, India** | 🕒 **IST (UTC+5:30)** | ⛅ **23.9°C**
+  📍 **Pune, India** | 🕒 **IST (UTC+5:30)** | ⛅ **21.0°C**
   <!-- WEATHER_END -->
 </p>
 
@@ -34,12 +34,12 @@ I build at the intersection of Cyber Security, Artificial Intelligence, and Quan
 ##  Daily Updates
 > **🐛 Latest CVE:** <br/>
 > <!-- CVE_START -->
-  <a href="https://thehackernews.com/2026/11/darkblinders-compromises-israeli-target.html" target="_blank">DarkBlinders Compromises Israeli Target and Iraqi Kurdish Government Cloud Environment</a>
+  <a href="https://thehackernews.com/2026/11/weekly-recap-critical-cves-linux-ddos.html" target="_blank">⚡ Weekly Recap: Critical CVEs, Linux DDoS Botnet, Device-Code Phishing, Android Spyware and More</a>
   <!-- CVE_END -->
 
 > **📰 Latest Tech News:** <br/>
 > <!-- NEWS_START -->
-  <a href="https://chalmovsky.com/posts/wtf-ubuntu" target="_blank">WTF Ubuntu?</a>
+  <a href="https://rikiyat.github.io/blog/weight-space-programming/" target="_blank">Astra can read and write weights to improve Qwen</a>
   <!-- NEWS_END -->
 
 
@@ -63,7 +63,7 @@ I build at the intersection of Cyber Security, Artificial Intelligence, and Quan
 ---
 <p align="center">
   <!-- QUOTE_START -->
-  <i>"Some people worry that artificial intelligence will make us feel inferior, but then, anybody in his right mind should have an inferiority complex every time he looks at a flower." – Alan Kay</i>
+  <i>"Hardware is easy to protect: lock it in a room, chain it to a desk, or buy a spare. Information poses more of a problem." – Bruce Schneier</i>
   <!-- QUOTE_END -->
 </p>
 
