@@ -14,7 +14,7 @@
 
 <p align="center">
   <!-- WEATHER_START -->
-  📍 **Pune, India** | 🕒 **IST (UTC+5:30)** | ⛅ **21.0°C**
+  📍 **Pune, India** | 🕒 **IST (UTC+5:30)** | ⛅ **25.7°C**
   <!-- WEATHER_END -->
 </p>
 
@@ -34,12 +34,12 @@ I build at the intersection of Cyber Security, Artificial Intelligence, and Quan
 ##  Daily Updates
 > **🐛 Latest CVE:** <br/>
 > <!-- CVE_START -->
-  <a href="https://thehackernews.com/2026/11/weekly-recap-critical-cves-linux-ddos.html" target="_blank">⚡ Weekly Recap: Critical CVEs, Linux DDoS Botnet, Device-Code Phishing, Android Spyware and More</a>
+  <a href="https://thehackernews.com/2026/11/red-hat-patches-98-rated-linux-tcp-rce.html" target="_blank">Red Hat Patches 9.8-Rated Linux TCP RCE Flaw While Ubuntu Releases Fixes for Testing</a>
   <!-- CVE_END -->
 
 > **📰 Latest Tech News:** <br/>
 > <!-- NEWS_START -->
-  <a href="https://rikiyat.github.io/blog/weight-space-programming/" target="_blank">Astra can read and write weights to improve Qwen</a>
+  <a href="https://honnibal.dev/blog/astra-read-write-misleading" target="_blank">The 'Astra can read and write weights to improve Qwen' post is misleading</a>
   <!-- NEWS_END -->
 
 
