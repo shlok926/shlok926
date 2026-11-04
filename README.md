@@ -14,7 +14,7 @@
 
 <p align="center">
   <!-- WEATHER_START -->
-  📍 **Pune, India** | 🕒 **IST (UTC+5:30)** | ⛅ **28.8°C**
+  📍 **Pune, India** | 🕒 **IST (UTC+5:30)** | ⛅ **26.4°C**
   <!-- WEATHER_END -->
 </p>
 
@@ -34,12 +34,12 @@ I build at the intersection of Cyber Security, Artificial Intelligence, and Quan
 ##  Daily Updates
 > **🐛 Latest CVE:** <br/>
 > <!-- CVE_START -->
-  <a href="https://thehackernews.com/2026/11/msecure-warns-users-to-change-passwords.html" target="_blank">mSecure Warns Users to Change Passwords, Reset 2FA and Passkeys After Suspicious Activity</a>
+  <a href="https://thehackernews.com/2026/11/critical-rails-flaw-lets-attackers.html" target="_blank">Critical Rails Flaw Lets Attackers Write Server Files via Crafted ImageMagick Uploads</a>
   <!-- CVE_END -->
 
 > **📰 Latest Tech News:** <br/>
 > <!-- NEWS_START -->
-  <a href="https://andreasfertig.com/blog/2026/11/cpp26-dis-failed-how-does-cpp-survive/" target="_blank">C++26 Disapproved</a>
+  <a href="https://spectrum.ieee.org/ai-in-cybersecurity-php2shell-vulnerability" target="_blank">AI is forcing us to pay off 40 years of technical debt</a>
   <!-- NEWS_END -->
 
 
@@ -63,7 +63,7 @@ I build at the intersection of Cyber Security, Artificial Intelligence, and Quan
 ---
 <p align="center">
   <!-- QUOTE_START -->
-  <i>"There are only two types of companies: those that have been hacked, and those that will be." – Robert Mueller</i>
+  <i>"In the world of cyber security, the last thing you want is a target painted on your back." – Anonymous</i>
   <!-- QUOTE_END -->
 </p>
 
