@@ -14,7 +14,7 @@
 
 <p align="center">
   <!-- WEATHER_START -->
-  📍 **Pune, India** | 🕒 **IST (UTC+5:30)** | ⛅ **26.4°C**
+  📍 **Pune, India** | 🕒 **IST (UTC+5:30)** | ⛅ **22.0°C**
   <!-- WEATHER_END -->
 </p>
 
@@ -34,12 +34,12 @@ I build at the intersection of Cyber Security, Artificial Intelligence, and Quan
 ##  Daily Updates
 > **🐛 Latest CVE:** <br/>
 > <!-- CVE_START -->
-  <a href="https://thehackernews.com/2026/11/critical-rails-flaw-lets-attackers.html" target="_blank">Critical Rails Flaw Lets Attackers Write Server Files via Crafted ImageMagick Uploads</a>
+  <a href="https://thehackernews.com/2026/11/debian-and-ubuntu-apt-flaw-lets-mitm.html" target="_blank">Debian and Ubuntu APT Flaw Lets MitM Attackers Swap Verified Packages and Run Code as Root</a>
   <!-- CVE_END -->
 
 > **📰 Latest Tech News:** <br/>
 > <!-- NEWS_START -->
-  <a href="https://spectrum.ieee.org/ai-in-cybersecurity-php2shell-vulnerability" target="_blank">AI is forcing us to pay off 40 years of technical debt</a>
+  <a href="https://layer3intel.com/blog/residential-proxies-white-house-network" target="_blank">Residential proxies detected on White House network</a>
   <!-- NEWS_END -->
 
 
@@ -63,7 +63,7 @@ I build at the intersection of Cyber Security, Artificial Intelligence, and Quan
 ---
 <p align="center">
   <!-- QUOTE_START -->
-  <i>"In the world of cyber security, the last thing you want is a target painted on your back." – Anonymous</i>
+  <i>"The only truly secure system is one that is powered off, cast in a block of concrete and sealed in a lead-lined room with armed guards - and even then I have my doubts." – Gene Spafford</i>
   <!-- QUOTE_END -->
 </p>
 
