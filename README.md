@@ -14,7 +14,7 @@
 
 <p align="center">
   <!-- WEATHER_START -->
-  📍 **Pune, India** | 🕒 **IST (UTC+5:30)** | ⛅ **21.7°C**
+  📍 **Pune, India** | 🕒 **IST (UTC+5:30)** | ⛅ **28.8°C**
   <!-- WEATHER_END -->
 </p>
 
@@ -39,7 +39,7 @@ I build at the intersection of Cyber Security, Artificial Intelligence, and Quan
 
 > **📰 Latest Tech News:** <br/>
 > <!-- NEWS_START -->
-  <a href="https://arxiv.org/abs/2605.29713" target="_blank">The Little Book of Generative AI Foundations: An Intuitive Mathematical Primer</a>
+  <a href="https://andreasfertig.com/blog/2026/11/cpp26-dis-failed-how-does-cpp-survive/" target="_blank">C++26 Disapproved</a>
   <!-- NEWS_END -->
 
 
@@ -63,7 +63,7 @@ I build at the intersection of Cyber Security, Artificial Intelligence, and Quan
 ---
 <p align="center">
   <!-- QUOTE_START -->
-  <i>"Artificial intelligence is the new electricity." – Andrew Ng</i>
+  <i>"There are only two types of companies: those that have been hacked, and those that will be." – Robert Mueller</i>
   <!-- QUOTE_END -->
 </p>
 
