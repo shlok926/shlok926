@@ -14,7 +14,7 @@
 
 <p align="center">
   <!-- WEATHER_START -->
-  📍 **Pune, India** | 🕒 **IST (UTC+5:30)** | ⛅ **29.7°C**
+  📍 **Pune, India** | 🕒 **IST (UTC+5:30)** | ⛅ **24.0°C**
   <!-- WEATHER_END -->
 </p>
 
@@ -34,12 +34,12 @@ I build at the intersection of Cyber Security, Artificial Intelligence, and Quan
 ##  Daily Updates
 > **🐛 Latest CVE:** <br/>
 > <!-- CVE_START -->
-  <a href="https://thehackernews.com/2026/11/hackers-exploit-patched-apple-flaw-to.html" target="_blank">Hackers Exploit Patched Apple Flaw to Deliver Info-Stealing Malware, CISA Says</a>
+  <a href="https://thehackernews.com/2026/11/threatsday-apache-ofbiz-rce-dreamhost.html" target="_blank">ThreatsDay: Apache OFBiz RCE, DreamHost Breach, DeFi Site Hijacks + 17 More Stories</a>
   <!-- CVE_END -->
 
 > **📰 Latest Tech News:** <br/>
 > <!-- NEWS_START -->
-  <a href="https://layer3intel.com/blog/residential-proxies-white-house-network" target="_blank">Residential proxies detected on White House network</a>
+  <a href="https://sshhole.com" target="_blank">sshole</a>
   <!-- NEWS_END -->
 
 
@@ -63,7 +63,7 @@ I build at the intersection of Cyber Security, Artificial Intelligence, and Quan
 ---
 <p align="center">
   <!-- QUOTE_START -->
-  <i>"We are entering a new world. The technologies of machine learning, speech recognition, and natural language understanding are reaching a nexus of capability." – Bill Gates</i>
+  <i>"Some people worry that artificial intelligence will make us feel inferior, but then, anybody in his right mind should have an inferiority complex every time he looks at a flower." – Alan Kay</i>
   <!-- QUOTE_END -->
 </p>
 
