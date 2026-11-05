@@ -14,7 +14,7 @@
 
 <p align="center">
   <!-- WEATHER_START -->
-  📍 **Pune, India** | 🕒 **IST (UTC+5:30)** | ⛅ **22.0°C**
+  📍 **Pune, India** | 🕒 **IST (UTC+5:30)** | ⛅ **29.7°C**
   <!-- WEATHER_END -->
 </p>
 
@@ -34,7 +34,7 @@ I build at the intersection of Cyber Security, Artificial Intelligence, and Quan
 ##  Daily Updates
 > **🐛 Latest CVE:** <br/>
 > <!-- CVE_START -->
-  <a href="https://thehackernews.com/2026/11/debian-and-ubuntu-apt-flaw-lets-mitm.html" target="_blank">Debian and Ubuntu APT Flaw Lets MitM Attackers Swap Verified Packages and Run Code as Root</a>
+  <a href="https://thehackernews.com/2026/11/hackers-exploit-patched-apple-flaw-to.html" target="_blank">Hackers Exploit Patched Apple Flaw to Deliver Info-Stealing Malware, CISA Says</a>
   <!-- CVE_END -->
 
 > **📰 Latest Tech News:** <br/>
@@ -63,7 +63,7 @@ I build at the intersection of Cyber Security, Artificial Intelligence, and Quan
 ---
 <p align="center">
   <!-- QUOTE_START -->
-  <i>"The only truly secure system is one that is powered off, cast in a block of concrete and sealed in a lead-lined room with armed guards - and even then I have my doubts." – Gene Spafford</i>
+  <i>"We are entering a new world. The technologies of machine learning, speech recognition, and natural language understanding are reaching a nexus of capability." – Bill Gates</i>
   <!-- QUOTE_END -->
 </p>
 
