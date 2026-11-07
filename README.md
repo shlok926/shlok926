@@ -14,7 +14,7 @@
 
 <p align="center">
   <!-- WEATHER_START -->
-  📍 **Pune, India** | 🕒 **IST (UTC+5:30)** | ⛅ **26.2°C**
+  📍 **Pune, India** | 🕒 **IST (UTC+5:30)** | ⛅ **20.7°C**
   <!-- WEATHER_END -->
 </p>
 
@@ -39,7 +39,7 @@ I build at the intersection of Cyber Security, Artificial Intelligence, and Quan
 
 > **📰 Latest Tech News:** <br/>
 > <!-- NEWS_START -->
-  <a href="https://uploadyourram.org" target="_blank">Upload Your RAM</a>
+  <a href="https://hunch.net/?p=13764006" target="_blank">The end of Microsoft Research's AI Frontiers group</a>
   <!-- NEWS_END -->
 
 
@@ -63,7 +63,7 @@ I build at the intersection of Cyber Security, Artificial Intelligence, and Quan
 ---
 <p align="center">
   <!-- QUOTE_START -->
-  <i>"Hardware is easy to protect: lock it in a room, chain it to a desk, or buy a spare. Information poses more of a problem." – Bruce Schneier</i>
+  <i>"The only truly secure system is one that is powered off, cast in a block of concrete and sealed in a lead-lined room with armed guards - and even then I have my doubts." – Gene Spafford</i>
   <!-- QUOTE_END -->
 </p>
 
