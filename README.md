@@ -14,7 +14,7 @@
 
 <p align="center">
   <!-- WEATHER_START -->
-  📍 **Pune, India** | 🕒 **IST (UTC+5:30)** | ⛅ **28.4°C**
+  📍 **Pune, India** | 🕒 **IST (UTC+5:30)** | ⛅ **26.2°C**
   <!-- WEATHER_END -->
 </p>
 
@@ -34,12 +34,12 @@ I build at the intersection of Cyber Security, Artificial Intelligence, and Quan
 ##  Daily Updates
 > **🐛 Latest CVE:** <br/>
 > <!-- CVE_START -->
-  <a href="https://thehackernews.com/2026/11/installing-fix-for-exploited-wordpress.html" target="_blank">Installing the Fix for an Exploited WordPress Flaw Can Expose Some Sites One Last Time</a>
+  <a href="https://thehackernews.com/2026/11/claude-codes-dont-ask-again-file.html" target="_blank">Claude Code's “Don't Ask Again” File Exposes Passwords and Keys in 1,122 Public Copies on GitHub</a>
   <!-- CVE_END -->
 
 > **📰 Latest Tech News:** <br/>
 > <!-- NEWS_START -->
-  <a href="https://mitchellh.com/writing/libghostty-1-0" target="_blank">Libghostty 1.0</a>
+  <a href="https://uploadyourram.org" target="_blank">Upload Your RAM</a>
   <!-- NEWS_END -->
 
 
@@ -63,7 +63,7 @@ I build at the intersection of Cyber Security, Artificial Intelligence, and Quan
 ---
 <p align="center">
   <!-- QUOTE_START -->
-  <i>"There are only two types of companies: those that have been hacked, and those that will be." – Robert Mueller</i>
+  <i>"Hardware is easy to protect: lock it in a room, chain it to a desk, or buy a spare. Information poses more of a problem." – Bruce Schneier</i>
   <!-- QUOTE_END -->
 </p>
 
