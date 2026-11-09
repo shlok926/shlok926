@@ -14,7 +14,7 @@
 
 <p align="center">
   <!-- WEATHER_START -->
-  📍 **Pune, India** | 🕒 **IST (UTC+5:30)** | ⛅ **20.3°C**
+  📍 **Pune, India** | 🕒 **IST (UTC+5:30)** | ⛅ **29.5°C**
   <!-- WEATHER_END -->
 </p>
 
@@ -39,7 +39,7 @@ I build at the intersection of Cyber Security, Artificial Intelligence, and Quan
 
 > **📰 Latest Tech News:** <br/>
 > <!-- NEWS_START -->
-  <a href="https://www.thestateofai.com/news/goldman-sachs-claude-code-traders-bankers" target="_blank">Goldman Sachs Is Pulling Claude Code from Its Bankers and Traders</a>
+  <a href="https://aphyr.com/posts/427-rip-harvest" target="_blank">RIP, Harvest</a>
   <!-- NEWS_END -->
 
 
