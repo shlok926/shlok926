@@ -14,7 +14,7 @@
 
 <p align="center">
   <!-- WEATHER_START -->
-  📍 **Pune, India** | 🕒 **IST (UTC+5:30)** | ⛅ **19.2°C**
+  📍 **Pune, India** | 🕒 **IST (UTC+5:30)** | ⛅ **25.6°C**
   <!-- WEATHER_END -->
 </p>
 
@@ -34,12 +34,12 @@ I build at the intersection of Cyber Security, Artificial Intelligence, and Quan
 ##  Daily Updates
 > **🐛 Latest CVE:** <br/>
 > <!-- CVE_START -->
-  <a href="https://thehackernews.com/2026/11/hackers-exploit-quboles-trusted-aws.html" target="_blank">Hackers Exploit Qubole's Trusted AWS Access to Breach Customer Accounts and Steal Data</a>
+  <a href="https://thehackernews.com/2026/11/binance-warns-of-ios-sandbox-escape.html" target="_blank">Binance Warns of iOS Sandbox Escape That Could Expose Crypto Wallet Keys, No Fix Confirmed</a>
   <!-- CVE_END -->
 
 > **📰 Latest Tech News:** <br/>
 > <!-- NEWS_START -->
-  <a href="https://www.anthropic.com/claude-fable-and-mythos-5-2" target="_blank">Claude Fable 5.2 and Mythos 5.2</a>
+  <a href="https://deepmind.google/blog/introducing-alphaproof-code/" target="_blank">AlphaProof Code</a>
   <!-- NEWS_END -->
 
 
