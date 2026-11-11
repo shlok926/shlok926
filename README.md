@@ -14,7 +14,7 @@
 
 <p align="center">
   <!-- WEATHER_START -->
-  📍 **Pune, India** | 🕒 **IST (UTC+5:30)** | ⛅ **28.9°C**
+  📍 **Pune, India** | 🕒 **IST (UTC+5:30)** | ⛅ **25.9°C**
   <!-- WEATHER_END -->
 </p>
 
@@ -34,12 +34,12 @@ I build at the intersection of Cyber Security, Artificial Intelligence, and Quan
 ##  Daily Updates
 > **🐛 Latest CVE:** <br/>
 > <!-- CVE_START -->
-  <a href="https://thehackernews.com/2026/11/git-patches-flaw-that-lets-malicious.html" target="_blank">Git Patches Flaw That Lets Malicious Repositories Execute Code During Recursive Clones</a>
+  <a href="https://thehackernews.com/2026/11/over-35000-grok-built-apps-exposed.html" target="_blank">Over 35,000 Grok-Built Apps Exposed Online, Some Leaking Confidential Data and Passwords</a>
   <!-- CVE_END -->
 
 > **📰 Latest Tech News:** <br/>
 > <!-- NEWS_START -->
-  <a href="https://gatezh.com/posts/macos-secure-enclave-ssh-keys/" target="_blank">Protecting SSH Keys with macOS Secure Enclave</a>
+  <a href="https://pietromiotti.com/latest/maya-site/?maya" target="_blank">Google SWE points 48 AI agents at NASA Lidar, finds unmapped Maya pyramid in 72h</a>
   <!-- NEWS_END -->
 
 
@@ -63,7 +63,7 @@ I build at the intersection of Cyber Security, Artificial Intelligence, and Quan
 ---
 <p align="center">
   <!-- QUOTE_START -->
-  <i>"By far, the greatest danger of Artificial Intelligence is that people conclude too early that they understand it." – Eliezer Yudkowsky</i>
+  <i>"Security is a process, not a product." – Bruce Schneier</i>
   <!-- QUOTE_END -->
 </p>
 
