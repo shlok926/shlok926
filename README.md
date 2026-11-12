@@ -14,7 +14,7 @@
 
 <p align="center">
   <!-- WEATHER_START -->
-  📍 **Pune, India** | 🕒 **IST (UTC+5:30)** | ⛅ **25.0°C**
+  📍 **Pune, India** | 🕒 **IST (UTC+5:30)** | ⛅ **19.0°C**
   <!-- WEATHER_END -->
 </p>
 
@@ -34,12 +34,12 @@ I build at the intersection of Cyber Security, Artificial Intelligence, and Quan
 ##  Daily Updates
 > **🐛 Latest CVE:** <br/>
 > <!-- CVE_START -->
-  <a href="https://thehackernews.com/2026/11/google-cloud-warns-three-amd-turin-cpu.html" target="_blank">Google Cloud Warns Three AMD Turin CPU Flaws Could Leak Data Across Processes in VMs</a>
+  <a href="https://thehackernews.com/2026/11/your-soc-sees-alert-but-does-it-know.html" target="_blank">Webinar: See How Identity Blind Spots Put Your SOC at Risk and How to Close Them</a>
   <!-- CVE_END -->
 
 > **📰 Latest Tech News:** <br/>
 > <!-- NEWS_START -->
-  <a href="https://nvidianews.nvidia.com/news/nvidia-announces-ceo-transition" target="_blank">NVIDIA Announces CEO Transition</a>
+  <a href="https://apnews.com/article/nvidia-megaspeed-china-singapore-huang-5403f152a601cf82ce939f1d24fffa0f" target="_blank">Jensen Huang resigns</a>
   <!-- NEWS_END -->
 
 
@@ -63,7 +63,7 @@ I build at the intersection of Cyber Security, Artificial Intelligence, and Quan
 ---
 <p align="center">
   <!-- QUOTE_START -->
-  <i>"One of the main cyber-risks is to think they don’t exist." – Stephane Nappo</i>
+  <i>"Amateurs hack systems, professionals hack people." – Bruce Schneier</i>
   <!-- QUOTE_END -->
 </p>
 
