@@ -14,7 +14,7 @@
 
 <p align="center">
   <!-- WEATHER_START -->
-  📍 **Pune, India** | 🕒 **IST (UTC+5:30)** | ⛅ **19.5°C**
+  📍 **Pune, India** | 🕒 **IST (UTC+5:30)** | ⛅ **25.0°C**
   <!-- WEATHER_END -->
 </p>
 
@@ -34,12 +34,12 @@ I build at the intersection of Cyber Security, Artificial Intelligence, and Quan
 ##  Daily Updates
 > **🐛 Latest CVE:** <br/>
 > <!-- CVE_START -->
-  <a href="https://thehackernews.com/2026/11/critical-zoom-workplace-flaw-could.html" target="_blank">Critical Zoom Workplace Flaw Could Allow Unauthenticated Remote Privilege Escalation</a>
+  <a href="https://thehackernews.com/2026/11/google-cloud-warns-three-amd-turin-cpu.html" target="_blank">Google Cloud Warns Three AMD Turin CPU Flaws Could Leak Data Across Processes in VMs</a>
   <!-- CVE_END -->
 
 > **📰 Latest Tech News:** <br/>
 > <!-- NEWS_START -->
-  <a href="https://github.com/aws/aws-emulator" target="_blank">AWS emulator</a>
+  <a href="https://nvidianews.nvidia.com/news/nvidia-announces-ceo-transition" target="_blank">NVIDIA Announces CEO Transition</a>
   <!-- NEWS_END -->
 
 
@@ -63,7 +63,7 @@ I build at the intersection of Cyber Security, Artificial Intelligence, and Quan
 ---
 <p align="center">
   <!-- QUOTE_START -->
-  <i>"Cybersecurity is a shared responsibility, and it boils down to this: in cybersecurity, the more systems we secure, the more secure we all are." – Jeh Johnson</i>
+  <i>"One of the main cyber-risks is to think they don’t exist." – Stephane Nappo</i>
   <!-- QUOTE_END -->
 </p>
 
