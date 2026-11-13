@@ -14,7 +14,7 @@
 
 <p align="center">
   <!-- WEATHER_START -->
-  📍 **Pune, India** | 🕒 **IST (UTC+5:30)** | ⛅ **28.9°C**
+  📍 **Pune, India** | 🕒 **IST (UTC+5:30)** | ⛅ **21.1°C**
   <!-- WEATHER_END -->
 </p>
 
@@ -34,12 +34,12 @@ I build at the intersection of Cyber Security, Artificial Intelligence, and Quan
 ##  Daily Updates
 > **🐛 Latest CVE:** <br/>
 > <!-- CVE_START -->
-  <a href="https://thehackernews.com/2026/11/hackers-exploit-n-central-flaws-to.html" target="_blank">Hackers Exploit N-central Flaws to Infect 21 Servers, Including 19 Running Hotfix 2</a>
+  <a href="https://thehackernews.com/2026/11/postgresql-patches-52-flaws-including.html" target="_blank">PostgreSQL Patches 52 Flaws, Including 22-Year-Old Bug Enabling Authenticated RCE</a>
   <!-- CVE_END -->
 
 > **📰 Latest Tech News:** <br/>
 > <!-- NEWS_START -->
-  <a href="https://apnews.com/article/nvidia-megaspeed-china-singapore-huang-5403f152a601cf82ce939f1d24fffa0f" target="_blank">Jensen Huang resigns</a>
+  <a href="https://haddyalchaer.com/jepa" target="_blank">After 600 experiments, here's what I discovered about JEPA world models</a>
   <!-- NEWS_END -->
 
 
@@ -63,7 +63,7 @@ I build at the intersection of Cyber Security, Artificial Intelligence, and Quan
 ---
 <p align="center">
   <!-- QUOTE_START -->
-  <i>"The only truly secure system is one that is powered off, cast in a block of concrete and sealed in a lead-lined room with armed guards - and even then I have my doubts." – Gene Spafford</i>
+  <i>"By far, the greatest danger of Artificial Intelligence is that people conclude too early that they understand it." – Eliezer Yudkowsky</i>
   <!-- QUOTE_END -->
 </p>
 
