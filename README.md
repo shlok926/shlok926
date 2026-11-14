@@ -14,7 +14,7 @@
 
 <p align="center">
   <!-- WEATHER_START -->
-  📍 **Pune, India** | 🕒 **IST (UTC+5:30)** | ⛅ **27.5°C**
+  📍 **Pune, India** | 🕒 **IST (UTC+5:30)**
   <!-- WEATHER_END -->
 </p>
 
@@ -34,12 +34,12 @@ I build at the intersection of Cyber Security, Artificial Intelligence, and Quan
 ##  Daily Updates
 > **🐛 Latest CVE:** <br/>
 > <!-- CVE_START -->
-  <a href="https://thehackernews.com/2026/11/postgresql-patches-52-flaws-including.html" target="_blank">PostgreSQL Patches 52 Flaws, Including 22-Year-Old Bug Enabling Authenticated RCE</a>
+  <a href="https://thehackernews.com/2026/11/attackers-exploit-unrealircd-flaw-that.html" target="_blank">Attackers Exploit UnrealIRCd Flaw That Enables Server-Level Command Injection</a>
   <!-- CVE_END -->
 
 > **📰 Latest Tech News:** <br/>
 > <!-- NEWS_START -->
-  <a href="https://github.com/ggml-org/ggml/releases/tag/v1.0.0" target="_blank">Ggml v1.0.0</a>
+  <a href="https://so.long.thanks.fish/why-pi-when-i-have-an-old-phone/" target="_blank">Why get an expensive Pi when I have an old phone?</a>
   <!-- NEWS_END -->
 
 
@@ -63,7 +63,7 @@ I build at the intersection of Cyber Security, Artificial Intelligence, and Quan
 ---
 <p align="center">
   <!-- QUOTE_START -->
-  <i>"Privacy is not an option, and it shouldn't be the price we accept for just getting on the internet." – Gary Kovacs</i>
+  <i>"Cybersecurity is a shared responsibility, and it boils down to this: in cybersecurity, the more systems we secure, the more secure we all are." – Jeh Johnson</i>
   <!-- QUOTE_END -->
 </p>
 
