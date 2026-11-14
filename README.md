@@ -14,7 +14,7 @@
 
 <p align="center">
   <!-- WEATHER_START -->
-  📍 **Pune, India** | 🕒 **IST (UTC+5:30)**
+  📍 **Pune, India** | 🕒 **IST (UTC+5:30)** | ⛅ **18.8°C**
   <!-- WEATHER_END -->
 </p>
 
@@ -39,7 +39,7 @@ I build at the intersection of Cyber Security, Artificial Intelligence, and Quan
 
 > **📰 Latest Tech News:** <br/>
 > <!-- NEWS_START -->
-  <a href="https://so.long.thanks.fish/why-pi-when-i-have-an-old-phone/" target="_blank">Why get an expensive Pi when I have an old phone?</a>
+  <a href="https://www.crissyfield.de/research/lovable-en/" target="_blank">Lovable apps expose passport details and more than 200K private messages</a>
   <!-- NEWS_END -->
 
 
@@ -63,7 +63,7 @@ I build at the intersection of Cyber Security, Artificial Intelligence, and Quan
 ---
 <p align="center">
   <!-- QUOTE_START -->
-  <i>"Cybersecurity is a shared responsibility, and it boils down to this: in cybersecurity, the more systems we secure, the more secure we all are." – Jeh Johnson</i>
+  <i>"The question of whether a computer can think is no more interesting than the question of whether a submarine can swim." – Edsger W. Dijkstra</i>
   <!-- QUOTE_END -->
 </p>
 
