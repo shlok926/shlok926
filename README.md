@@ -14,7 +14,7 @@
 
 <p align="center">
   <!-- WEATHER_START -->
-  📍 **Pune, India** | 🕒 **IST (UTC+5:30)** | ⛅ **21.1°C**
+  📍 **Pune, India** | 🕒 **IST (UTC+5:30)** | ⛅ **27.5°C**
   <!-- WEATHER_END -->
 </p>
 
@@ -39,7 +39,7 @@ I build at the intersection of Cyber Security, Artificial Intelligence, and Quan
 
 > **📰 Latest Tech News:** <br/>
 > <!-- NEWS_START -->
-  <a href="https://haddyalchaer.com/jepa" target="_blank">After 600 experiments, here's what I discovered about JEPA world models</a>
+  <a href="https://github.com/ggml-org/ggml/releases/tag/v1.0.0" target="_blank">Ggml v1.0.0</a>
   <!-- NEWS_END -->
 
 
@@ -63,7 +63,7 @@ I build at the intersection of Cyber Security, Artificial Intelligence, and Quan
 ---
 <p align="center">
   <!-- QUOTE_START -->
-  <i>"By far, the greatest danger of Artificial Intelligence is that people conclude too early that they understand it." – Eliezer Yudkowsky</i>
+  <i>"Privacy is not an option, and it shouldn't be the price we accept for just getting on the internet." – Gary Kovacs</i>
   <!-- QUOTE_END -->
 </p>
 
