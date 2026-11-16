@@ -14,7 +14,7 @@
 
 <p align="center">
   <!-- WEATHER_START -->
-  📍 **Pune, India** | 🕒 **IST (UTC+5:30)** | ⛅ **21.1°C**
+  📍 **Pune, India** | 🕒 **IST (UTC+5:30)** | ⛅ **28.7°C**
   <!-- WEATHER_END -->
 </p>
 
@@ -39,7 +39,7 @@ I build at the intersection of Cyber Security, Artificial Intelligence, and Quan
 
 > **📰 Latest Tech News:** <br/>
 > <!-- NEWS_START -->
-  <a href="https://jakub.jankiewicz.org/blog/ai-code-open-source/" target="_blank">All AI-generated code should be Open Source</a>
+  <a href="https://iter.ca/post/ubo-uxss/" target="_blank">Universal XSS in uBlock Origin from website-driven element picker</a>
   <!-- NEWS_END -->
 
 
@@ -63,7 +63,7 @@ I build at the intersection of Cyber Security, Artificial Intelligence, and Quan
 ---
 <p align="center">
   <!-- QUOTE_START -->
-  <i>"Privacy is not an option, and it shouldn't be the price we accept for just getting on the internet." – Gary Kovacs</i>
+  <i>"Technology trust is a good thing, but control is a better one." – Stephane Nappo</i>
   <!-- QUOTE_END -->
 </p>
 
