@@ -14,7 +14,7 @@
 
 <p align="center">
   <!-- WEATHER_START -->
-  📍 **Pune, India** | 🕒 **IST (UTC+5:30)** | ⛅ **28.7°C**
+  📍 **Pune, India** | 🕒 **IST (UTC+5:30)** | ⛅ **24.2°C**
   <!-- WEATHER_END -->
 </p>
 
@@ -34,12 +34,12 @@ I build at the intersection of Cyber Security, Artificial Intelligence, and Quan
 ##  Daily Updates
 > **🐛 Latest CVE:** <br/>
 > <!-- CVE_START -->
-  <a href="https://thehackernews.com/2026/11/italy-fines-meta-805-million-over.html" target="_blank">Italy Fines Meta €805 Million Over Facebook's Android Gallery Access Without Explicit Consent</a>
+  <a href="https://thehackernews.com/2026/11/six-unpatched-danfoss-refrigeration.html" target="_blank">Six Unpatched Danfoss Refrigeration Controller Flaws Could Allow Remote Takeover Without Login</a>
   <!-- CVE_END -->
 
 > **📰 Latest Tech News:** <br/>
 > <!-- NEWS_START -->
-  <a href="https://iter.ca/post/ubo-uxss/" target="_blank">Universal XSS in uBlock Origin from website-driven element picker</a>
+  <a href="http://groundworkcollaborative.org/news/amazons-decoy-deals-groundwork-investigation-reveals-nearly-1-in-3-black-friday-and-cyber-monday-deals-advertised-by-amazon-offered-no-savings-to-shoppers-nearly-1-in-10-w/" target="_blank">Amazon's Discount Illusion: 1 in 3 "Deals" Offered No Savings– 1 in 10 Cost More</a>
   <!-- NEWS_END -->
 
 
@@ -63,7 +63,7 @@ I build at the intersection of Cyber Security, Artificial Intelligence, and Quan
 ---
 <p align="center">
   <!-- QUOTE_START -->
-  <i>"Technology trust is a good thing, but control is a better one." – Stephane Nappo</i>
+  <i>"One of the main cyber-risks is to think they don’t exist." – Stephane Nappo</i>
   <!-- QUOTE_END -->
 </p>
 
