@@ -14,7 +14,7 @@
 
 <p align="center">
   <!-- WEATHER_START -->
-  📍 **Pune, India** | 🕒 **IST (UTC+5:30)** | ⛅ **24.2°C**
+  📍 **Pune, India** | 🕒 **IST (UTC+5:30)**
   <!-- WEATHER_END -->
 </p>
 
@@ -34,12 +34,12 @@ I build at the intersection of Cyber Security, Artificial Intelligence, and Quan
 ##  Daily Updates
 > **🐛 Latest CVE:** <br/>
 > <!-- CVE_START -->
-  <a href="https://thehackernews.com/2026/11/six-unpatched-danfoss-refrigeration.html" target="_blank">Six Unpatched Danfoss Refrigeration Controller Flaws Could Allow Remote Takeover Without Login</a>
+  <a href="https://thehackernews.com/2026/11/google-finds-hackers-using-ai-agents-to.html" target="_blank">Google Finds Hackers Using AI Agents to Build and Run Exploits From Software Patches</a>
   <!-- CVE_END -->
 
 > **📰 Latest Tech News:** <br/>
 > <!-- NEWS_START -->
-  <a href="http://groundworkcollaborative.org/news/amazons-decoy-deals-groundwork-investigation-reveals-nearly-1-in-3-black-friday-and-cyber-monday-deals-advertised-by-amazon-offered-no-savings-to-shoppers-nearly-1-in-10-w/" target="_blank">Amazon's Discount Illusion: 1 in 3 "Deals" Offered No Savings– 1 in 10 Cost More</a>
+  <a href="https://www.cs.cmu.edu/learn/" target="_blank">Carnegie Mellon is putting computer science courses on YouTube for free</a>
   <!-- NEWS_END -->
 
 
@@ -63,7 +63,7 @@ I build at the intersection of Cyber Security, Artificial Intelligence, and Quan
 ---
 <p align="center">
   <!-- QUOTE_START -->
-  <i>"One of the main cyber-risks is to think they don’t exist." – Stephane Nappo</i>
+  <i>"If you think technology can solve your security problems, then you don't understand the problems and you don't understand the technology." – Bruce Schneier</i>
   <!-- QUOTE_END -->
 </p>
 
