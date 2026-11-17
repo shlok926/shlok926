@@ -34,12 +34,12 @@ I build at the intersection of Cyber Security, Artificial Intelligence, and Quan
 ##  Daily Updates
 > **🐛 Latest CVE:** <br/>
 > <!-- CVE_START -->
-  <a href="https://thehackernews.com/2026/11/google-finds-hackers-using-ai-agents-to.html" target="_blank">Google Finds Hackers Using AI Agents to Build and Run Exploits From Software Patches</a>
+  <a href="https://thehackernews.com/2026/11/hackers-found-way-around-github-sha.html" target="_blank">Hackers Found a Way Around GitHub SHA Pinning. This Webinar Explains How to Close the Gap</a>
   <!-- CVE_END -->
 
 > **📰 Latest Tech News:** <br/>
 > <!-- NEWS_START -->
-  <a href="https://www.cs.cmu.edu/learn/" target="_blank">Carnegie Mellon is putting computer science courses on YouTube for free</a>
+  <a href="https://jordankrueger.com/blog/better-open-source-not-more-apps/" target="_blank">We don't need more apps. We need better open source</a>
   <!-- NEWS_END -->
 
 
@@ -63,7 +63,7 @@ I build at the intersection of Cyber Security, Artificial Intelligence, and Quan
 ---
 <p align="center">
   <!-- QUOTE_START -->
-  <i>"If you think technology can solve your security problems, then you don't understand the problems and you don't understand the technology." – Bruce Schneier</i>
+  <i>"Security is a process, not a product." – Bruce Schneier</i>
   <!-- QUOTE_END -->
 </p>
 
