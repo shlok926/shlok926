@@ -14,7 +14,7 @@
 
 <p align="center">
   <!-- WEATHER_START -->
-  📍 **Pune, India** | 🕒 **IST (UTC+5:30)** | ⛅ **19.0°C**
+  📍 **Pune, India** | 🕒 **IST (UTC+5:30)**
   <!-- WEATHER_END -->
 </p>
 
@@ -34,12 +34,12 @@ I build at the intersection of Cyber Security, Artificial Intelligence, and Quan
 ##  Daily Updates
 > **🐛 Latest CVE:** <br/>
 > <!-- CVE_START -->
-  <a href="https://thehackernews.com/2026/11/researchers-claim-two-rce-exploits-that.html" target="_blank">Researchers Claim Two RCE Exploits That Bypass Telegram’s New Android Defenses</a>
+  <a href="https://thehackernews.com/2026/11/eggstreme-hackers-rebuild-malware-with.html" target="_blank">New EggStreme Malware Variant Goes Silent to Evade Security Tools in Government Attacks</a>
   <!-- CVE_END -->
 
 > **📰 Latest Tech News:** <br/>
 > <!-- NEWS_START -->
-  <a href="https://calif.io/java4shell/" target="_blank">Java4Shell: RCE in OpenJDK when processing Base64</a>
+  <a href="https://techstackups.com/articles/quad9-leaves-france-dns-blocking/" target="_blank">Quad9 Is Leaving France: Why DNS Resolvers Are the Wrong Place to Fight Piracy</a>
   <!-- NEWS_END -->
 
 
@@ -63,7 +63,7 @@ I build at the intersection of Cyber Security, Artificial Intelligence, and Quan
 ---
 <p align="center">
   <!-- QUOTE_START -->
-  <i>"By far, the greatest danger of Artificial Intelligence is that people conclude too early that they understand it." – Eliezer Yudkowsky</i>
+  <i>"Privacy is not an option, and it shouldn't be the price we accept for just getting on the internet." – Gary Kovacs</i>
   <!-- QUOTE_END -->
 </p>
 
