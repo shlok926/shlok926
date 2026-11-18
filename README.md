@@ -14,7 +14,7 @@
 
 <p align="center">
   <!-- WEATHER_START -->
-  📍 **Pune, India** | 🕒 **IST (UTC+5:30)**
+  📍 **Pune, India** | 🕒 **IST (UTC+5:30)** | ⛅ **19.0°C**
   <!-- WEATHER_END -->
 </p>
 
@@ -34,12 +34,12 @@ I build at the intersection of Cyber Security, Artificial Intelligence, and Quan
 ##  Daily Updates
 > **🐛 Latest CVE:** <br/>
 > <!-- CVE_START -->
-  <a href="https://thehackernews.com/2026/11/hackers-found-way-around-github-sha.html" target="_blank">Hackers Found a Way Around GitHub SHA Pinning. This Webinar Explains How to Close the Gap</a>
+  <a href="https://thehackernews.com/2026/11/researchers-claim-two-rce-exploits-that.html" target="_blank">Researchers Claim Two RCE Exploits That Bypass Telegram’s New Android Defenses</a>
   <!-- CVE_END -->
 
 > **📰 Latest Tech News:** <br/>
 > <!-- NEWS_START -->
-  <a href="https://jordankrueger.com/blog/better-open-source-not-more-apps/" target="_blank">We don't need more apps. We need better open source</a>
+  <a href="https://calif.io/java4shell/" target="_blank">Java4Shell: RCE in OpenJDK when processing Base64</a>
   <!-- NEWS_END -->
 
 
@@ -63,7 +63,7 @@ I build at the intersection of Cyber Security, Artificial Intelligence, and Quan
 ---
 <p align="center">
   <!-- QUOTE_START -->
-  <i>"Security is a process, not a product." – Bruce Schneier</i>
+  <i>"By far, the greatest danger of Artificial Intelligence is that people conclude too early that they understand it." – Eliezer Yudkowsky</i>
   <!-- QUOTE_END -->
 </p>
 
