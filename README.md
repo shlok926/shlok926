@@ -14,7 +14,7 @@
 
 <p align="center">
   <!-- WEATHER_START -->
-  📍 **Pune, India** | 🕒 **IST (UTC+5:30)**
+  📍 **Pune, India** | 🕒 **IST (UTC+5:30)** | ⛅ **18.6°C**
   <!-- WEATHER_END -->
 </p>
 
@@ -34,12 +34,12 @@ I build at the intersection of Cyber Security, Artificial Intelligence, and Quan
 ##  Daily Updates
 > **🐛 Latest CVE:** <br/>
 > <!-- CVE_START -->
-  <a href="https://thehackernews.com/2026/11/eggstreme-hackers-rebuild-malware-with.html" target="_blank">New EggStreme Malware Variant Goes Silent to Evade Security Tools in Government Attacks</a>
+  <a href="https://thehackernews.com/2026/11/10-year-old-nginx-http2-flaw-lets.html" target="_blank">10-Year-Old NGINX HTTP/2 Flaw Lets Unauthenticated Attackers Execute Code on Servers</a>
   <!-- CVE_END -->
 
 > **📰 Latest Tech News:** <br/>
 > <!-- NEWS_START -->
-  <a href="https://techstackups.com/articles/quad9-leaves-france-dns-blocking/" target="_blank">Quad9 Is Leaving France: Why DNS Resolvers Are the Wrong Place to Fight Piracy</a>
+  <a href="https://www.wiz.io/blog/nginx-http2-rce-vulnerabilities" target="_blank">Unauthenticated remote code execution in Nginx</a>
   <!-- NEWS_END -->
 
 
@@ -63,7 +63,7 @@ I build at the intersection of Cyber Security, Artificial Intelligence, and Quan
 ---
 <p align="center">
   <!-- QUOTE_START -->
-  <i>"Privacy is not an option, and it shouldn't be the price we accept for just getting on the internet." – Gary Kovacs</i>
+  <i>"The only truly secure system is one that is powered off, cast in a block of concrete and sealed in a lead-lined room with armed guards - and even then I have my doubts." – Gene Spafford</i>
   <!-- QUOTE_END -->
 </p>
 
