@@ -14,7 +14,7 @@
 
 <p align="center">
   <!-- WEATHER_START -->
-  📍 **Pune, India** | 🕒 **IST (UTC+5:30)** | ⛅ **16.6°C**
+  📍 **Pune, India** | 🕒 **IST (UTC+5:30)**
   <!-- WEATHER_END -->
 </p>
 
@@ -63,7 +63,7 @@ I build at the intersection of Cyber Security, Artificial Intelligence, and Quan
 ---
 <p align="center">
   <!-- QUOTE_START -->
-  <i>"We are entering a new world. The technologies of machine learning, speech recognition, and natural language understanding are reaching a nexus of capability." – Bill Gates</i>
+  <i>"There are only two types of companies: those that have been hacked, and those that will be." – Robert Mueller</i>
   <!-- QUOTE_END -->
 </p>
 
