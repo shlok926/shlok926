@@ -14,7 +14,7 @@
 
 <p align="center">
   <!-- WEATHER_START -->
-  📍 **Pune, India** | 🕒 **IST (UTC+5:30)**
+  📍 **Pune, India** | 🕒 **IST (UTC+5:30)** | ⛅ **20.0°C**
   <!-- WEATHER_END -->
 </p>
 
@@ -34,12 +34,12 @@ I build at the intersection of Cyber Security, Artificial Intelligence, and Quan
 ##  Daily Updates
 > **🐛 Latest CVE:** <br/>
 > <!-- CVE_START -->
-  <a href="https://thehackernews.com/2026/11/whatsapp-patches-3-security-flaws.html" target="_blank">WhatsApp Patches 3 Security Flaws, Including Android Bug Suspected of Use in Scams</a>
+  <a href="https://thehackernews.com/2026/11/a-single-malicious-webpage-let.html" target="_blank">A Single Malicious Webpage Let Researchers Hijack Meta Muse and Access Private Chats</a>
   <!-- CVE_END -->
 
 > **📰 Latest Tech News:** <br/>
 > <!-- NEWS_START -->
-  <a href="https://math216.wordpress.com/2026/11/20/hurried-announcement-alessandro-masullo-grh/" target="_blank">Hurried Announcement: Alessandro Masullo GRH</a>
+  <a href="https://github.com/ShinMegamiBoson/lookatmyquant" target="_blank">Inkling-2-Mini in 5.4 GB Memory</a>
   <!-- NEWS_END -->
 
 
@@ -63,7 +63,7 @@ I build at the intersection of Cyber Security, Artificial Intelligence, and Quan
 ---
 <p align="center">
   <!-- QUOTE_START -->
-  <i>"There are only two types of companies: those that have been hacked, and those that will be." – Robert Mueller</i>
+  <i>"By far, the greatest danger of Artificial Intelligence is that people conclude too early that they understand it." – Eliezer Yudkowsky</i>
   <!-- QUOTE_END -->
 </p>
 
