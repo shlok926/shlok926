@@ -14,7 +14,7 @@
 
 <p align="center">
   <!-- WEATHER_START -->
-  📍 **Pune, India** | 🕒 **IST (UTC+5:30)**
+  📍 **Pune, India** | 🕒 **IST (UTC+5:30)** | ⛅ **20.6°C**
   <!-- WEATHER_END -->
 </p>
 
@@ -34,12 +34,12 @@ I build at the intersection of Cyber Security, Artificial Intelligence, and Quan
 ##  Daily Updates
 > **🐛 Latest CVE:** <br/>
 > <!-- CVE_START -->
-  <a href="https://thehackernews.com/2026/11/openrouter-drops-3-providers-after.html" target="_blank">OpenRouter Drops 3 Providers After Researchers Catch Months of Prompt Theft at AI Hosting Firms</a>
+  <a href="https://thehackernews.com/2026/11/webworm-suspected-of-modifying.html" target="_blank">Webworm Suspected of Modifying SoftEther VPN to Evade Detection and Hide Remote Access</a>
   <!-- CVE_END -->
 
 > **📰 Latest Tech News:** <br/>
 > <!-- NEWS_START -->
-  <a href="https://spelunkr.tv" target="_blank">Free alternative TV network built from the Internet Archive's forgotten videos</a>
+  <a href="https://www.cnbc.com/2026/11/23/nvidia-jensen-huang-ceo.html" target="_blank">Nvidia Reinstates Jensen Huang as CEO</a>
   <!-- NEWS_END -->
 
 
@@ -63,7 +63,7 @@ I build at the intersection of Cyber Security, Artificial Intelligence, and Quan
 ---
 <p align="center">
   <!-- QUOTE_START -->
-  <i>"Some people worry that artificial intelligence will make us feel inferior, but then, anybody in his right mind should have an inferiority complex every time he looks at a flower." – Alan Kay</i>
+  <i>"We are entering a new world. The technologies of machine learning, speech recognition, and natural language understanding are reaching a nexus of capability." – Bill Gates</i>
   <!-- QUOTE_END -->
 </p>
 
