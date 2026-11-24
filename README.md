@@ -14,7 +14,7 @@
 
 <p align="center">
   <!-- WEATHER_START -->
-  📍 **Pune, India** | 🕒 **IST (UTC+5:30)** | ⛅ **20.6°C**
+  📍 **Pune, India** | 🕒 **IST (UTC+5:30)** | ⛅ **30.8°C**
   <!-- WEATHER_END -->
 </p>
 
@@ -34,12 +34,12 @@ I build at the intersection of Cyber Security, Artificial Intelligence, and Quan
 ##  Daily Updates
 > **🐛 Latest CVE:** <br/>
 > <!-- CVE_START -->
-  <a href="https://thehackernews.com/2026/11/webworm-suspected-of-modifying.html" target="_blank">Webworm Suspected of Modifying SoftEther VPN to Evade Detection and Hide Remote Access</a>
+  <a href="https://thehackernews.com/2026/11/openai-and-cisco-unveil-ai-assisted.html" target="_blank">OpenAI and Cisco Unveil AI-Assisted Linux Security Tool to Block Exploits Before Patching</a>
   <!-- CVE_END -->
 
 > **📰 Latest Tech News:** <br/>
 > <!-- NEWS_START -->
-  <a href="https://www.cnbc.com/2026/11/23/nvidia-jensen-huang-ceo.html" target="_blank">Nvidia Reinstates Jensen Huang as CEO</a>
+  <a href="https://fzakaria.com/2026/11/23/2035-came-early" target="_blank">2035 Came Early</a>
   <!-- NEWS_END -->
 
 
@@ -63,7 +63,7 @@ I build at the intersection of Cyber Security, Artificial Intelligence, and Quan
 ---
 <p align="center">
   <!-- QUOTE_START -->
-  <i>"We are entering a new world. The technologies of machine learning, speech recognition, and natural language understanding are reaching a nexus of capability." – Bill Gates</i>
+  <i>"Privacy is not an option, and it shouldn't be the price we accept for just getting on the internet." – Gary Kovacs</i>
   <!-- QUOTE_END -->
 </p>
 
