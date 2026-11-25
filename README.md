@@ -14,7 +14,7 @@
 
 <p align="center">
   <!-- WEATHER_START -->
-  📍 **Pune, India** | 🕒 **IST (UTC+5:30)** | ⛅ **20.7°C**
+  📍 **Pune, India** | 🕒 **IST (UTC+5:30)** | ⛅ **31.5°C**
   <!-- WEATHER_END -->
 </p>
 
@@ -34,12 +34,12 @@ I build at the intersection of Cyber Security, Artificial Intelligence, and Quan
 ##  Daily Updates
 > **🐛 Latest CVE:** <br/>
 > <!-- CVE_START -->
-  <a href="https://thehackernews.com/2026/11/iran-aligned-volant-manticore-uses-ipfs.html" target="_blank">Iran-Aligned Volant Manticore Uses IPFS-Based KuboShell Backdoor in Espionage Campaigns</a>
+  <a href="https://thehackernews.com/2026/11/hackers-compromise-24-check-point.html" target="_blank">Hackers Compromise 24 Check Point Management Servers in Suspected AI-Driven Attack Campaign</a>
   <!-- CVE_END -->
 
 > **📰 Latest Tech News:** <br/>
 > <!-- NEWS_START -->
-  <a href="https://prismml.com/news/bonsai-2-5-27b" target="_blank">Ternary Bonsai 2.5 27B</a>
+  <a href="https://github.com/openai/math/blob/main/preprints/The-matrix-multiplication-exponent-is-nine-fourths-November-24-2026/paper.pdf" target="_blank">Matrix Multiplication is Θ(n^2.25) [pdf]</a>
   <!-- NEWS_END -->
 
 
@@ -63,7 +63,7 @@ I build at the intersection of Cyber Security, Artificial Intelligence, and Quan
 ---
 <p align="center">
   <!-- QUOTE_START -->
-  <i>"The only truly secure system is one that is powered off, cast in a block of concrete and sealed in a lead-lined room with armed guards - and even then I have my doubts." – Gene Spafford</i>
+  <i>"Technology trust is a good thing, but control is a better one." – Stephane Nappo</i>
   <!-- QUOTE_END -->
 </p>
 
