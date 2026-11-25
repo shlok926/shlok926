@@ -14,7 +14,7 @@
 
 <p align="center">
   <!-- WEATHER_START -->
-  📍 **Pune, India** | 🕒 **IST (UTC+5:30)** | ⛅ **31.5°C**
+  📍 **Pune, India** | 🕒 **IST (UTC+5:30)** | ⛅ **21.9°C**
   <!-- WEATHER_END -->
 </p>
 
@@ -34,12 +34,12 @@ I build at the intersection of Cyber Security, Artificial Intelligence, and Quan
 ##  Daily Updates
 > **🐛 Latest CVE:** <br/>
 > <!-- CVE_START -->
-  <a href="https://thehackernews.com/2026/11/hackers-compromise-24-check-point.html" target="_blank">Hackers Compromise 24 Check Point Management Servers in Suspected AI-Driven Attack Campaign</a>
+  <a href="https://thehackernews.com/2026/11/hackers-exploit-two-geoserver-flaws-as.html" target="_blank">Hackers Exploit Two GeoServer Flaws as Researchers Warn of Unauthenticated RCE Chains</a>
   <!-- CVE_END -->
 
 > **📰 Latest Tech News:** <br/>
 > <!-- NEWS_START -->
-  <a href="https://github.com/openai/math/blob/main/preprints/The-matrix-multiplication-exponent-is-nine-fourths-November-24-2026/paper.pdf" target="_blank">Matrix Multiplication is Θ(n^2.25) [pdf]</a>
+  <a href="https://1password.com/blog/update-on-nov-2026-security-incident" target="_blank">1Password Security Incident</a>
   <!-- NEWS_END -->
 
 
@@ -63,7 +63,7 @@ I build at the intersection of Cyber Security, Artificial Intelligence, and Quan
 ---
 <p align="center">
   <!-- QUOTE_START -->
-  <i>"Technology trust is a good thing, but control is a better one." – Stephane Nappo</i>
+  <i>"In the world of cyber security, the last thing you want is a target painted on your back." – Anonymous</i>
   <!-- QUOTE_END -->
 </p>
 
