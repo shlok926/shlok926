@@ -14,7 +14,7 @@
 
 <p align="center">
   <!-- WEATHER_START -->
-  📍 **Pune, India** | 🕒 **IST (UTC+5:30)** | ⛅ **31.5°C**
+  📍 **Pune, India** | 🕒 **IST (UTC+5:30)** | ⛅ **22.3°C**
   <!-- WEATHER_END -->
 </p>
 
@@ -34,12 +34,12 @@ I build at the intersection of Cyber Security, Artificial Intelligence, and Quan
 ##  Daily Updates
 > **🐛 Latest CVE:** <br/>
 > <!-- CVE_START -->
-  <a href="https://thehackernews.com/2026/11/drupal-warns-of-new-highly-critical.html" target="_blank">Drupal Warns of New Highly Critical Site Takeover Vulnerability Under Active Exploitation</a>
+  <a href="https://thehackernews.com/2026/11/threatsday-250-rogue-extensions-10m.html" target="_blank">ThreatsDay: 10M NGINX Services at Risk, 250+ Malicious Extensions, AI Server Hijacking + 17 More Stories</a>
   <!-- CVE_END -->
 
 > **📰 Latest Tech News:** <br/>
 > <!-- NEWS_START -->
-  <a href="https://scottaaronson.blog/?p=10379" target="_blank">Holy shit holy shit holy shit holy shit: The magnitude of what’s now happening</a>
+  <a href="https://devnull.land/amd-specific-llama-cpp" target="_blank">AMD Specific Patches for Llama.cpp</a>
   <!-- NEWS_END -->
 
 
@@ -63,7 +63,7 @@ I build at the intersection of Cyber Security, Artificial Intelligence, and Quan
 ---
 <p align="center">
   <!-- QUOTE_START -->
-  <i>"By far, the greatest danger of Artificial Intelligence is that people conclude too early that they understand it." – Eliezer Yudkowsky</i>
+  <i>"Some people worry that artificial intelligence will make us feel inferior, but then, anybody in his right mind should have an inferiority complex every time he looks at a flower." – Alan Kay</i>
   <!-- QUOTE_END -->
 </p>
 
