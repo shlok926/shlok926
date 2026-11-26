@@ -14,7 +14,7 @@
 
 <p align="center">
   <!-- WEATHER_START -->
-  📍 **Pune, India** | 🕒 **IST (UTC+5:30)** | ⛅ **21.9°C**
+  📍 **Pune, India** | 🕒 **IST (UTC+5:30)** | ⛅ **31.5°C**
   <!-- WEATHER_END -->
 </p>
 
@@ -34,12 +34,12 @@ I build at the intersection of Cyber Security, Artificial Intelligence, and Quan
 ##  Daily Updates
 > **🐛 Latest CVE:** <br/>
 > <!-- CVE_START -->
-  <a href="https://thehackernews.com/2026/11/hackers-exploit-two-geoserver-flaws-as.html" target="_blank">Hackers Exploit Two GeoServer Flaws as Researchers Warn of Unauthenticated RCE Chains</a>
+  <a href="https://thehackernews.com/2026/11/drupal-warns-of-new-highly-critical.html" target="_blank">Drupal Warns of New Highly Critical Site Takeover Vulnerability Under Active Exploitation</a>
   <!-- CVE_END -->
 
 > **📰 Latest Tech News:** <br/>
 > <!-- NEWS_START -->
-  <a href="https://1password.com/blog/update-on-nov-2026-security-incident" target="_blank">1Password Security Incident</a>
+  <a href="https://scottaaronson.blog/?p=10379" target="_blank">Holy shit holy shit holy shit holy shit: The magnitude of what’s now happening</a>
   <!-- NEWS_END -->
 
 
@@ -63,7 +63,7 @@ I build at the intersection of Cyber Security, Artificial Intelligence, and Quan
 ---
 <p align="center">
   <!-- QUOTE_START -->
-  <i>"In the world of cyber security, the last thing you want is a target painted on your back." – Anonymous</i>
+  <i>"By far, the greatest danger of Artificial Intelligence is that people conclude too early that they understand it." – Eliezer Yudkowsky</i>
   <!-- QUOTE_END -->
 </p>
 
