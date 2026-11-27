@@ -14,7 +14,7 @@
 
 <p align="center">
   <!-- WEATHER_START -->
-  📍 **Pune, India** | 🕒 **IST (UTC+5:30)** | ⛅ **31.9°C**
+  📍 **Pune, India** | 🕒 **IST (UTC+5:30)** | ⛅ **22.0°C**
   <!-- WEATHER_END -->
 </p>
 
@@ -34,12 +34,12 @@ I build at the intersection of Cyber Security, Artificial Intelligence, and Quan
 ##  Daily Updates
 > **🐛 Latest CVE:** <br/>
 > <!-- CVE_START -->
-  <a href="https://thehackernews.com/2026/11/switzerland-confirms-ai-assisted.html" target="_blank">Switzerland Confirms AI-Assisted Cyberattacks Breached Critical Infrastructure Operators</a>
+  <a href="https://thehackernews.com/2026/11/suspected-vietnam-linked-hackers-target.html" target="_blank">Suspected Vietnam-Linked Hackers Target Southeast Asia in South China Sea Espionage Campaign</a>
   <!-- CVE_END -->
 
 > **📰 Latest Tech News:** <br/>
 > <!-- NEWS_START -->
-  <a href="https://construct22.com/" target="_blank">The group chat where your AI talks behind your back</a>
+  <a href="https://www.infohawk.com/news/2026-11-27-black-friday-webrtc-skimmer" target="_blank">Credit card skimming scripts using WebRTC found on popular shopping sites</a>
   <!-- NEWS_END -->
 
 
@@ -63,7 +63,7 @@ I build at the intersection of Cyber Security, Artificial Intelligence, and Quan
 ---
 <p align="center">
   <!-- QUOTE_START -->
-  <i>"Amateurs hack systems, professionals hack people." – Bruce Schneier</i>
+  <i>"Cybersecurity is a shared responsibility, and it boils down to this: in cybersecurity, the more systems we secure, the more secure we all are." – Jeh Johnson</i>
   <!-- QUOTE_END -->
 </p>
 
