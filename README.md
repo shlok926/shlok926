@@ -14,7 +14,7 @@
 
 <p align="center">
   <!-- WEATHER_START -->
-  📍 **Pune, India** | 🕒 **IST (UTC+5:30)** | ⛅ **22.0°C**
+  📍 **Pune, India** | 🕒 **IST (UTC+5:30)** | ⛅ **31.5°C**
   <!-- WEATHER_END -->
 </p>
 
@@ -39,7 +39,7 @@ I build at the intersection of Cyber Security, Artificial Intelligence, and Quan
 
 > **📰 Latest Tech News:** <br/>
 > <!-- NEWS_START -->
-  <a href="https://www.infohawk.com/news/2026-11-27-black-friday-webrtc-skimmer" target="_blank">Credit card skimming scripts using WebRTC found on popular shopping sites</a>
+  <a href="https://unkernel.dev" target="_blank">Unkernel: Real Linux kernel, compiled to WebAssembly</a>
   <!-- NEWS_END -->
 
 
@@ -63,7 +63,7 @@ I build at the intersection of Cyber Security, Artificial Intelligence, and Quan
 ---
 <p align="center">
   <!-- QUOTE_START -->
-  <i>"Cybersecurity is a shared responsibility, and it boils down to this: in cybersecurity, the more systems we secure, the more secure we all are." – Jeh Johnson</i>
+  <i>"Amateurs hack systems, professionals hack people." – Bruce Schneier</i>
   <!-- QUOTE_END -->
 </p>
 
